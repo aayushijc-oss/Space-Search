@@ -1,0 +1,35 @@
+Deimos and Phobos Interior Explorer (DePhine) is a European mission concept to use a dedicated orbiter to explore the two moons of Mars: Phobos and Deimos.  The mission concept was proposed in 2016 to the European Space Agency's Cosmic Vision programme for launch in 2030,  but it was not chosen as a finalist for the M5 mission class.
+
+
+== Overview ==
+DePhine was proposed in 2016 to ESA's Cosmic Vision programme as an M-class (medium class) mission for launch in 2030 as the M5 mission. It was proposed by the Institute of Planetary Research of the German Aerospace Center (DLR) and a study team with representatives of the scientific community and the space industry. The mission would explore the origin and the evolution of the two Martian moons, and would also contribute to the general questions of planetary formation and the workings of the Solar System.
+The origin of the Martian moons is controversial. Phobos and Deimos both have much in common with carbonaceous C-type asteroids, with spectra, albedo, and density very similar to those of C- or D-type asteroids. Based on their similarity, one hypothesis is that both moons may be captured main-belt asteroids.  Another hypothesis is that the moons of Mars may have formed after a huge collision with a protoplanet one third the mass of Mars that formed a ring around Mars. A third hypothesis is that they may have co-accreted with the parent planet.
+
+
+== Objectives ==
+
+DePhine mission would explore the origin and the evolution of the two Martian satellites, by focusing on their interior structures and diversity. The mission would attempt to determine if Phobos and Deimos true siblings, originating from the same source and sharing the same formation scenario. It would also determine if both natural satellites are rubble piles or solid bodies, and if they possess sub-surface deposits of water ice.
+DePhine would perform gravity field mapping, direct radar observations to infer the structure of the upper layers of the moons, studies of rotational dynamics, magnetic sounding, and gamma-ray/neutron flux detections.
+
+
+== Mission architecture ==
+With the mass of Deimos and Phobos being too small to capture a satellite, it is not possible to orbit the Martian moons in the usual sense. However, orbits of a special kind, referred to as quasi-satellite orbits, can be sufficiently stable to allow many months of operations in the vicinity of the moon.
+The orbiter would initially enter a Deimos quasi-satellite orbit to carry out a comprehensive global mapping, remote sensing, and other physical parameters. The orbiter would perform between 10 and 20 low velocity flybys (<5 m/s) to increase data resolution. Each flyby event would last about 3–5 h. The spacecraft orbit would then be changed into a Phobos resonance orbit to carry out multiple close flybys and to perform similar remote sensing as for Deimos.
+
+
+== Science payload ==
+The notional science payload would include a camera system, a radio science experiment, a high/low frequency radar, a magnetometer, and a gamma ray/neutron detector, a dust detector and a solar wind sensor.
+
+
+== See also ==
+List of missions to the moons of Mars
+Proposed missions to Mars' moons
+Fobos Grunt
+Martian Moons Exploration, a planned Japanese mission
+Phobos And Deimos & Mars Environment (PADME)
+Phobos Surveyor
+Phobos program
+Phootprint
+
+
+== References ==

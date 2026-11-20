@@ -1,0 +1,23 @@
+Cosmic X-ray Background Nanosatellite-2 (CXBN-2 or CXBN 2) was a satellite and mission developed by Morehead State University to follow up on the CXBN mission launched in 2012. It was an improved version of the previous spacecraft and it increased the precision of measurements of the cosmic X-ray background in the 30–50 keV range and helped to improve understanding of the early universe.
+
+
+== Objectives ==
+The CXBN-2 mission was created in order to map the extragalactic cosmic X-ray background with the use of a Cadmium Zinc Telluride (CZT) detector. Compared to its predecessor, its CZT detector had twice the detection area. It allowed for a new, high-precision measurement of the X-ray background. It helped improve understanding of the origin and evolution of the universe through research on high-energy background radiation. It collected 3 million seconds of data throughout its lifetime.
+
+
+== Design ==
+The CXBN-2 satellite was a Sun-pointing spin-stabilized 2U CubeSat which had four solar panels which provided 15W of power. It had a 2-wall structure and braces to reinforce its body. When it was in its compact form, it occupied a volume of 10 x 10 x 20 cm.
+It had two transceivers in the Ultra high frequency and S bands for radio communication.
+
+
+== Instruments ==
+CXBN-2 contained a Cadmium Zinc Telluride Array as its X-ray detector and a magnetometer on board.
+
+
+== Launch and mission ==
+
+Cygnus OA-7 launched on April 18, 2017, as the eighth flight of the Cygnus Orbital ATK uncrewed orbital spacecraft and its seventh flight to the International Space Station (ISS) under NASA's Commercial Resupply Services. On April 22, 2017, the Cygnus spacecraft docked with the ISS.
+On May 16, 2017, the CXBN-2 satellite was deployed from the ISS via the Nanoracks CubeSat Deployer along with several other CubeSats. On March 1, 2019, it re-entered the Earth's atmosphere.
+
+
+== References ==

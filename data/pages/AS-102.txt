@@ -1,0 +1,26 @@
+AS-102 (also designated SA-7) was the seventh flight of the Saturn I launch vehicle, which carried the boilerplate Apollo spacecraft BP-15 into low Earth orbit. The test took place on September 18, 1964, lasting for five orbits (about seven and a half hours). The spacecraft and its upper stage completed 59 orbits before reentering the atmosphere and crashing in the Indian Ocean on September 22, 1964.
+
+
+== Objectives ==
+AS-102 was designed to repeat the flight of AS-101. It would once again carry a boilerplate Apollo command and service module. The only difference from Boilerplate 13 carried on AS-101 was that on Boilerplate 15, one of the simulated reaction control system thruster quads (attitude control thrusters) was instrumented to record launch temperatures and vibrations. Another major difference on AS-102 was that the launch escape system (LES) tower would be jettisoned using the launch escape and pitch control motors.
+AS-102 was the first time a Saturn rocket carried the ST-124 programmable guidance computer. Previous launches had used an onboard "black box" that was preprogrammed. On AS-102 it would be possible to reprogram the computer during flight so that any anomalous behavior could potentially be corrected.
+
+
+== Flight ==
+In early July, a small crack in engine number six was found. This meant removing the engine, the first time that the ground crew had to do this with a Saturn rocket. It was then decided to return all eight engines to the manufacturer, which meant a job that would take about ten hours because of the large number of tubes, hoses and wires that connected each engine to the rocket. The replacement delayed the launch by about two weeks, followed by another delay of several days because of Hurricanes Cleo and Dora.
+Launch was on 18 September from Cape Kennedy, Florida just before noon local time. The first stage burned for 147.7 seconds, with separation 0.8 seconds later. The second stage ignited 1.7 seconds later, and the LES jettisoned at 160.2 seconds after launch. It burned until +621.1 seconds with the stage and boilerplate in a 212.66 by 226.50 km orbit.
+The flight met all its objectives.  The spacecraft continued to transmit telemetry for five orbits and was tracked until re-entry on its 59th orbit over the Indian Ocean.
+The only anomalous event on the flight was the failure to recover the eight film-camera pods. They had landed downrange of the expected area, where Hurricane Gladys forestalled a continued search. However, two of the pods did wash ashore two months later. The pods were covered with barnacles, but the film inside was undamaged.
+
+
+== References ==
+ This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration.
+
+
+== External links ==
+
+The Apollo Spacecraft: A Chronology Archived December 9, 2017, at the Wayback Machine
+NASA Space Science Data Coordinated Archive
+Moonport: A History of Apollo Launch Facilities and Operations Archived March 18, 2011, at the Wayback Machine
+http://science.ksc.nasa.gov/history/apollo/sa-7/sa-7.html Archived May 14, 2011, at the Wayback Machine
+Stages to Saturn

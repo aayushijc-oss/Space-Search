@@ -1,0 +1,78 @@
+The Space Shuttle was a partially reusable low Earth orbital spacecraft system operated by NASA (the National Aeronautics and Space Administration). Its official program name was Space Transportation System (STS), taken from a 1969 plan for a system of reusable spacecraft of which it was the only item funded for development. Operational missions launched numerous satellites, conducted science experiments in orbit, and participated in construction and servicing of the International Space Station (ISS). The first of four orbital test flights occurred in 1981, leading to operational flights beginning in 1982.
+From 1981 to 2011 a total of 135 missions were flown, all launched from Kennedy Space Center in Florida. During that time period the fleet logged 1,322 days, 19 hours, 21 minutes and 23 seconds of flight time. The longest orbital flight of the Shuttle was STS-80 at 17 days 15 hours, while the shortest flight was STS-51-L at one minute 13 seconds when the Space Shuttle Challenger broke apart during launch. The cold morning shrank an O-ring on the right solid rocket booster causing the external fuel tank to explode. The shuttles docked with Russian space station Mir nine times and visited the ISS thirty-seven times. The highest altitude (apogee) achieved by the shuttle was 386 mi (621 km) when deploying the Hubble Space Telescope. The program flew a total of 355 people representing 16 countries, and with 852 total shuttle fliers. The Kennedy Space Center served as the landing site for 78 missions, while 54 missions landed at Edwards Air Force Base in California and one mission landed at White Sands, New Mexico.
+The first orbiter built, Enterprise, was used for atmospheric flight tests (ALT) but future plans to upgrade it to orbital capability were ultimately canceled. Four fully operational orbiters were initially built: Columbia, Challenger, Discovery, and Atlantis. Challenger and Columbia were destroyed in mission accidents in 1986 and 2003 respectively, killing a total of fourteen astronauts. A fifth operational orbiter, Endeavour, was built in 1991 to replace Challenger. The Space Shuttle was retired from service upon the conclusion of STS-135 by Atlantis on 21 July 2011.
+
+
+== Flight numbering ==
+
+The U.S. Space Shuttle program was officially referred to as the Space Transportation System (STS). Specific shuttle missions were therefore designated with the prefix "STS". Initially, the launches were given sequential numbers indicating order of launch, such as STS-7. Subsequent to the Apollo 13 mishap, due to Administrator of NASA James M. Beggs's triskaidekaphobia and consequent unwillingness to number a forthcoming flight as STS-13, beginning in 1984, each mission was assigned a code, such as STS-41-B, with the first digit (or pair of digits for years 1990 and beyond) indicating the federal fiscal year offset into the program (so 41-B was scheduled for FY 1984, 51-A through 51-L originally for FY 1985, and the third flight in FY 1985 would have been named 51-C), the second digit indicating the launch site (1 was Kennedy Space Center and 2 was Space Launch Complex 6 at Vandenberg Air Force Base, although Vandenberg was never used), and the letter indicating scheduling sequence. These codes were assigned when the launches were initially scheduled and were not changed as missions were delayed or rescheduled. The codes were adopted from STS-41-B through STS-51-L (although the highest code used was actually STS-61-C), and the sequential numbers were used internally at NASA on all processing paperwork.
+After the Challenger disaster, NASA returned to using a sequential numbering system, with the number counting from the beginning of the STS program. Unlike the initial system, however, the numbers were assigned based on the initial mission schedule, and did not always reflect actual launch order. This numbering scheme started at 26, with the first flight as STS-26R—the R suffix stood for "reflight" to disambiguate from prior missions. The suffix was used for two years through STS-33R, then the R was dropped. As a result of the changes in systems, flights under different numbering systems could have the same number with one having a letter appended, e.g. flight STS-51 (a mission carried out by Discovery in 1993) was many years after STS-51-A (Discovery's second flight in 1984). It wasn't until STS-127 in 2009 where the flight numbering system returned to a standard and consistent order.
+
+
+== Shuttle flights ==
+
+
+=== Atmospheric flight tests ===
+
+The Approach and Landing Test program encompassed 16 separate tests of Enterprise, covering taxi tests, uncrewed and crewed flights on the Shuttle Carrier Aircraft (SCA), and finally the free flight tests. The following list includes the free-flight tests, durations listed count only the orbiter free-flight time. The list does not include total time aloft along with airborne time atop of the SCA.
+
+
+=== Launches and orbital flights ===
+
+
+== Shuttle missions ==
+
+
+=== Canceled missions ===
+
+One initial RTLS abort sub-orbital test mission was canceled due to high risk. Many other planned missions were canceled due to the late development of the shuttle, and the Challenger and Columbia disasters.
+Four missions were cut short by a day or more while in orbit: STS-2 (equipment failure), STS-35 (weather), STS-44 (equipment failure), and STS-83 (equipment failure, relaunched as STS-94).
+
+
+=== Contingency missions ===
+
+STS-300 was the designation for the Space Shuttle Launch on Need (LON) missions to be launched on short notice for STS-114 and STS-121, in the event that the shuttle became disabled or damaged and could not safely return to Earth. The rescue flight for STS-115, if needed, would have been STS-301. After STS-115, the rescue mission designations were based on the corresponding regular mission that would be replaced should the rescue mission be needed. For example, the STS-116 rescue mission was branded STS-317, because the normal mission scheduled after STS-116 was STS-117. Should the rescue mission have been needed, the crew and vehicle for STS-117 would assume the rescue mission profile and become STS-317. All potential rescue missions were to be launched with a crew of four, and would return with ten or eleven crew members, depending on the number of crew launched on the rescued shuttle. Missions were expected to last approximately eleven days. None of the planned contingency missions were ever flown.
+No contingency mission was planned for STS-135, the final shuttle mission.  Instead, NASA planned to effect any required rescues one-by-one, using Russian Soyuz spacecraft.
+
+
+== Flight statistics ==
+
+
+=== Orbiters ===
+
+
+=== Flights ===
+
+
+=== Timeline of missions ===
+
+
+== See also ==
+
+International Space Station construction
+List of Buran missions
+List of human spaceflights
+List of human spaceflights to the International Space Station
+List of Soyuz missions
+List of Space Shuttle crews
+List of Space Shuttle rollbacks
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Chen, Adam (2012). Wallack, William; Gonzalez, George (eds.). Celebrating 30 years the Space Shuttle Program. Washington, D.C., United States: NASA. ISBN 978-0-16-090202-4. Retrieved 11 October 2012.
+Duggins, Pat (2007). Final Countdown: NASA and the End of the Space Shuttle Program. United States of America: University Press of Florida. ISBN 978-0-8130-3146-0.
+Goodwin, Robert (2001). Space Shuttle – STS Flights 1-5 – The NASA Mission Reports. Canada: Apogee Books. ISBN 1-896522-69-6.
+Heppenheimer, T.A. (2002). Development of the Space Shuttle: 1972–1981. United States of America: Smithsonian Press. ISBN 978-1-58834-009-2.
+Jenkins, Dennis R. (2007). Space Shuttle: The History of the National Space Transportation System. Voyageur Press. ISBN 978-0-9633974-5-4.
+
+
+== External links ==
+NASA's Shuttle and Rocket Missions
+NASA ISS Consolidated Launch Manifest
+Unofficial Space Shuttle Manifest

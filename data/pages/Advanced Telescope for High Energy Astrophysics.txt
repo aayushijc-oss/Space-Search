@@ -1,0 +1,65 @@
+Advanced Telescope for High-ENergy Astrophysics (Athena) is an X-ray observatory mission selected by European Space Agency (ESA) within its Cosmic Vision program to address the 'Hot and Energetic Universe' scientific theme. The primary goals of the mission are to map hot gas structures, determine their physical properties, and search for supermassive black holes.
+Athena will operate in the energy range of 0.2–12 keV and will offer spectroscopic and imaging capabilities exceeding those of currently operating X-ray telescopes—e.g. the Chandra X-ray Observatory and XMM-Newton—by at least one order of magnitude on multiple different parameters.
+
+
+== History and development ==
+The mission has its roots in two concepts from the early 2000s, XEUS of ESA and Constellation-X Observatory (Con-X) of NASA. Around 2008, these two proposals were merged into the joint NASA/ESA/JAXA International X-ray Observatory (IXO) proposal. In 2011, IXO was withdrawn and then ESA decided to proceed with a cost-reduced modification, which became known as ATHENA. Athena was selected in 2014 to become the second (L2) L-class Cosmic Vision mission, addressing the Hot and Energetic Universe science theme.
+The scientific advice for the Athena mission is provided by the Athena Science Study Team (ASST) composed of expert scientists from the community. The ASST was appointed by ESA on 16 July 2014. The ESA Study Scientist and Study Manager are Matteo Guainazzi and Mark Ayre respectively. Athena completed successfully its Phase A with the Mission Formulation Review on 12 November 2019.
+In 2023, the mission was rescoped as NewAthena. The next key milestone will be the mission adoption by ESA's Science Programme Committee (SPC) expected in 2027, leading to launch in 2039.
+In 2025, NASA's participation in NewAthena came into question after the Republican administration released a budget request for NASA for the fiscal year 2026, which included drastic cuts to the agency's science programmes. ESA's Director of Science Carole Mundell announced that NewAthena was among three ESA missions (together with LISA and EnVision) most impacted by this potential budget reduction on the US side and that “recovery actions” would be required.
+
+
+== Orbit ==
+An Ariane 64 launch vehicle will lift Athena into a large amplitude halo orbit around the L2 point of the Sun-Earth system. The orbit around L2 was selected due to its stable thermal environment, good sky visibility, high observing efficiency, and stable particle background. Athena will perform pre-planned scheduled observations of up to 300 celestial locations per year. A special Target of Opportunity mode will allow a re-point manoeuvre within 4 hours for 50% of any randomly occurring events in the sky.
+
+
+== Optics and instruments ==
+The Athena X-ray observatory consists of a single X-ray telescope with a 12 m focal length, with an effective area of approx. 1.4 m2 (at 1 keV) and a spatial resolution of 5 arcseconds on-axis, degrading gracefully to less than 10 arcseconds at 30 arcminutes off-axis. The mirror is based on ESA's Silicon Pore Optics (SPO) technology. SPO provides an excellent ratio of collecting area to mass, while still offering a good angular resolution. It also benefits from a high technology readiness level and a modular design highly amenable to mass production necessary to achieve the unprecedented telescope collecting area. A movable mirror assembly can focus X-rays onto either one of Athena's two instruments (WFI and X-IFU, see below) at any given time.
+Both the WFI and X-IFU successfully passed their Preliminary Requirements Reviews, on 31 October 2018 and 11 April 2019 respectively.
+
+
+=== Wide Field Imager (WFI) ===
+The Wide Field Imager (WFI) is a large field of view spectral-imaging camera based on the unique Silicon DEPFET technology, developed in the semiconductor laboratory of the Max Planck Society. The DEPFETs provide an excellent energy resolution (<170eV at 7keV), low noise, fast readout and high time resolution, with good radiation hardness. The instrument combines the Large Detector Array, which is optimized for a wide field of view observations over a 40' x 40' instantaneous sky area, with a separate Fast Detector tailored to observe the brightest point sources of the X-ray sky with high throughput and low pile-up. These capabilities, in combination with the unprecedented effective area and wide field of the Athena telescope, will provide breakthrough capabilities in X-ray imaging spectroscopy.
+The WFI is developed by an international consortium composed of ESA member states. It is led by the Max Planck Institute for Extraterrestrial Physics (DEU) with partners in Germany (ECAP, IAA Tübingen), Austria (University of Vienna), Denmark (DTU), France (CEA Saclay, Strasbourg), Italy (INAF, Bologna, Palermo), Poland (SRC PAS, NCAC PAS), the United Kingdom (University of Leicester, Open University), the United States (Pennsylvania State University (Penn State), SLAC, Massachusetts Institute of Technology (MIT), SAO), Switzerland (University of Geneva), Portugal (Institute of Astrophysics and Space Sciences), and Greece (Athens Observatory, University of Crete). The principal investigator is Kirpal Nandra, Director of the High-Energy Group at MPE.
+
+
+=== X-ray Integral Field Unit (X-IFU) ===
+The X-ray Integral Field Unit is the cryogenic X-ray spectrometer of Athena X-IFU will deliver spatially resolved X-ray spectroscopy, with a spectral resolution requirement of 2.5 eV up to 7 keV over a hexagonal field of view of 5 arc minutes (equivalent diameter). The prime detector of X-IFU is made of a large format array of Molybdenum Gold transition-edge sensors coupled to absorbers made of Au and Bi to provide the required stopping power. The pixel size corresponds to slightly less than 5 arc seconds on the sky, thus matching the angular resolution of the X-ray optics. A large part of the X-IFU related Athena science objectives relies on the observation of faint extended sources (e.g. hot gas in cluster of galaxies to measure bulk motions and turbulence or its chemical composition), imposing the lowest possible instrumental background. This is achieved by the addition of a second cryogenic detector underneath the prime focal plane array. This way non-X-ray events such as particles can be vetoed using the temporal coincidence of detecting energy in both detectors simultaneously. The focal plane array, the sensors and the cold front end electronics are cooled at a stable temperature less than 100 mK by a multi-stage cryogenic chain, assembled by a series of mechanical coolers, with interface temperatures at 15 K, 4 K and 2 K and 300 mK, pre-cooling a sub Kelvin cooler made of a 3He adsorption cooler coupled with an Adiabatic Demagnetization Refrigerator. Calibration data are acquired along with each observation from modulated X-ray sources to enable the energy calibration required to reach the targeted spectral resolution. Although an integral field unit where each and every pixel delivers a high resolution X-ray spectrum, the defocussing capability of the Athena mirror will enable the focal beam to be spread over hundreds of sensors. The X-IFU will thus be able to observe very bright X-ray sources. It will do so either with the nominal resolution, e.g. for detecting the baryons thought to reside in the Warm Hot Intergalactic Medium, using bright gamma-ray burst afterglows, as background sources shining through the cosmic web, or with a spectral resolution of 3–10 eV, e.g. for measuring the spins and characterizing the winds and outflows of bright X-ray binaries at energies where their spectral signatures are the strongest (above 5 keV).
+As of December 2018, when the X-IFU consortium was formally endorsed by ESA as being responsible for the procurement of the instrument to Athena, the X-IFU consortium gathered 11 European countries (Belgium, Czech Republic, Finland, France, Germany, Ireland, Italy, Netherlands, Poland, Spain, Switzerland), plus Japan and the United States. More than 50 research institutes are involved in the X-IFU consortium. The principal investigator of X-IFU is Didier Barret, Director of research at the research institute in astrophysics and planetology of Toulouse (IRAP-OMP, CNRS UT3-Paul Sabatier/CNES, France). Jan-Willem den Herder (SRON, The Netherlands) and Luigi Piro (INAF-IAPS, Italy) are co-principal investigators of the X-IFU. CNES manages the project, and on behalf of the X-IFU consortium, is responsible for the delivery of the instrument to ESA.
+
+
+== Athena science goals ==
+The "Hot and Energetic Universe" science theme revolves around two fundamental questions in astrophysics: How does ordinary matter assemble into the large-scale structures that we see today? And how do black holes grow and shape the Universe? Both questions can only be answered using a sensitive X-ray space observatory. Its combination of scientific performance exceeds any existing or planned X-ray missions by over one order of magnitude on several parameter spaces: effective area, weak line sensitivity, survey speed, just to mention a few. Athena will perform very sensitive measurements on a wide range of celestial objects. It will investigate the chemical evolution of the hot plasma permeating the intergalactic space in cluster of galaxies, search for elusive observational features of the Warm-Hot Intergalactic Medium, investigate powerful outflows ejected from accreting black holes across their whole mass spectrum, and study their impact on the host galaxy, and identify sizeable samples of comparatively rare populations of Active Galactic Nuclei (AGN) that are key to understanding the concurrent cosmological evolution of accreting black holes and galaxies. Among them are highly obscured and high-redshift (z≥6) AGN. Furthermore, Athena will be an X-ray observatory open to the whole astronomical community, poised to provide wide-ranging discoveries in almost all fields of modern astrophysics, with a large discovery potential of still unknown and unexpected phenomena. It represents the X-ray contribution to the fleet of large-scale observational facilities to be operational in the 2030s (incl. SKA, ELT, ALMA, LISA...).
+
+
+== The Athena Community Office ==
+The Athena Science Study Team (ASST) established the Athena Community Office (ACO) to obtain support in performing its tasks assigned by ESA, and most especially in the ASST role as "a focal point for the interests of the broad scientific community". Currently, this community is formed by more than 800 members spread around the world.
+The ACO is meant to become a focal point to facilitate the scientific exchange between the Athena activities and the scientific community at large, and to disseminate the Athena science objectives to the general public. The main tasks of the ACO can be divided into three categories:
+
+Organisational aspects and optimisation of the community efforts assisting the ASST in several aspects, as for instance helping to the promotion of Athena science capabilities in the research world, through Conferences & Workshops or supporting the production of ASST documents, including the White Papers identifying the scientific synergies of Athena with other observational facilities in the early 2030s
+Keep the Athena community informed on the status of the project with the regular release of the newsletter Archived 8 March 2022 at the Wayback Machine, brief news, weekly news on the Athena web portal and in the social channels.
+Develop communication and outreach activities, of particular interest, are the Athena nuggets Archived 9 September 2018 at the Wayback Machine.
+The ACO is led by the Instituto de Física de Cantabria (CSIC-UC). Further ACO contributors are the Université de Genève, Max Planck Institute for Extraterrestrial Physics (MPE) and L'Institut de Recherche en Astrophysique et Planétologie (IRAP).
+
+
+== See also ==
+
+Spektr-RG
+List of proposed space observatories
+Lynx X-ray Observatory, a proposed space telescope with greater angular resolution, sensitivity, and spectroscopic power
+XRISM, pathfinder mission for Athena
+List of European Space Agency programmes and missions
+
+
+== References ==
+
+
+== External links ==
+The Athena X-ray observatory: Community Support Portal
+Athena on ESA Cosmic Vision website
+Athena mission proposal video on YouTube
+The Athena Wide Field Imager website
+The Athena X-ray Integral Field Unit website
+X-IFU, unveiling the secrets of the hot and energetic Universe video on YouTube
+Silicon pore optics mirror video
+Silicon pore optics mirror animation

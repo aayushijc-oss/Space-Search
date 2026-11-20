@@ -1,0 +1,35 @@
+J002E3 is an object in space which is thought to be the S-IVB third stage of the Apollo 12 Saturn V rocket. It was discovered on September 3, 2002, by amateur astronomer Bill Yeung. Initially thought to be an asteroid, it has since been tentatively identified as the third stage of Apollo 12 Saturn V based on spectrographic evidence consistent with the titanium dioxide in the paint used on the rockets. The stage was intended to be injected into a permanent heliocentric orbit in November 1969, but is now believed instead to have gone into an unstable high Earth orbit which left Earth's proximity in 1971 and again in June 2003, with an approximately 40-year cycle between heliocentric and geocentric orbit.
+
+
+== Discovery ==
+When it was first discovered, it was quickly found that the object was in an orbit around Earth. Astronomers were surprised at this, as the Moon is the only large object in orbit around the Earth, and anything else would have been ejected long ago due to perturbations with the Earth, the Moon and the Sun.
+Therefore, it probably entered into Earth orbit very recently, yet there was no recently launched spacecraft that matched the orbit of J002E3. One explanation could have been that it was a 30 meter-wide piece of rock, but University of Arizona astronomers found that spectral observations of the object indicated a strong correlation of absorption features with a combination of human-made materials including white paint, black paint, and aluminum, consistent with Saturn V rockets. Back-tracing its orbit showed that the object had been orbiting the Sun for 31 years and had last been in the vicinity of the Earth in 1971. This seemed to suggest that it was a part of the Apollo 14 mission, but NASA knew the whereabouts of all hardware used for that mission; the third stage, for instance, was deliberately crashed into the Moon for seismic studies.
+The most likely explanation appears to be the S-IVB third stage for Apollo 12. Photometric observations of J002E3 made in February 2003 from the Air Force Maui Optical and Supercomputing Site (AMOS) matched an S-IVB light curve model consisting of a diffuse cylinder tumbling with a period of 63.46 seconds and a precession of 79 ± 10°. NASA had originally planned to direct the S-IVB into a solar orbit, but an extra long burn of the ullage motors meant that venting the remaining propellant in the tank of the S-IVB did not give the rocket stage enough energy to escape the Earth–Moon system, and instead the stage ended up in a semi-stable orbit around the Earth after passing by the Moon on 18 November 1969.
+It is thought that J002E3 left Earth orbit in June 2003, and that it may return to orbit the Earth in the mid-2040s.
+
+
+== Potential impact with Earth or Moon ==
+The object's Earth orbital paths occasionally take it within the radius of the Moon's orbit, and could result in eventual entry into Earth's atmosphere, or collision with the Moon. The Apollo 12 empty S-IVB, Instrument Unit, and spacecraft adapter base, had a mass of about 14 tonnes; 15 short tons (30,000 lb). This is less than one-fifth of the 77.1-tonne; 85.0-short-ton (169,900 lb) mass of the Skylab space station, which was constructed from a similar S-IVB and fell out of orbit on 11 July 1979. Objects with a mass of about 10 tonnes (22,000 lb; 11 short tons) enter Earth's atmosphere approximately 10 times a year, one of which impacts the Earth's surface approximately once every 10 years.
+Ten essentially similar empty S-IVB stages from Apollo, Skylab and Apollo-Soyuz Test Project missions have re-entered the atmosphere from 1966 to 1975. In all cases (including the Skylab station), the objects burned in the atmosphere and broke into relatively small pieces, rather than striking the Earth as a single mass. On the other hand, these objects entered from low Earth orbit or a ballistic trajectory, with less energy than J002E3 might possibly have if it were to enter from solar orbit.
+
+
+== See also ==
+6Q0B44E, space debris originally thought to be a meteoroid
+2006 RH120, a meteoroid originally thought to be space debris
+2007 VN84, an asteroid designation mistakenly given to the Rosetta spacecraft
+3753 Cruithne
+2020 SO
+Space debris
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+J002E3 Animations, CNEOS
+Mystery Object J002E3 Gallery, NASA
+Mystery Object Orbits Earth, NASA
+Astronomers Discover That Earth's Second Moon Wears Apollo Paint at the Wayback Machine (archived 20 August 2007), University of Arizona

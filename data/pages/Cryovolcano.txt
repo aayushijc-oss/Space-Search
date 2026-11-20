@@ -1,0 +1,126 @@
+A cryovolcano (sometimes informally referred to as an ice volcano) is a type of volcano that erupts gases and volatile material such as liquid water, ammonia, and hydrocarbons. The erupted material is collectively referred to as cryolava; it originates from a reservoir of subsurface cryomagma. Cryovolcanic eruptions can take many forms, such as fissure and curtain eruptions, effusive cryolava flows, and large-scale resurfacing, and can vary greatly in output volumes. Immediately after an eruption, cryolava quickly freezes, constructing geological features and altering the surface.
+Although rare in the inner Solar System, past and recent cryovolcanism is common on planetary objects in the outer Solar System, especially on the icy moons of the giant planets and potentially amongst the dwarf planets as well. As such, cryovolcanism is important to the geological histories of these worlds, constructing landforms or even resurfacing entire regions. Despite this, only a few eruptions have ever been observed in the Solar System. The sporadic nature of direct observations means that the true number of extant cryovolcanoes is contentious.
+Like volcanism on the terrestrial planets, cryovolcanism is driven by escaping internal heat from within a celestial object, often supplied by extensive tidal heating in the case of the moons of the giant planets. However, isolated dwarf planets are capable of retaining enough internal heat from formation and radioactive decay to drive cryovolcanism on their own, an observation which has been supported by both in situ observations by spacecraft and distant observations by telescopes.
+
+
+== Etymology and terminology ==
+The term cryovolcano was coined in 1987 by Steven K. Croft, in a conference abstract for a presentation at the Geological Society of America (GSA) meeting. The term is a compound of cryo-, from the Ancient Greek κρῠ́ος (krúos, meaning cold or frost), and volcano.
+Other terminology used to describe cryovolcanism is analogous to volcanic terminology:
+
+Cryolava and cryomagma are distinguished in a manner similar to lava and magma. Cryomagma refers to the molten or partially molten material beneath a body's surface, where it may then erupt onto the surface. If the material is still fluid, it is classified as cryolava, which can flow in cryolava channels, analogs to lava channels. Explosive eruptions may pulverize the material into a fine "ash" termed cryoclastic material. Cryoclastic material flowing downhill produces cryoclastic flows, analogs to pyroclastic flows.
+A cryovolcanic edifice is a landform constructed by cryovolcanic eruptions. These may take the form of shields (analogous to terrestrial shield volcanoes), cones (analogous to cinder cones and spatter cones), or domes (analogous to lava domes). Cryovolcanic edifices may support secondary landforms, such as caldera-like collapse structures, cryovolcanic flow channels (analogous to lava flow features), and cryovolcanic fields and plains (analogous to lava fields and plains).
+As cryovolcanism largely takes place on icy worlds, the term ice volcano is sometimes used colloquially.
+
+
+== Types of cryovolcanism ==
+
+
+=== Explosive eruptions ===
+
+Explosive cryovolcanism, or cryoclastic eruptions, is expected to be driven by the exsolvation of dissolved volatile gasses as pressure drops whilst cryomagma ascends, much like the mechanisms of explosive volcanism on terrestrial planets. Whereas terrestrial explosive volcanism is primarily driven by dissolved water (H2O), carbon dioxide (CO2), and sulfur dioxide (SO2), explosive cryovolcanism may instead be driven by methane (CH4) and carbon monoxide (CO). Upon eruption, cryovolcanic material is pulverized in violent explosions much like volcanic ash and tephra, producing cryoclastic material.
+
+
+=== Effusive eruptions ===
+Effusive cryovolcanism takes place with little to no explosive activity and is instead characterized by widespread cryolava flows which cover the pre-existing landscape. In contrast to explosive cryovolcanism, no instances of active effusive cryovolcanism have been observed. Structures constructed by effusive eruptions depend on the viscosity of the erupted material. Eruptions of less viscous cryolava can resurface large regions and form expansive, relatively flat plains, similar to shield volcanoes and flood basalt eruptions on terrestrial planets. More viscous erupted material does not travel as far, and instead can construct localized high-relief features such as cryovolcanic domes.
+
+
+== Mechanisms ==
+For cryovolcanism to occur, three conditions must be met: an ample supply of cryomagma must be produced in a reservoir, the cryomagma must have a force driving ascent, and conduits need to be formed to the surface where cryomagma is able to ascend. 
+
+
+=== Ascent ===
+A major challenge in models of cryovolcanic mechanisms is that liquid water is substantially denser than water ice, in contrast to silicates where liquid magma is less dense than solid rock. Therefore, cryomagma must overcome this in order to erupt onto a body's surface.  Planetary scientists have proposed several hypotheses to explain how cryomagma erupts onto the surface:
+
+Compositional buoyancy: the introduction of impurities such as ammonia, which is expected to be common in the outer Solar System, can help lower the densities of cryomagmas. However, the presence of impurities in cryomagma alone is unlikely to succeed in overcoming the density barrier. Conversely, the density of the ice shell can be increased through impurities as well, such as the inclusion silicate particles and salts. In particular, objects that are only partially differentiated into a rocky core and icy mantle are likely to have ice shells rich in silicate particles.
+Gas-driven buoyancy: besides affecting density, the inclusion of more volatile impurities may help decrease the density of cryomagma as it ascends by the formation of gas bubbles. The volatile compounds are fully dissolved in the cryomagma when pressurized deep beneath the surface. Should the cryomagma ascend, the cryomagma is depressurized. This leads to the exsolution of the volatiles out of the cryomagma, forming gas bubbles that help lower the density of the bulk solution.
+Internal pressurization: the progressive pressurization of a subsurface ocean as it cools and freezes may be enough to force cryomagma to ascend to the surface due to water's unusual property of expanding upon freezing. Internal ocean pressurization does not necessitate the addition of other volatile compounds.
+
+
+=== Eruption ===
+In addition to overcoming the density barrier, cryomagma also requires a way to reach the surface in order to erupt. Fractures in particular, either the result of global or localized stress in the icy crust, can provide potential eruptive conduits for cryomagma to exploit. Such stresses may come from tidal forces as an object orbits around a parent planet, especially if the object is on an eccentric orbit or if its orbit changes. True polar wander, where the object's surface shifts relative to its rotational axis, can introduce deformities in the ice shell. Impact events also provide an additional source of fracturing by violently disrupting and weakening the crust. 
+An alternative model for cryovolcanic eruptions invokes solid-state convection and diapirism. If a portion of an object's ice shell is warm and ductile enough, it could begin to convect, much as the Earth's mantle does. As the ice convects, warmer ice becomes buoyant relative to surrounding colder ice, rising towards the surface. The convection can be aided by local density differences in the ice due to an uneven distribution of impurities in the ice shell. If the warm ice intrudes on particularly impure ice (such as ice containing large amounts of salts), the warm ice can lead to the melting of the impure ice. The melting may then go on to erupt or uplift terrain to form surface diapirs.
+
+
+=== Cryomagma reservoirs ===
+
+Cryovolcanism implies the generation of large volumes of molten fluid in the interiors of icy worlds. A primary reservoir of such fluid are subsurface oceans. Subsurface oceans are widespread amongst the icy satellites of the giant planets and are largely maintained by tidal heating, where the moon's slightly eccentric orbit allows the rocky core to dissipate energy and generate heat. Evidence for subsurface oceans also exist for the dwarf planets Pluto and, to a lesser extent, Ceres, Eris, Makemake, Sedna, Gonggong, and Quaoar. In the case of Pluto and the other dwarf planets, there is comparatively little, if any, long-term tidal heating. Thus, heating must largely be self-generated, primarily coming from the decay of radioactive isotopes in their rocky cores.
+Reservoirs of cryomagma can hypothetically form within the shell of an icy world as well, either from direct localized melting or the injection of cryomagma from a deeper subsurface ocean. A convective layer in the ice shell can generate warm plumes that spread laterally at the base of the brittle icy crust. The intruding warm ice can melt impure ice, forming a lens-shaped region of melting. Other proposed methods of producing localized melts include the buildup of stress within strike-slip faults, where friction may be able to generate enough heat to melt ice; and impact events that violently heat the impact site. Intrusive models, meanwhile, propose that a deeper subsurface ocean directly injects cryomagma through fractures in the ice shell, much like volcanic dike and sill systems.
+
+
+== Cryomagma composition ==
+Water is expected to be the dominant component of cryomagmas. Besides water, cryomagma may contain additional impurities, drastically changing its properties. Certain compounds can lower the density of cryomagma. Ammonia (NH3) in particular may be a common component of cryomagmas, and has been detected in the plumes of Saturn's moon Enceladus. A partially frozen ammonia-water eutectic mixture can be positively buoyant with respect to the icy crust, enabling its eruption. Methanol (CH3OH) can lower cryomagma density even further, whilst significantly increasing viscosity. Some impurities can increase the density of cryomagma. Salts, such as magnesium sulfate (MgSO4) and sodium sulfate (Na2SO4) significantly increase density with comparatively minor changes in viscosity. Salty or briny cryomagma compositions may be important for cryovolcanism on Jupiter's icy moons, where salt-dominated impurities are likely more common. Besides affecting density and viscosity, the inclusions of impurities—particularly salts and especially ammonia—can encourage melting by significantly lowering the melting point of cryomagma.
+
+
+== Observations ==
+Although there are broad parallels between cryovolcanism and terrestrial (or "silicate") volcanism, such as the construction of domes and shields, the definitive identification of cryovolcanic structures is difficult. The unusual properties of water-dominated cryolava, for example, means that cryovolcanic features are difficult to interpret using criteria applied to terrestrial volcanic features.
+
+
+=== Ceres ===
+
+Ceres is the innermost object in the Solar System known to be cryovolcanically active. Upon the arrival of the Dawn orbiter in March 2015, the dwarf planet was discovered to have numerous bright spots (designated as faculae) located within several major impact basins, most prominently in the center of Occator Crater. These bright spots are composed primarily of various salts, and are hypothesized to have formed from impact-induced upwelling of subsurface material that erupt brine to Ceres's surface. The distribution of hydrated sodium chloride on one particular bright spot, Cerealia Facula, indicates that the upwelling occurred recently or is currently ongoing. That brine exists in Ceres's interior implies that salts played a role in keeping Ceres's subsurface ocean liquid, potentially even to the present day. Dawn also discovered Ahuna Mons and Yamor Mons (formerly Ysolo Mons), two prominent isolated mountains which are likely young cryovolcanic domes. It is expected that cryovolcanic domes eventually subside after becoming extinct due to viscous relaxation, flattening them. This would explain why Ahuna Mons appears to be the most prominent construct on Ceres, despite its geologically young age.
+
+
+=== Europa ===
+
+Europa receives enough tidal heating  from Jupiter to sustain a global liquid water ocean. Its surface is exceedingly young, at roughly 60 to 90 million years old.
+ Its most striking features, a dense web of linear cracks and faults termed lineae, appear to be the sites of active resurfacing on Europa, proceeding in a manner similar to Earth's mid-ocean ridges. In addition to this, Europa may experience a form of subduction, with one block of its icy crust sliding underneath another.
+Despite its young surface age, few, if any, distinct cryovolcanoes have been definitively identified on the Europan surface in the past. Nevertheless, observations of Europa from the Hubble Space Telescope (HST) in December 2012 detected columns of excess water vapor up to 200 kilometres (120 miles) high, hinting at the existence of weak, possibly cryovolcanic plumes. The plumes were observed again by the HST in 2014. However, as these are distant observations, the plumes have yet to be definitively confirmed as eruptions. Recent analyses of some Europan surface features have proposed cryovolcanic origins for them as well. In 2011, Europa's chaos terrain, where the crust appears especially disrupted, was interpreted by a team of researchers as the site of very shallow cryomagma lakes. As these subsurface lakes melt and refreeze, they fracture Europa's crust into small blocks, creating the chaos terrain. Later, in 2023, a field of cryovolcanic cones was tentatively identified near the western edge of Argadnel Regio, a region in Europa's southern hemisphere.
+
+
+=== Ganymede ===
+Ganymede's surface, like Europa's, is heavily tectonized yet appears to have few cryovolcanic features. By 2009, at least 30 irregularly-shaped depressions (termed paterae) were identified on Ganymede's surface from Voyager and Galileo imagery. The paterae have been hypothesized by several teams of planetary scientists as caldera-like cryovolcanic vents. However, conclusive evidence for a cryovolcanic origin of these structures remains elusive in imagery.
+
+
+=== Enceladus ===
+
+Saturn's moon Enceladus is host to the most dramatic example of cryovolcanism yet observed, with a series of vents erupting 250 kilograms (550 lb) of material per second that feeds Saturn's E ring. These eruptions take place across Enceladus's south polar region, sourced from four major ridges which form a region informally known as the Tiger Stripes. Enceladus's cryovolcanic activity is sustained by a global subsurface ocean.  
+Other regions centered on Enceladus's leading and trailing hemispheres—the hemispheres that "face" towards or against the direction of Enceladus's orbit—exhibit similar terrain to that of the Tiger Stripes, possibly indicating that Enceladus has experienced discrete periods of heightened cryovolcanism in the past.
+
+
+=== Titan ===
+
+Saturn's moon Titan has a dense atmospheric haze layer which permanently obscures visible observations of its surface features, making the definitive identification of cryovolcanic structures especially difficult. Titan has an extensive subsurface ocean, encouraging searches for evidence of cryovolcanism. From Cassini radar data, several features have been proposed as candidate cryovolcanoes, most notably Doom Mons, a mountain reminiscent of a shield or dome edifice; and the neighoring Sotra Patera, an ovular depression that resembles a caldera. Several round lakes and depressions in Titan's polar regions show structural evidence of an explosive origin, including overlapping depressions, raised rims (or "ramparts"), and islands or mountains within depression rim. These characteristics led to a 2020 hypothesis by planetary scientists Charles A. Wood and Jani Radebaugh that they form from either maar-like eruptions—forming by explosions of boiling subsurface liquid as it is rapidly heated by magma (in this case, cryomagma)—or the flooding of collapse calderas.
+
+
+=== Uranian moons ===
+On 24 January 1986, Uranus and its system of moons were explored for the first time by the Voyager 2 spacecraft. Of Uranus's five major satellites, Miranda and Ariel appear to have unusually youthful surfaces indicative of relatively recent activity. Miranda in particular has extraordinarily varied terrain, with striking angular features known as the coronae cutting across older terrain. Inverness Corona is located near Miranda's south pole and is estimated to be less than 1 billion years old, and broad similarities between Miranda's coronae and Enceladus's south polar region have been noted. These characteristics have led to several teams of researchers to propose a cryovolcanic origin of the coronae, where eruptions of viscous cryomagma form the structures with some tectonic involvement. Ariel also exhibits widespread resurfacing, with large polygonal crustal blocks divided by large canyons (chasmata) with floors as young as ~0.8 ± 0.5 billion years old, while relatively flat plains may have been the site of large flood eruptions.
+Evidence for relatively recent cryovolcanism on the other three round moons of Uranus is less clear. Titania hosts large chasms but does not show any clear evidence of cryovolcanism. Oberon has a massive ~11 km (6.8 mi) high mountain that was observed on its limb at the time of Voyager 2's flyby; the precise origins of the mountain is unclear, but it may be of cryovolcanic origin.
+
+
+=== Triton ===
+
+Neptune and its largest moon Triton were explored by the Voyager 2 spacecraft on 25 August 1989, revealing Triton's surface features up close for the first time. With an estimated average surface age of 10–100 million years old, with some regions possibly being only a few million years old, Triton is one of the most geologically active worlds in the Solar System. Large-scale cryovolcanic landforms have been identified on Triton's young surface, with nearly all of Triton's observed surface features likely related to cryovolcanism. One of Triton's major cryovolcanic features, Leviathan Patera, the apparent primary vent of the Cipango Planum cryovolcanic plateau which is one of the largest volcanic or cryovolcanic edifices in the Solar System. 
+Triton hosts four walled plains: Ruach Planitia and Tuonela Planitia form a northern pair, and Sipapu Planitia and Ryugu Planitia form a southern pair. The walled plains are characterized by crenulated, irregularly-shaped cliffs that enclose a flat, young plain with a single group of pits and mounds. The walled plains are likely young cryovolcanic lakes and may represent Triton's youngest cryovolcanic features. The regions around Ruach and Tuonela feature additional smaller subcircular depressions, some of which are partially bordered by walls and scarps. In 2014, a team of planetary scientists interpreted these depressions as diapirs, caldera collapse structures, or impact craters filled in by cryolava flows. To the south of Tuonela Planitia, isolated conical hills with central depressions have been noted as resembling terrestrial cinder cones, possibly pointing to cryovolcanic activity beyond Tuonela Planitia's plains.
+Triton's southern polar ice cap is marked by a multitude of dark streaks, likely composed of organic tholins deposited by wind-blown plumes. At least two plumes, the Mahilani Plume and the Hili Plume, have been observed, with the two plumes reaching 8 kilometres (5.0 miles) in altitude. These plumes have been hypothesized by numerous teams of researchers in the early 1990s to be driven by the buildup of nitrogen gas underneath solid nitrogen ice through a sort of solid greenhouse effect; however, more recent analysis in 2022 disfavors the solid greenhouse effect model. An alternative cryovolcanic model, first proposed by R. L. Kirk and collaborators in 1995, instead suggests that the plumes represent explosive cryovolcanic eruption columns—an interpretation supported by the estimated observed output rate of ~200 kg/s, comparable to the output of Enceladus's plumes.
+
+
+=== Pluto and Charon ===
+
+The dwarf planet Pluto and its system of five moons were explored by the New Horizons spacecraft in a flyby on 14 July 2015, observing their surface features in detail for the first time. The surface of Pluto varies dramatically in age, and several regions appear to display relatively recent cryovolcanic activity. The most reliably identified cryovolcanic structures are Wright Mons and Piccard Mons, two large mountains with central depressions which have led to hypotheses that they may be cryovolcanoes with peak calderas. The two mountains are surrounded by an unusual region of hilly "hummocky terrain", and the lack of distinct flow features have led to an alternative proposal in 2022 by a team of researchers that the structures may instead be formed by sequential dome-forming eruptions, with nearby Coleman Mons being a smaller independent dome.
+Virgil Fossae, a large fault within Belton Regio, may also represent another site of cryovolcanism on Pluto. An estimated 300 kilometres (190 miles) of Virgil Fossae's western section was likely the site of a fountaining eruption, spewing and dispersing material that covered surrounding terrain up to 200 kilometres (120 miles) away. More recently, in 2021 Hekla Cavus was hypothesized to have formed from a cryovolcanic collapse by a team of two researchers, C. J. Ahrens and V. F. Chevrier. Similarly, in 2021 a team of planetary scientists led by A. Emran proposed that Kiladze, a feature that is formally classified as an impact crater, is actually a cryovolcanic caldera complex.
+Although Sputnik Planitia represents the youngest surface on Pluto, it is not a cryovolcanic structure; Sputnik Planitia continuously resurfaces itself with the convective overturning of glacial nitrogen ice, fuelled by Pluto's internal heat and sublimation into Pluto's atmosphere.
+Charon's surface dichotomy indicates that a large section of its surface may have been flooded in large, effusive eruptions, similar to the Lunar maria. These floodplains form Vulcan Planitia and may have erupted as Charon's internal ocean froze.
+
+
+=== Other dwarf planets ===
+In 2022, low-resolution near-infrared (0.7–5 μm) spectroscopic observations by the James Webb Space Telescope (JWST) detected light hydrocarbons and complex organic molecules on the surfaces of the dwarf planets Quaoar, Gonggong, and Sedna. The detection indicated that all three have experienced internal melting and planetary differentiation in their pasts. The presence of volatiles on their surfaces indicates that cryovolcanism may be resupplying methane. JWST spectral observations of Eris and Makemake revealed that hydrogen-deuterium and carbon isotopic ratios indicated that both dwarf planets are actively replenishing surface methane as well, possibly with the presence of a subsurface ocean.
+These observations, combined with the discoveries in the Pluto system by the New Horizons spacecraft, indicate that icy worlds are capable of sustaining enough heat on their own to drive cryovolcanic activity. In contrast to the icy satellites of the giant planets, where many benefit from extensive tidal heating from their parent planets, the dwarf planets must rely on heat generated primarily or almost entirely by themselves. Leftover primordial heat from formation and radiogenic heat from the decay of radioactive isotopes in their rocky cores likely serve as primary sources of heat. The serpentinization of rocky material or tidal heating from interactions with their satellites.
+
+
+== Gallery ==
+
+
+== See also ==
+List of extraterrestrial volcanoes
+Extraterrestrial liquid water – Liquid water naturally occurring outside Earth
+Planetary oceanography – Study of extraterrestrial oceans
+Ice volcano – Wave-driven mound of ice formed on terrestrial lakes
+Frazil ice – Collections of ice crystals in open water
+Pingo – Mound of earth-covered ice
+29P/Schwassmann–Wachmann – Periodic comet with 14 year orbit
+
+
+== Notes ==
+
+
+== References ==

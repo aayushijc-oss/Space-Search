@@ -1,0 +1,89 @@
+CNES (French: Centre national d'études spatiales, lit. 'National Centre for Space Studies') is the French national space agency. Headquartered in central Paris, the agency is overseen by the ministries of the Armed Forces, Economy and Finance and Higher Education, Research and Innovation.
+It operates from the Toulouse Space Centre and the Guiana Space Centre. The president of CNES is François Jacq. CNES is a member of Institute of Space, its Applications and Technologies. It is Europe's largest national organization of its type.
+
+
+== History ==
+CNES was established under President Charles de Gaulle in 1961. It is the world's third oldest space agency, after the Soviet space program (Russia), and NASA (United States). CNES was responsible for the training of French astronauts, until the last active CNES astronauts transferred to the European Space Agency in 2001.
+As of January 2015, CNES is working with Germany and a few other governments to start a modest research effort with the hope to propose a LOX/methane reusable launch vehicle by mid-2015.  If built, flight testing would likely not start before approximately 2026. The design objective is to reduce both the cost and duration of reusable vehicle refurbishment, and is partially motivated by the pressure of lower-cost competitive options with newer technological capabilities not found in the Ariane 6.
+
+
+=== Timeline ===
+
+1947: Centre interarmées d'essais d'engins spéciaux missile range and launch facility built for the French military near Hammaguir in French Algeria.
+1961: CNES was founded with the headquarter in Paris. Pierre Auger was the first president and Robert Aubinière the first director general.
+1962: First Bérénice rocket launched.
+1963: CNES became the first—and only—space agency to successfully launch a cat into space.
+1964: Diamant Launch Vehicle introduced.
+1965: First French satellite put in orbit.
+1967: Hammaguir range closed.
+1968: Toulouse Space Centre completed.
+1969: Guiana Space Centre in French Guiana completed.
+1973: Évry Space Centre completed.
+1982: Jean-Loup Chrétien became the first French astronaut in space.
+1986: SPOT satellite mission brought about high-resolution civil Earth imaging.
+2001: Jason-1, the joint satellite mission between CNES and NASA, was launched.
+2024: Space Variable Objects Monitor launched
+
+
+== Programs ==
+CNES concentrates on access to space, civil applications of space, sustainable development, science/technology research, and security/defence.
+
+
+=== Access to space ===
+
+France was the third space power (see Diamant) to achieve access to space after the USSR and US, sharing technologies with Europe to develop the Ariane launcher family. Commercial competition in space is fierce, so launch services must be tailored to space operators' needs. The latest versions of the Ariane 5 launch vehicle can launch large satellites to geosynchronous orbit or perform dual launches—launching two full-size satellites with one rocket—while the other launch vehicles used for European payloads and commercial satellites—the European/Italian Vega and Russian Soyuz-2—are small and medium-lift launchers, respectively.
+
+
+=== Sustainable development ===
+CNES and its partners in Europe—through the Copernicus Programme —and around the world have put in place satellites dedicated to observing the land, oceans, and atmosphere, as well as to hazard and crisis management. The best-known are the SPOT satellites flying the Vegetation instrument, the Topex/Poseidon, Jason-1 and Jason-2 oceanography satellites, the Argos system, Envisat, and the Pleiades satellites.
+
+
+=== Civil applications ===
+CNES is taking part in the Galileo navigation programme alongside the European Union and the European Space Agency (ESA), and—in a wider international context—in the International Cospas-Sarsat Programme.
+
+
+=== Security and defense ===
+The aforementioned Galileo navigation programme, though intended primarily for civilian navigational use, has a military purpose as well, like the similar American Global Positioning System and Russian GLONASS satellite navigational systems.
+In addition to Spot and the future Pleiades satellites, CNES is working for the defence community as prime contractor for the Helios photo-reconnaissance satellites.
+Global Monitoring for Environment and Security—a joint initiative involving the EU, ESA, and national space agencies—pools space resources to monitor the environment and protect populations, though it also encompasses satellite support for armed forces on border patrol, maritime security, and peacekeeping missions.
+
+
+=== Ongoing missions ===
+France's contribution to the International Space Station is giving French scientists the opportunity to perform original experiments in microgravity. CNES is also studying formation flying, a technique whereby several satellites fly components of a much heavier and complex instrument in a close and tightly controlled configuration, with satellites being as close as tens of meters apart. CNES is studying formation flying as part of the Swedish-led PRISMA project and on its own with the Simbol-x x-ray telescope mission.
+CNES currently collaborates with other space agencies on a number of projects, including orbital telescopes like INTErnational Gamma-Ray Astrophysics Laboratory, XMM-Newton, and COROT and space probes like Mars Express, Venus Express, Cassini-Huygens, and Rosetta. CNES has collaborated with NASA on missions like the Earth observation satellite PARASOL and the CALIPSO environment and weather satellite.
+It has also collaborated with the Indian Space Agency (ISRO) on the Megha-Tropiques Mission, which is studying the water cycle and how it has been impacted by climate change. CNES plays a major role in the ESA's Living Planet Programme of Earth observation satellites, having constructed the Soil Moisture and Ocean Salinity satellite.
+
+
+=== UFO Archive ===
+In December 2006, CNES announced that it would publish its UFO archive online by late January or mid-February. Most of the 6,000 reports have been filed by the public and airline professionals. Jacques Arnould, an official for the French Space Agency, said that the data had accumulated over a 30-year period and that UFO sightings were often reported to the Gendarmerie.
+In the last two decades of the 20th century, France was the only country whose government paid UFO investigators, employed by CNES's UFO section GEPAN, later known as SEPRA and now as GEIPAN.
+On March 22, 2007, CNES released its UFO files to the public through its website. The 100,000 pages of witness testimony, photographs, film footage, and audiotapes are an accumulation of over 1,600 sightings since 1954 and will include all future UFO reports obtained by the agency, through its GEIPAN unit.
+
+
+== Governance structure ==
+The CNES is headed by a president or CEO, a COO and a deputy CEO. The following is a list of presidents of CNES from its inception to the current day.
+
+
+== Tracking stations ==
+The CNES has several tracking stations. A partial list follows:
+
+Kourou in French Guiana
+Issus Aussaguel, 20 km away from Toulouse
+Kerguelen Island, French Southern and Antarctic Lands
+Hartebeesthoek Radio Astronomy Observatory, South Africa
+Kiruna, Sweden, for the SPOT program
+
+
+== See also ==
+French space program
+European Space Agency
+List of government space agencies
+
+
+== References ==
+
+
+== External links ==
+
+CNES — Homepage (in French)
+CNES — Homepage (in English)

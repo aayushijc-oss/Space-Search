@@ -1,0 +1,53 @@
+The European contribution to the International Space Station comes from 10 members of the European Space Agency (ESA) and amounts to an 8% share in the programme. It consists of a number of modules (primarily the Columbus laboratory) in the US Orbital Segment, ATV supply ships, launchers, software and €8 billion.
+
+
+== History ==
+
+In the 1980s, ESA devised plans for its own space station called Columbus Man-Tended Free Flyer which could be attached to NASA's Space Station Freedom. America objected to ESA's using Columbus as a building block of a future European space station, and were concerned that they would facilitate the creation of a potential competitor if the crewed space outpost fulfilled its promise as supplier of commercially viable products, such as new materials and pharmaceuticals. Plans were scaled down as a result, and by 1988, Europe proposed to participate with three elements: Attached Pressurized Module, Man Tended Free-Flying platform, plus an uncrewed polar remote sensing platform. This would be supported by the Ariane 5 rocket and the Hermes spacecraft. However, after German reunification, ESA's budget reductions meant something had to be cancelled.
+The collapse of the Soviet Union and the Space Shuttle Challenger disaster meant a radical change in plans for a space station. The US and Russia decided to cooperate on an International Space Station. ESA cancelled much of its space station programme to focus on the Columbus module, reconfigured for the ISS. The module was approved in 1995 but delays in station construction meant Columbus would not fly until 2008.
+
+
+== Modules ==
+
+ESA's largest physical contribution has been the Columbus laboratory, launched in 2008. It is a flexible and extensive scientific research facility planned to last at least 10 years. Columbus was constructed in Italy by Thales Alenia Space, an Italian and French group, with functional architecture and software designed by Airbus in Germany. Unlike other ESA built modules, Columbus is operated by ESA rather than NASA and is controlled by the Columbus Control Centre in Germany. It cost €1.4 billion (about US$2 billion) on building Columbus, including the experiments that will fly in it and the ground control infrastructure necessary to operate them.
+ESA has contributed a further two nodes (Harmony and Tranquility) which connect modules of the station and had docking ports for visiting ships. They were built by ESA in Italy for NASA and launched in 2007 and 2010. The Italian Space Agency, in addition and independently from its participation to ESA programs, also built the Multi-Purpose Logistics Module for NASA. Likewise, ESA built the Cupola module for NASA which is used for observing Canadarm and was launched in 2009.
+In 2021 the European Robotic Arm was launched and attached to the Russian module Nauka. The ERM allows servicing to the Russian segment, where the Canadarm-2 and the Japanese Experiment Module Remote Manipulator System (JEMRMS) cannot reach.
+ESA also provides the DMS-R data management system designed for the Russian segment of the ISS. It provides control, navigation, mission management and failure management for the Russian segment and is installed on the Zvezda module.
+
+
+== Automated Transfer Vehicle ==
+
+ESA developed the Automated Transfer Vehicle (ATV) as an expendable, uncrewed resupply spacecraft to resupply the ISS. It's capable of bringing 6.6 tonnes of supplies to the ISS and docking automatically. As a pressurised component it stays docked as part of the station for several months and boosts it orbit. It is then filled with waste and burnt up in the atmosphere. Five ATVs, Jules Verne, Johannes Kepler, Edoardo Amaldi, Albert Einstein, and Georges Lemaître have visited the International Space Station. No additional ATVs will be funded.
+ATV missions were monitored and controlled from the ATV Control Centre (ATV-CC) located at the Toulouse Space Centre (CST) in Toulouse, France. The centre was responsible for all planning and executing of every orbital manoeuvre and mission task of the ATV, from the moment of separation from its launch vehicle, until it would burn up in the Earth's atmosphere.
+The prime contractor for the ATV was EADS Astrium Space Transportation, leading a consortium of many sub-contractors. Development was started in Les Mureaux, France and moved to Bremen, Germany, as the project moved from its development to production stage of the four initial units starts. In order to facilitate the relationship between the contractor and ESA, an integrated ESA team at the Les Mureaux site had been established for the duration of the development. The development cost of the ATV was approximately €1.35 billion, and each ATV spacecraft costs about US$300 million, not including launch costs.
+The ATV also participated in an early round of the Commercial Orbital Transportation Services; Boeing submitted a proposal in conjunction with Arianespace to launch the ESA ATV module on a Delta IV rocket. Whereas the ESA launched the ATV on an Ariane 5, the two companies worked together to make this proposal. The ATV could carry up to 7.6 metric tons with a suitable launcher.
+
+
+== Launchers ==
+ESA's Ariane 5 act as one of the launchers for the ISS components. Guiana Space Centre provides a launch pad for Ariane and Russian Soyuz rockets. All ATV crafts were launched from Ariane rockets at Guiana.
+For human spaceflight, ESA crew members would be transported on either the Space Shuttle or various versions of the Soyuz launch vehicle. The Soyuz spacecraft is designated as an ISS lifeboat, so crews needed to train on if they stayed for along periods. This is why there is two of these three spacecraft docked to enable an ISS crew of six, or three when there is one docked. The Space Shuttle was retired in 2011, which created a human spaceflight gap for the U.S. until the launch of Crew Dragon Demo-2 on 30 May 2020.
+
+
+== Research ==
+
+ELIPS is ESA's space research programme on the ISS. Columbus provides ESA's research labs through its 10 payload racks stocked with equipment and external facilities for experiments. ESA run experiments on the ISS include an ultra-stable atomic clock, an Atmosphere-Space Interaction Monitor, an Eye tracking experiment and the Matroshka experiments.
+NASA's ISS-RapidScat was attached to and powered via the Columbus module. Its rotating microwave antenna can be seen in select ISS videos in the period from late 2014 to mid 2016 when that instrument was used.
+
+
+== Astronauts ==
+
+The first ESA astronaut to board the ISS was Umberto Guidoni on a resupply mission. The first ESA astronaut to stay on board in an expedition was Thomas Reiter in 2006. In 2009 Frank De Winne became the first European to serve as expedition commander of ISS.
+
+
+== Participants and costs ==
+In contributing to the ISS, ESA only represents 10 of its member states: Belgium, Denmark, France, Germany, Italy, Netherlands, Norway, Spain, Sweden and Switzerland. Austria, Finland, and Ireland chose not to participate, because of lack of interest or concerns about the expense of the project. The United Kingdom withdrew from the preliminary agreement because of concerns about the expense of the project. The other states joined ESA after the agreement had been signed. Non-participating ESA states were allowed access to the ISS for a 3-year trial period between 2010 and 2013.
+As of 2005, the cost estimates for the ISS were approaching €135 billion in total (development, construction and 10 years of maintaining the station) of which ESA has committed to paying €8 billion. About 90% of the costs of ESA's ISS share will be contributed by Germany (41%), France (28%) and Italy (20%).
+
+
+== Mission control centres ==
+ESA's Columbus Control Centre in Oberpfaffenhofen, near Munich, controls the European Columbus research laboratory.
+ESA's ATV Control Centre, at the Toulouse Space Centre (CST) in Toulouse, France, formerly controlled flights of the Automated Transfer Vehicle.
+German Space Operations Center
+
+
+== References ==

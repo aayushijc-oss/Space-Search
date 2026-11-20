@@ -1,0 +1,26 @@
+The Juno V series of rockets were a design that was proposed in the late 1950s but cancelled. The rockets were multi-stage and, although they failed to reach production, their sections were used in other designs. The Juno V was an eight-engine cluster concept, requiring second and third stages to make a complete booster. Depending on the stages added, the rocket would either be a Juno V-A or a Juno V-B.
+
+
+== Juno V-A ==
+
+Juno V-A was studied in 1958, as a new name for the Super-Jupiter rocket. Super-Jupiter planned on using four Rocketdyne E-1 engines in its second stage, but this project was cancelled so V-A would use the S-I first stage to propel it into space and a whole Titan I ICBM to continue the journey. Juno V-A was never developed, but all its stages were used on different launch vehicles, now retired as of today.
+
+
+== Juno V-B ==
+Juno V-B, studied in the same year as Juno V-A, was proposed for lunar and interplanetary missions into space. It was just like the Juno V-A, except the third stage, originally the second stage of a Titan I booster, would be replaced with a Centaur C high-energy third stage. A year after Juno V-B's study, the booster received a new name: the Saturn A-1, which, like the Juno series of rockets was never built in its original planned form, but all its stages were used on different launch vehicles.
+
+
+== References ==
+
+
+== External links ==
+Bilstein, Roger E, Stages to Saturn, US Government Printing Office, 1980.
+Lowther, Scott, Saturn: Development, Details, Derivatives and Descendants
+
+
+== See also ==
+S-I
+Saturn I
+Juno II
+Titan I
+Centaur

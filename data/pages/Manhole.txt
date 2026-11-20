@@ -1,0 +1,52 @@
+A manhole, also called utility hole, maintenance hole, or sewer hole, is an opening to a confined space such as a shaft, utility vault, or large vessel. Manholes, typically protected by a manhole cover, are often used as an access point for an underground public utility, allowing inspection, maintenance, and system upgrades. The majority of underground services have manholes, including water, sewers, telephone, electricity, storm drains, district heating, and gas.
+Manholes are generally found in urban areas, in streets and occasionally under sidewalks. In rural and undeveloped areas, services such as telephone and electricity are usually carried on utility poles or even pylons rather than underground.
+In Australia, manhole also commonly refers to an access hatch used to get access from a room or hallway into the ceiling cavity of a building. These manholes are typically around 450 mm × 450 mm (18 in × 18 in) square.
+
+
+== Construction ==
+
+Manhole closings are protected by a grating or manhole cover, a flat plug designed to prevent accidental or unauthorized access to the manhole. These covers are traditionally made of metal, but may be constructed from precast concrete, glass reinforced plastic or other composite materials (especially where cover theft is of concern). Because of legislation restricting acceptable manual handling weights, Europe has seen a move toward lighter-weight composite manhole cover materials, which also have the benefits of greater slip resistance and electrical insulating properties.
+Manholes are usually outfitted with metal, polypropylene, or fiberglass steps installed in the inner side of the wall to allow easy descent into the utility space.
+Manholes are usually round, primarily because roundness is the best shape to resist the compression of the earth; covers are also round because they are easier to move by rolling, and they can't fall into the opening. But in the United Kingdom they are nearly always square, or rectangular, in shape, at least at street level. Manholes can also be found in a triangular shape (e.g. in Cambridge, and surrounding villages).
+
+
+== Composite manholes ==
+Composite (fiberglass) manholes are commonly used in applications where infiltration, exfiltration, or corrosion by hydrogen sulfide (from sewer gas) are a concern, or where structures need to be factory integrated into a manhole before placement. In these manholes, the entire underground enclosure is constructed of some composite material, in addition to the cover.
+Structures that can be integrated into composite manholes include:
+
+Flow inverts
+Flumes
+Drop structures from higher elevation flows to lower elevation discharge pipes
+Weirs
+Storm water screening structures
+Sewage grinders
+Energy absorbing structures to dissipate undesirable flow stream turbulence or velocity
+
+
+== Hazards caused by manholes ==
+In urban areas, damaged or uncovered manholes and stray voltage issues have become a significant concern. 
+On January 16, 2004, Jodie S. Lane was electrocuted after stepping on a metal manhole cover, while walking her two dogs in New York City.
+Failures of underground electrical lines can cause fires and sudden releases of energy that blow manhole covers into the air and may injure pedestrians or cause property damage. Some utilities have installed safer covers that can vent hot gas while remaining attached to the ground, using metal rails.
+
+
+== Sewer manhole location ==
+
+The location of a sewer manhole must be carefully considered to ensure that the drainage system is effective and easy to maintain. According to design standards, the distance between two manholes is typically between 7 and 20 meters, depending on the specific characteristics of the project. In cities, the distance is 20 meters per manhole, while in industrial or commercial settings it is 10-15 meters per manhole. The distance between manholes in homes or restaurants is typically 7-10 meters.
+
+
+== Gallery ==
+
+
+== See also ==
+
+Packaged metering manhole
+Sanitary manhole
+
+
+== References ==
+
+Isles, Paul (2010). "Dover Engineering Works". Dover Life Magazine
+
+
+== Further reading ==
+Ascher, Kate; Marech, Wendy (2007). The works: anatomy of a city. New York: Penguin Press. ISBN 978-0-14-311270-9.

@@ -1,0 +1,107 @@
+This article documents notable spaceflight events during the year 2020.
+
+
+== Overview ==
+
+
+=== Astronomy and astrophysics ===
+The GECAM A and B satellites were launched on 9 December. They were built for research in electromagnetic counterparts of gravitational waves.
+
+
+=== Exploration of the Solar System ===
+Three missions to Mars were launched in 2020, including two rovers, two orbiters, and a lander. NASA has launched the Mars 2020 mission, which includes the Perseverance rover and Ingenuity helicopter, and will cache samples for eventual return to Earth. The China National Space Administration (CNSA) has launched its Tianwen-1 mission, which includes an orbiter, a lander, a small rover and a group of deployable and remote cameras; it is China's first mission to another planet using its own delivery vehicle. Finally, the United Arab Emirates, in partnership with American universities, has launched the Hope Mars Mission orbiter on a Japanese rocket.
+In November, China launched Chang'e 5, the first sample-return mission to the Moon since Luna 24 in 1976. Chang'e 5 used the recently developed Long March 5 heavy-lift rocket. The mission performed the first-ever robotic lunar orbit rendezvous and returned 1.7 kg (3.7 lb) of lunar soil and rock samples on 16 December.
+NASA's OSIRIS-REx mission landed on asteroid 101955 Bennu in October to obtain a surface sample for return to Earth. JAXA's Hayabusa2 mission returned samples of 162173 Ryugu to Earth on 5 December 2020, with its re-entry vehicle recovered in Woomera, Australia.
+
+
+=== Heliophysics ===
+One solar mission was launched: ESA's Solar Orbiter, on 10 February 2020, intended to study the Sun's heliosphere. Parker Solar Probe, launched in 2018, decreased its minimal distance to the Sun further to 14.2 million km.
+
+
+=== Earth sciences satellites ===
+ESA's Sentinel-6 ocean topography measuring satellite was launched on 21 November.
+The launch of the TARANIS satellite, planned to study transient events in the Earths atmosphere, failed on 17 November.
+
+
+=== Human spaceflight ===
+In the United States, SpaceX's Dragon 2 spacecraft made its first crewed flight to the International Space Station on 31 May 2020 as part of the Commercial Crew Program, enabling American human orbital spaceflight capability for the first time since the Space Shuttle's retirement in 2011. Dragon 2 became the first commercial system to fly humans to Earth orbit. The second crewed Dragon mission and its first operational mission, Crew-1, launched on 15 November 2020.
+China conducted an uncrewed flight test of a next generation crewed spacecraft in May 2020, and continues preparations for the 2021 launch of the Tianhe Core Cabin Module of the Chinese Space Station.
+NASA astronaut Christina Koch set a women's record-breaking 328 days spaceflight ending on 6 February 2020. Francisco Rubio holds the all-time American record with 370 days; Cosmonaut Valeri Polyakov, still holding the record, had the all-time spaceflight length record of 437 days but died in 2022. Koch also participated in the first all-female spacewalk with Jessica Meir on 18 October 2019.
+
+
+=== Rocket innovation ===
+SpaceX made three atmospheric test flights with prototypes of its fully reusable two-stage-to-orbit vehicle Starship.
+The trend towards cost reduction in access continued and several rockets made their maiden flights in 2020. Despite the increasing competition the cost of delivering cargo to the ISS went up.
+
+
+=== Satellite innovation ===
+SpaceX started operation of its Starlink constellation in late 2020. As of 2 December 2020, 955 satellites have been launched and Starlink is in a public beta testing phase. OneWeb planned to start service in 2020 as well, but filed for bankruptcy in March 2020 after 74 satellites were launched. OneWeb emerged from bankruptcy and plans to restart launches in December 2020.
+The Mission Extension Vehicle MEV-1 became the first telerobotically-operated spacecraft to service another satellite on-orbit when it completed the first phase of a 5-year mission to extend the life of the Intelsat 901 (I-901) satellite. In February 2020, MEV-1 captured the communications satellite, which had been moved to graveyard orbit some months before. In April 2020, MEV-1 successfully brought Intelsat-901 it back to position in geosynchronous orbit where it is now expected to operate for another five years. This was a space industry first as satellite servicing had previously been accomplished only with on-orbit human assistance, during the missions to service the Hubble Space Telescope in the early 2000s.
+
+
+== Orbital launches ==
+
+
+== Suborbital flights ==
+
+
+== Launches from the Moon ==
+
+
+== Deep-space rendezvous ==
+
+
+== Extravehicular activities (EVAs) ==
+
+
+== Orbital launch statistics ==
+
+
+=== By country ===
+For the purposes of this section, the yearly tally of orbital launches by country assigns each flight to the country of origin of the rocket, not to the launch services provider or the spaceport. For example, Soyuz launches by Arianespace in Kourou are counted under Russia because Soyuz-2 is a Russian rocket. Launches from the Moon are not included in the statistics.
+
+
+=== By rocket ===
+
+
+==== By family ====
+
+
+==== By type ====
+
+
+==== By configuration ====
+
+
+=== By spaceport ===
+
+
+=== By orbit ===
+
+
+== Suborbital launch statistics ==
+
+
+=== By country ===
+For the purposes of this section, the yearly tally of suborbital launches by country assigns each flight to the country of origin of the rocket, not to the launch services provider or the spaceport. Flights intended to fly below 80 km (50 mi) are omitted.
+
+
+== First successful orbital launch ==
+Ceres-1
+Long March 5B
+Long March 8
+Qased
+
+
+== See also ==
+Timeline of Solar System exploration#2020s
+2020 SO, a near-Earth object orbiting Earth and Sun that was confirmed to be a remnant of 1966 in spaceflight in December
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==

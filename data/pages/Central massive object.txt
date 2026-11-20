@@ -1,0 +1,16 @@
+A central massive object (CMO) is a high mass object or cluster of objects at the centre of a large star system, such as a galaxy or globular cluster. In the case of the former, the CMO may be a supermassive black hole, a nuclear star cluster, or even both together.
+The most massive galaxies are thought to always contain a supermassive black hole (SBH); these galaxies do not contain nuclear star clusters, and the CMO is identified with the SBH. Fainter galaxies usually contain a nuclear star cluster (NSC). In most of these galaxies, it is not known whether a supermassive black hole is present, and the CMO is identified with the NSC. A few galaxies, for instance the Milky Way and NGC 4395, are known to contain both a SBH and a NSC.  The co-existence of both types of central massive objects was quantified in 2009. Subsequently, a scaling relation between the mass of the supermassive black hole and the mass of the nuclear star cluster was discovered in 2016.
+Although this is suggestive that all galaxies have CMOs, and that a common mechanism of galaxy formation causes both, ESA MIRI scientist Torsten Böker observes that some galaxies appear to have neither SBHs nor NSCs.
+The mass associated with CMOs is roughly 0.1–0.3% times the total mass of the galactic bulge.
+
+
+== See also ==
+Core collapse (cluster)
+Galactic Center
+Stellar dynamics
+
+
+== References ==
+
+
+=== Bibliography ===

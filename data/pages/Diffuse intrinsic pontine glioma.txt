@@ -1,0 +1,74 @@
+Diffuse midline glioma, H3 K27-altered (DMG) is a tumour that arises in midline structures of the brain, most commonly the brainstem, thalamus and spinal cord. When located in the pons it is also known as diffuse intrinsic pontine glioma (DIPG).
+DMG is believed to be caused by genetic mutations that cause epigenetic changes in cells of the developing nervous system, resulting in a failure of the cells to properly differentiate. Currently, the standard of care is fractionated external beam radiotherapy, as the tumour location precludes surgery, and chemotherapy has shown to be ineffective. However, the estimated survival post-diagnosis remains only 9–15 months. DMGs primarily affect children:  the median age of diagnosis is around 6-7 years old.
+Current understanding has shown several genes are involved in the pathology of the glioma. The pathology is resistant to treatment, suggesting that a major driver is that cellular apoptosis mechanisms are disabled.
+
+
+== Diagnosis ==
+
+Like most brainstem tumors, diagnosing diffuse intrinsic pontine glioma usually involves non-invasive brain imaging like MRI, in addition to neurologic physical exam. Biopsies and other surgical procedures are also used when possible. Similar to DIPG, diffuse midline gliomas (DMG) often fall into similar categories for both diagnosis and treatment as DIPG and are often categorized together. More recently, biopsies are performed so that the best option for clinical trials can be chosen.
+In studies resulting from the DIPG/DMG Registry and in connection with the DIPG/DMG Collaborative, statistics reveal that approximately 150–300 patients are diagnosed with DIPG in the USA per year, the median age of patients with DIPG is approximately 6–7 years old, and the male/female ratio of DIPG patients is 1:1.
+
+
+== Treatment ==
+The standard treatment for DIPG is 6 weeks of radiation therapy, which often dramatically improves symptoms. However, symptoms usually recur after 6 to 9 months and progress rapidly.
+
+
+=== Neurosurgery ===
+
+Surgery to attempt tumour removal is usually not possible or advisable for DIPG. By nature, these tumors invade diffusely throughout the brain stem, growing between normal nerve cells. Aggressive surgery would cause severe damage to neural structures vital for arm and leg movement, eye movement, swallowing, breathing, and even consciousness.
+A surgically performed brainstem biopsy for immunotyping of diffuse intrinsic pontine glioma has served a limited role in experimental clinical studies and treatment trials. However, recent studies have shown stereotactic needle biopsies can commonly be done safely and resulted in a histological diagnosis in 96.8% of cases. This has increased the frequency that biopsies have been used for diagnosis. This, however, is not the current standard of care for all patients, as it presents considerable risk depending on the biopsy location. The decision to do a biopsy is generally only done when medical imaging appears atypical enough that a different diagnosis is possible.
+Pontine biopsy is in no way a therapeutic or curative surgery, and the risks (potentially catastrophic and fatal) are only outweighed when the diagnosis is uncertain or the patient is enrolled in an approved clinical trial.
+
+
+=== Radiotherapy ===
+
+Conventional radiotherapy, limited to the involved area of tumour, is the mainstay of treatment for DIPG. The standard treatment is a total radiation dosage ranging from 5400 to 6000 cGy, administered in daily fractions of 180 to 200 cGy (5 days/week over 6 weeks).  Hyperfractionated (twice-daily) radiotherapy was used previously to deliver higher radiation dosages, but did not lead to improved survival in clinical trials. Hyperfractionated radiotherapy is no longer commonly used due to lack of clinical support showing improved survival rates, the discomfort of two radiotherapy sessions a day, and an increased risk in damaging healthy organs due to higher dosages. Radiosurgery (e.g., gamma knife or cyberknife) has a role in the treatment of DIPG and may be considered in selected cases.
+
+
+=== Chemotherapy and other drug therapies ===
+The role of chemotherapy in DIPG remains unclear. Studies have shown little improvement in survival, although efforts (see below) through the Children's Oncology Group (COG), Paediatric Brain Tumour Consortium (PBTC), and others are underway to explore further the use of chemotherapy and other drugs. Drugs that increase the effect of radiotherapy (radiosensitizers) have shown no added benefit, but promising new agents are under investigation. Immunotherapy with beta-interferon and immune checkpoint inhibitors has also had little effect in trials. Neoepitope specific peptide vaccines targeting the clonal driver mutation H3 K27M have been shown to elicit cytotoxic T-cell and T-helper cell responses in patients with diffuse midline glioma. Intensive or high-dose chemotherapy with autologous bone marrow transplantation or peripheral blood stem cell rescue has not demonstrated any effectiveness in brain stem gliomas. Future clinical trials may involve medicines designed to interfere with cellular pathways (signal transfer inhibitors), or other approaches that alter the tumor or its environment.
+
+
+== Prognosis ==
+
+DIPG is a terminal illness, since it has a 5-year survival rate of <1%. The median overall survival of children diagnosed with DIPG is approximately 9 months. The 1- and 2-year survival rates are approximately 30% and less than 10%, respectively. These statistics make DIPG one of the most devastating pediatric cancers. Although 75–85% of patients show some improvement in their symptoms after radiation therapy, DIPGs almost always begin to grow again (called recurrence, relapse, or progression). Clinical trials have reported that the median time between radiation therapy and progression is 5–8.8 months. Patients whose tumors begin to grow again may be eligible for experimental treatment through clinical trials to try to slow or stop the growth of the tumor. However, clinical trials have not shown any significant benefit from experimental DIPG therapies so far.
+For DIPGs that progress, they usually grow quickly and affect important parts of the brain. The median time from tumor progression to death is usually very short, between 1 and 4.5 months. During this time, doctors focus on palliative care: controlling symptoms and making the patient as comfortable as possible.
+
+
+== Research ==
+
+As is the case with most brain tumors, a major difficulty in treating DIPG is overcoming the blood–brain barrier.
+In the brain – unlike in other areas of the body, where substances can pass freely from the blood into the tissue – there is very little space between the cells lining the blood vessels. Thus, the movement of substances into the brain is significantly limited. This barrier is formed by the lining cells of the vessels as well as by projections from nearby astrocytes. These two types of cells are knitted together by proteins to form what are called "tight junctions". The entire structure is called the blood–brain barrier (BBB). It prevents chemicals, toxins, bacteria, and other substances from getting into the brain, and thus serves a continuous protective function. However, with diseases such as brain tumors, the BBB can also prevent diagnostic and therapeutic agents from reaching their target.
+Researchers and clinicians have tried several methods to overcome the blood–brain barrier:
+
+Intrathecal/intraventricular administration: Chemotherapy is injected directly into the cerebrospinal fluid, either through a lumbar puncture or a surgically implanted catheter.
+Intracerebral implants: A neurosurgeon creates a cavity within a tumor to allow the placement of dime-sized chemotherapy wafers, such as Gliadel wafers. Several of these wafers can be placed at the time of surgery and will release the chemotherapy agent carmustine slowly over time. This provides a much higher concentration of chemotherapy in the brain than can be obtained with intravenous administration, and it causes fewer systemic side effects. However, it is an option only for patients with surgically resectable tumours; it cannot be used to treat DIPG.
+Osmotic blood–brain barrier disruption (BBBD): The cells of the blood–brain barrier are shrunk by a concentrated sugar solution (mannitol). This opens the barrier and allows 10 to 100 times more chemotherapy to enter the brain. A catheter is placed into a large artery (usually the one in the groin called the femoral artery) and threaded up to the carotid or vertebral artery. The hypertonic mannitol is injected, followed by a chemotherapeutic agent. Patients spend a few days in the hospital for each administration. This has been attempted with DIPG tumours.
+Convection-enhanced delivery: Chemotherapy is delivered to the tumour by a surgically implanted catheter under a pressure gradient to achieve more distribution than with diffusion alone. Limited experiments have been conducted with brain tumors, including one with a DIPG.
+Drug carriers: Carriers such as "Trojan horse" molecules, liposomes, and nanoparticles might theoretically allow a therapeutic drug to enter the brain. Such tactics are mostly in the investigatory stages and are not yet clinically relevant to brain tumour treatment.
+
+
+== Pathology ==
+The definitive genetic marker of a diffuse midline glioma is H3K27me3 loss. Diffuse midline gliomas have three known subtypes:
+
+H3K27M: Referred to as diffuse midline glioma, H3K27 mutant.
+EZHIP overexpressing: Referred to as wildtype H3K27 EZHIP-DMG.
+EGFR-mutant: Referred to as diffuse midline glioma, EGFR-altered.
+
+
+== Prominent patients ==
+Karen Armstrong (1959–1962), daughter of American astronaut Neil Armstrong and his first wife, Janet Elizabeth Shearon.
+Elena Desserich (2000–2007), daughter of Brooke and Keith Desserich.  After she died her parents founded The Cure Starts Now Foundation, the first international DIPG/DMG charity that today has funded over $12 million in research at 114 hospitals.  Her story was also chronicled in Notes Left Behind and became a New York Times bestselling book on November 12, 2009.
+Gabriella Miller (2003–2013), American childhood cancer awareness advocate who raised thousands of dollars for childhood cancer charities and founded Smashing Walnuts Foundation. The Gabriella Miller Kids First Research Act, signed into US law in 2014, was named after her.
+Lauren Hill (1995–2015), American freshman basketball player of Mount St. Joseph University, Cincinnati. To fulfil her wish of playing basketball for the college team for one game, the 2014 Hiram vs. Mount St. Joseph women's basketball game was scheduled 13 days earlier than the initially planned date and carried a brain cancer awareness message.  Her efforts resulted in over $2.2 million raised for DIPG research through The Cure Starts Now Foundation.
+Chad Carr (2010–2015), grandson of former University of Michigan football coach Lloyd Carr. The ChadTough Defeat DIPG Foundation was founded in his honor to raise money for research. The foundation united with the Michael Mosier Defeat DIPG Foundation to form one organization and as of 2021 they have raised $16 million.
+Nathaniel Kayne Finley (1999–2017), born to Curtis Lee, a former member of the U.S. Armed Forces and Kirsten Darlene Finley. Finley was a member of USA Swimming through Northern Kentucky Clippers and Daytona Beach Speed swimming clubs. Despite being diagnosed with DIPG in late 2016, Finley choose to attend LSU as a freshman in fall 2017, majoring in the College of Agriculture, Animal Sciences with aspirations of becoming a veterinarian. Prior to his death, Finley signed an advance directive, ensuring that his tumor could be donated for scientific research, and established Cannonballs for Kayne, a DIPG research foundation.
+Kevin Lobello (2015–2025), a boy who became the first person to watch A Minecraft Movie in a special screening along with actor Sebastian Hansen. He was diagnosed in 2023 and died 11 days after the screening on March 12, 2025.
+Kelley Mack (1992–2025), an actress best known for her role in season 9 of The Walking Dead. She was diagnosed in January 2025 and died August 2, 2025.                                  Amanda Somerville (born March 7, 1979) is an American singer-songwriter and vocal coach who resides in Wolfsburg, Germany. She is known primarily for her work with many European symphonic metal bands. She announced on October 11,2026 that she has been diagnosed with diffuse midline glioma (DMG). https://www.facebook.com/amandasomervilleofficial/photos/my-dear-somervillainsi-owe-you-a-personal-word-many-of-you-have-heard-by-now-the/1656489232501832/?set=a.286531782830924
+
+
+== In popular culture ==
+Notes Left Behind, a non-fictional book published in 2009, is about a girl named Elena Desserich. Desserich left hundreds of notes to her family before she died of DIPG at age 6.
+
+
+== References ==

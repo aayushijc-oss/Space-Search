@@ -1,0 +1,59 @@
+The European Data Relay System (EDRS) system is a European constellation of GEO satellites that relay information and data between satellites, spacecraft, UAVs, and ground stations. The first components (a payload and dedicated GEO satellite) were launched in 2016 and 2019.
+
+
+== Purpose and context ==
+The designers intend the system to provide almost full-time communication, even with satellites in low Earth orbit that often have reduced visibility from ground stations. It makes on-demand data available to, for example, rescue workers who want near-real-time satellite data of a crisis region.
+There are a number of key services that will benefit from this system's infrastructure:
+
+Earth Observation applications in support of time-critical and/or data-intensive services; e.g., change detection, environmental monitoring.
+Government and security services that need images from key European space systems such as Global Monitoring for Environment and Security.
+Emergency response and crisis intervention applications that need information and data over areas affected by natural or man-made disasters.
+Security forces that transmit data to Earth observation satellites, aircraft and unmanned aerial observation vehicles, to reconfigure such systems in real time.
+Weather satellite services that require the fast delivery of large quantities of data around the world.
+The system has been developed as part of the ARTES 7 programme and is intended to be an independent, European satellite system that reduces time delays in the transmission of large quantities of data. The programme is similar to the American Tracking and Data Relay Satellite System that was set up to support the Space Shuttle—but EDRS is using a new generation laser communication terminal (LCT) which carries data at a much larger bit rate: the laser terminal transmits 1.8 Gbit/s across 45,000 km (the distance of a LEO-GEO link), while the TDRSS provides ground reception rates of 600 Mbit/s in the S-band and 800 Mbit/s in the Ku- and Ka-bands.
+Such a terminal was successfully tested in 2007/8 during in-orbit verification between the German radar satellite TerraSAR-X and the American NFIRE satellite, both in LEO, when it achieved 5.5 gigabits per second. A similar LCT was installed on the commercial telecommunication satellite Alphasat.
+
+
+== Network ==
+EDRS infrastructure consists of two geostationary optical payloads and a Ka band payload, a ground system consisting of a satellite control centre, a mission and operations centre, a feeder link ground station (FLGS), and four data ground stations.
+
+
+=== Space segment ===
+The first EDRS payload, EDRS-A, comprising a laser communication terminal and a Ka band inter-satellite link, was placed on-board Eutelsat commercial telecommunication satellite, called Eutelsat 9B (COSPAR 2016-005A). The satellite was launched in January 2016 by a Proton-M rocket and will be positioned at 9°E.
+A second EDRS payload was launched aboard a dedicated spacecraft. The EDRS-C (COSPAR 2019-049A), which is also carrying a laser communication terminal, was launched on 6 August 2019 and will be positioned at 31°E. The satellite also carries a payload meant for commercial communication satellite use, the HYLAS 3 payload. Thus the satellite is sometimes referred to as EDRS-C/HYLAS 3.
+The EDRS A and C form the initial core space infrastructure that provides direct coverage for LEO satellites over Europe, the Middle East, Africa, the Americas, Asia, and the Poles. The initial plan was to develop two further spacecraft to complement the system from 2020 onwards, affording a complete coverage of the Earth and providing long-term system redundancy beyond 2030.
+
+
+=== Ground segment ===
+The ground segment of EDRS includes three ground receiving stations located at Weilheim, Germany, Redu, Belgium and Harwell, UK. The prime Mission Operations Centre is in Ottobrunn, Germany, while a backup centre is installed in Redu, Belgium.
+The EDRS-A payload as well as the EDRS-C satellite are operated by the German Space Operations Center (GSOC) of the German Aerospace Center in Oberpfaffenhofen near Munich, Germany.
+
+
+== Communications functionality ==
+
+
+== Operations ==
+The first users for EDRS were the Sentinel-1 and -2 satellites of the Copernicus Programme (formerly the Global Monitoring for Environment and Security or GMES). The Sentinel satellites provide data for the operational provision of geo-information products and services throughout Europe and the globe. EDRS provides the data relay services for the Sentinel satellites since 2016, facilitating a rapid downlink of large volumes of data (including imagery, voice, and video).
+
+
+== Implementation ==
+EDRS is being implemented as a Public Private Partnership (PPP) between the European Space Agency (ESA) and Airbus Defence & Space (ADS, former Astrium). ESA funds the infrastructure development and is the anchor customer through the Sentinel satellite missions. ADS will carry the overall responsibility for the implementation of the space segment including launch, as well as the ground segment. ADS will then take over ownership of EDRS and will provide the data transmission services to ESA and customers worldwide.
+
+As of May 2023, EDRS has over one million minutes of communications with more than 75,000 successful inter-satellite links.
+
+
+== See also ==
+Tracking and Data Relay Satellite System, of USA
+Artemis satellite – Telecommunications satellite, 2005–2014
+Laser Communications Relay Demonstration – NASA payload launched in 2021
+Indian Data Relay Satellite System
+
+
+== References ==
+
+
+== External links ==
+
+EDRS SpaceDataHighway
+EDRS at ESA website
+Redefining Satellite Data Transfer

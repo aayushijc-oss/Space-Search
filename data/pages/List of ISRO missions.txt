@@ -1,0 +1,48 @@
+This is a list of ISRO missions. ISRO has carried out 136 spacecraft missions, 106 launch missions and planned several missions including the Gaganyaan (crewed/robotic) and Interplanetary mission such as Chandrayaan-4, Lunar Polar Exploration Mission, Venus Orbiter Mission and Mars Lander Mission.
+
+
+== Completed missions ==
+
+
+=== Human Spaceflight ===
+
+
+=== Earth ===
+
+
+=== Lunar ===
+
+
+=== Solar ===
+
+
+=== Interplanetary ===
+
+
+=== Astronomy ===
+
+
+== Planned missions ==
+
+
+== Other missions ==
+There are also various Indian satellite which contain science related instruments as secondary payloads. The main objective of these satellites are not Space Science. For example, an X-ray payload was flown aboard Aryabhata, the first Indian satellite.
+The STS-51-B Space Shuttle Challenger mission consisted of Anuradha, an Indian Cosmic Ray Experiment. It consisted of a Barrel shaped recorder consisting of plastic sheets. It detected cosmic rays at the rate of seven a minute for 64 hours and produced 10000 sheets of data.
+In the SROSS-C2, satellite of the Stretched Rohini Satellite Series, a Gamma-ray burst detector was flown.
+
+
+== See also ==
+Indian Space Research Organisation
+List of Indian satellites
+List of foreign satellites launched by India
+List of Satish Dhawan Space Centre launches
+List of NASA missions
+List of European Space Agency programmes and missions
+
+
+== References ==
+
+
+== External links ==
+ISRO – official website
+ISRO Missions List: Past, Present, and Future

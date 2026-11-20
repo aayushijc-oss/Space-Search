@@ -1,0 +1,34 @@
+624 Hektor  is the largest Jupiter trojan and the namesake of the Hektor family, with a highly elongated shape equivalent in volume to a sphere of approximately 225 to 250 kilometers in diameter. It was discovered on 10 February 1907, by astronomer August Kopff at Heidelberg Observatory in southwest Germany, and named after the Trojan prince Hector, from Greek mythology. It has one small 12-kilometer sized satellite, Skamandrios, discovered in 2006.
+
+
+== Description ==
+Hektor is a D-type asteroid, dark and reddish in colour. It lies in Jupiter's leading Lagrangian point, L4, called the Greek camp after one of the two sides in the legendary Trojan War. Hektor is named after the Trojan hero Hector and is thus one of two trojan asteroids that is "misplaced" in the wrong camp (the other one being 617 Patroclus in the Trojan camp).
+
+
+== Contact-binary hypothesis ==
+
+Hektor is one of the most elongated bodies of its size in the Solar System, being approximately 403 km in its longest dimension, but averaging only around 201 km in its other dimensions, with a total volume equivalent to an approx 250 km diameter sphere, and an estimated mass of 7.9×1018 kg (thus density of 1.0 g/cm3). It is thought that Hektor might be a contact binary (two asteroids joined by gravitational attraction) like 216 Kleopatra, composed of two more rounded lobes of 220 and 183 km mean diameters. Hubble Space Telescope observations of Hektor in 1993 did not show an obvious bilobate shape because of a limited angular resolution. On 17 July 2006, the Keck 10-meter-II-telescope and its laser guide star adaptive optics (AO) system indicated a bilobate shape for Hektor, which was reinforced by later studies that, together with multiple historical lightcurves, suggest a rotation period of 6.9205 hours.
+
+
+== Skamandrios ==
+
+A 10–15-km-diameter moon, named Skamandrios, was detected orbiting 624 Hektor in 2006 with a semi-major axis of 623.5 km and an orbital period of 2.9651 days (71.162 hours). It was confirmed with Keck observations in November 2011, and was then named on 12 March 2017. No mass estimate was provided, but the equivalent volume suggests an approximate mass of 8.74×1014 kg if the two bodies are of the same density. Its orbit is highly inclined and eccentric, and it is likely that its rotation is chaotic. Marchis et al. (2014) speculate that it was ejected after a low-velocity collision produced the bilobed primary. The newly merged primary could have spun fast enough to be unstable and shed some mass. The dynamics of Skamandrios can be modeled by the restricted four-body problem.
+Hektor is the first known trojan with a satellite companion and, so far, one of only four known binary trojan asteroids in the L4 group (the others being 16974 Iphthime, 3548 Eurybates, and 15094 Polymele).
+617 Patroclus, another large trojan asteroid of the L5 group, consists of two almost equal-sized components. Two other binary asteroids are known in the L5 group, 17365 Thymbraeus and 29314 Eurydamas.
+
+
+== Studies ==
+624 Hektor was in a 2003 study of asteroids using the Hubble FGS. Asteroids studied include 63 Ausonia, 15 Eunomia, 43 Ariadne, 44 Nysa, and 624 Hektor. It has since been revisited several times, particularly as a test of the upgraded resolution of the Keck Observatory's LGS Adaptive Optics system which allowed Earth-based observation of binary asteroids for the first time. The asteroid has also been imaged by the NEOWISE and AKARI all-sky studies, which reported highly divergent size estimates of 147.4 and 231.0 kilometers, respectively. This mostly arises from large differences in estimated albedo (approximately 0.107 for NEOWISE, and a much lower 0.034 for AKARI) rather than its absolute magnitude being measured only briefly at opposing extremes of a widely varying cycle such as thought to account for the uncertainty over the size of 1173 Anchises (624 Hektor's own abs. mag. recorded as a relatively similar 7.20 and 7.49 by the two studies). It is, unusually, not included in the published IRAS results, and is therefore the largest Jupiter trojan to be omitted from that study.
+
+
+== References ==
+ 
+
+
+== External links ==
+Keck image of Hektor and moon (Marchis 2011-Nov-11)
+Distant Asteroid Revealed to be a Complex Mini Geological World (2014 February 27)
+Asteroids with Satellites, Robert Johnston, johnstonsarchive.net
+624 Hektor at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+624 Hektor at the JPL Small-Body Database

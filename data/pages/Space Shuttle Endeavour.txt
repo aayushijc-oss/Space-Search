@@ -1,0 +1,118 @@
+Space Shuttle Endeavour (Orbiter Vehicle Designation: OV-105) is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Space Shuttle Atlantis became the last shuttle to fly.
+The United States Congress approved the construction of Endeavour in 1987 to replace the Space Shuttle Challenger, which was destroyed in 1986.
+NASA chose, on cost grounds, to build much of Endeavour from spare parts rather than refitting the  Enterprise, and used structural spares built during the construction of  Discovery and  Atlantis in its assembly.
+The shuttle will be on display at the California Science Center beginning in November 2026.
+
+
+== History ==
+
+Following the loss of Challenger in 1986, NASA was authorized to begin the procurement process for a replacement orbiter. A major refit of the prototype orbiter Space Shuttle Enterprise was looked at and rejected on cost grounds. Instead, the cache of structural spares that were produced as part of the construction of Space Shuttle Discovery and Space Shuttle Atlantis earmarked for assembly into the new orbiter. Assembly was completed in July 1990, and the new orbiter was rolled out in April 1991. As part of the process, NASA ran a national competition for schools to name the new orbiter—the criteria included a requirement that it be named after an exploratory or research vessel, with a name "easily understood in the context of space"; entries included an essay about the name, the story behind it and why it was appropriate for a NASA shuttle, and the project that supported the name. Amongst the entries, Endeavour was suggested by one-third of the participating schools, with President George H. W. Bush eventually selecting it on the advice of the NASA Administrator, Richard Truly. The national winners were Senatobia Middle School in Senatobia, Mississippi, in the elementary division and Tallulah Falls School in Tallulah Falls, Georgia, in the upper school division. They were honored at several ceremonies in Washington, D.C., including a White House ceremony where President Bush presented awards to each school. Endeavour was delivered by Rockwell International Space Transportation Systems Division in May 1991 and first launched a year later, in May 1992, on STS-49.
+Endeavour cost $1.7 billion to build. The orbiter is named after HMS Endeavour, the Royal Navy ship which took Captain James Cook on his first voyage of discovery (1768–1771). This is why the name is spelled in the British English manner, rather than the American English ("Endeavor"). This has caused confusion, including when NASA itself misspelled a sign on the launch pad in 2007. The Space Shuttle carried a piece of the original wood from Cook's ship inside the cockpit.  The name also honored Endeavour, the command module of Apollo 15, which was also named for Cook's ship.
+
+
+== Service ==
+On its first mission, it captured and redeployed the stranded Intelsat VI communications satellite. The first African-American woman astronaut, Mae Jemison, was launched into space on the mission STS-47 on September 12, 1992.
+Endeavour flew the first servicing mission STS-61 for the Hubble Space Telescope in 1993. In 1997 it was withdrawn from service for eight months for a retrofit, including installation of a new airlock. In December 1998, it delivered the Unity  module to the International Space Station.
+Endeavour's last Orbiter Major Modification period began in December 2003 and ended on October 6, 2005. During this time, Endeavour received major hardware upgrades, including a new, multi-functional, electronic display system, often referred to as a glass cockpit, and an advanced GPS receiver, along with safety upgrades recommended by the Columbia Accident Investigation Board (CAIB) for the shuttle's return to flight following the loss of Columbia during reentry on February 1, 2003.
+The STS-118 mission, Endeavour's first since the refit, included astronaut Barbara Morgan, formerly assigned to the Teacher in Space project, and later a member of the Astronaut Corps from 1998 to 2008, as part of the crew. Morgan was the backup for Christa McAuliffe who was on the ill-fated mission STS-51-L in 1986.
+
+
+=== Early milestones ===
+
+
+=== Upgrades and features ===
+
+As it was constructed later than its elder sisters, Endeavour was built with new hardware designed to improve and expand orbiter capabilities. Most of this equipment was later incorporated into the other three orbiters during out-of-service major inspection and modification programs. Endeavour's upgrades include:
+
+A 40-foot (12 m) diameter drag chute that reduced the orbiter's landing roll-out distance (the runway length used for deceleration) from 3,000 feet (910 m) to 2,000 feet (610 m).
+The plumbing and electrical connections needed for Extended Duration Orbiter (EDO) modifications to allow up to a 28-day mission (although a 28-day mission was never attempted; the record is 17, which was set by  Columbia).
+Updated avionics systems that included advanced general purpose computers, improved inertial measurement units and tactical air navigation systems, enhanced master events controllers and multiplexer-demultiplexers, a solid-state star tracker and improved nose wheel steering mechanisms.
+An improved version of the Auxiliary Power Units (APUs) that provided power to operate the Shuttle's hydraulic systems.
+Modifications resulting from a 2005–2006 refit of Endeavour included:
+
+The Station-to-Shuttle Power Transfer System (SSPTS), which converted up to 8 kilowatts of DC power from the ISS main voltage of 120 V to the orbiter bus voltage of 28 V. This upgrade allowed Endeavour to remain on-orbit while docked at ISS for an additional 3- to 4-day duration. The corresponding power equipment was added to the ISS during the STS-116 station assembly mission, and Endeavour flew with SSPTS capability during STS-118.
+
+
+=== Final flights ===
+
+Endeavour flew its final mission, STS-134, to the International Space Station (ISS) in May 2011. After the conclusion of STS-134, Endeavour was formally decommissioned.
+STS-134 was intended to launch in late 2010, but on July 1 NASA released a statement saying the Endeavour mission was rescheduled for February 27, 2011.
+"The target dates were adjusted because critical payload hardware for STS-133 will not be ready in time to support the previously planned 16 September launch," NASA said in a statement. With the Discovery launch moving to November, Endeavour mission "cannot fly as planned, so the next available launch window is in February 2011," NASA said, adding that the launch dates were subject to change.
+The launch was further postponed until April to avoid a scheduling conflict with a Russian supply vehicle heading for the International Space Station. STS-134 did not launch until May 16 at 08:56 EDT.
+Endeavour landed at the Kennedy Space Center at 06:34 UTC on June 1, 2011, completing its final mission. It was the 25th night landing of a shuttle. Over its flight career, Endeavour flew 122,883,151 miles (197,761,262 km) and spent 299 days in space. During Endeavour's last mission, the Russian spacecraft Soyuz TMA-20 departed from the ISS and paused at a distance of 200 metres (660 ft). Italian astronaut Paolo Nespoli took a series of photographs and videos of the ISS with Endeavour docked. This was the second time a shuttle was photographed docked and the first time since 1996. Commander Mark Kelly was the last astronaut off Endeavour after the landing, and the crew stayed on the landing strip to sign autographs and pose for pictures.
+STS-134 was the penultimate Space Shuttle mission; STS-135 was added to the schedule in January 2011, and in July Atlantis flew for the final time.
+
+
+== Flights ==
+
+‡ Longest shuttle mission for Endeavour
+
+
+=== Tribute and mission insignias ===
+
+
+== Flow Directors ==
+The Flow Director was responsible for the overall preparation of the Shuttle for launch and processing it after landing, and remained permanently assigned to head the spacecraft's ground crew while the astronaut flight crews changed for every mission. Each Shuttle's Flow Director was supported by a Vehicle Manager for the same spacecraft. Space Shuttle Endeavour's Flow Directors were:
+
+01/1991 – ?: John J. "Tip" Talone Jr. (previously Flow Director for  Discovery)
+08/2000 – 05/2006: Tassos Abadiotakis
+STS-126 --- Ken Tenbusch
+Until 08/2012: Dana M. Hutcherson
+
+
+== Decommissioning ==
+
+After more than twenty organizations submitted proposals for the display of an orbiter, on April 12, 2011, NASA announced that the Space Shuttle Endeavour would go to the California Science Center in Los Angeles. The Space Shuttle was mounted on the Shuttle Carrier Aircraft and departed from the Kennedy Space Center on September 19, 2012, heading to the Los Angeles International Airport, with some refueling stops in Ellington Field and Edwards Air Force Base. After low level flyovers above NASA and civic landmarks across the country and in California, it was delivered to LAX on September 21. It was then hoisted off the aircraft and placed inside a United Airlines hangar to prepare for its transportation through the streets of Los Angeles.
+
+
+=== Traveling through Los Angeles ===
+
+On October 11 at 11:30pm, Endeavour left the hangar on four self-propelled robotic transporters. The orbiter slowly left the airport and was carefully transported through the streets of Los Angeles. The Space Shuttle's 12-mile (19 km) journey was meticulously measured and each move was carefully choreographed.
+In multiple locations, there were only inches of clearance for the shuttle's wide wings between telephone poles, apartment buildings and other structures. Many street light standards and traffic signals were temporarily removed as the shuttle passed through. It was necessary to remove over 400 street trees as well, some of which were fairly old, leading to concern. However, the removed trees were replaced two-for-one by the Science Center, using part of the $200 million funding for the move.
+The power had to be turned off and power carrying poles had to be removed temporarily as the orbiter crept along the streets. News crews lined the streets along the path with visible news personalities in the news trucks. Police escorts and other security personnel, among them including the LAPD, LASD, CHP, and NASA officials, controlled the large crowds gathered, with support from the LAFD and LACoFD to treat heat exhaustion victims as Endeavour made its way through the city. Endeavour was sometimes parked for a few hours at certain places, such as Randy's Donuts, and The Forum where it was available for viewing.
+
+Endeavour's route took it across the Manchester Boulevard Bridge over Interstate 405. Due to weight restrictions of the bridge, the shuttle was moved from the robotic transporters to a lighter non-powered dolly and was towed across the bridge by an unmodified Toyota Tundra. Once it had completely crossed the bridge, the shuttle was then returned to the robotic transporters to continue its course. Toyota used the footage of Endeavour crossing the bridge in a commercial for the 2013 Super Bowl, and the Tundra used to pull the shuttle was donated to the Science Center, where it became part of an exhibit on leverage.
+Having taken longer than expected, Endeavour reached the Science Center on October 14 at 7:30pm. Prior to its arrival, a building was constructed on the side of the museum to temporarily house the Space Shuttle. The Space Shuttle's entire journey through the streets of Los Angeles was often dubbed as Mission 26: The Big Endeavour, a nod to its 25 space missions during its career.
+
+
+=== California Science Center ===
+On October 30, 2012, the Space Shuttle Endeavour was opened to the public. The shuttle was on display inside the temporary Samuel Oschin Pavilion, where guests offered to not only walk around Endeavour, but also under it, as the vehicle was displayed in the horizontal atop four friction-pendulum seismic isolators to protect it from earthquakes. The shuttle remained inside the temporary pavilion until December 31, 2023. A companion exhibit inside the Science Center features images and artifacts that related the Space Shuttle program to California, where the orbiters were originally constructed.
+After its decommissioning, Endeavour's Canadarm (formally the 'Shuttle Remote Manipulator System') was removed in order to be sent to the Canadian Space Agency's John H. Chapman Space Centre in Longueuil, Quebec, a suburb of Montreal, where it was to be placed on display. In a Canadian poll on which science or aerospace museum should be selected to display the Canadarm, originally built by SPAR Aerospace, the Canadian Space Agency's headquarters placed third to last with only 35 out of 638 votes. Endeavour's Canadarm has since gone on permanent display at the Canada Aviation and Space Museum in Ottawa. In August 2015, NASA engineers removed a few of the tanks from Endeavour for reuse as storage containers for potable water on the International Space Station.
+On May 28, 2015, NASA donated the ET-94 external tank, the last mission-ready one in existence as all others were destroyed during launch. On April 12, 2016, the tank was transported by barge from the Michoud Assembly Facility in New Orleans, Louisiana, across the Panama Canal, rescued 4 people from a sinking fishing boat on its journey, and was safely docked in Marina del Rey on May 15. The tank was delivered to the Science Center on May 21. It was displayed outside the Samuel Oschin Pavilion until 2023.  On March 28, 2017, both Northrop Grumman and NASA donated a pair of flight-proven solid rocket boosters for Endeavour exhibit. The rocket parts were delivered on September 11, 2020, and were temporarily stored in the Mojave Air and Space Port in Mojave, California until construction began.
+
+
+==== Samuel Oschin Air and Space Center ====
+
+The Samuel Oschin Air and Space Center will serve as Endeavour's new permanent home. The Space Shuttle will be in a 20-story-tall display mounted on with the ET-94 tank, and solid rocket boosters. Once finished, it will be the only Space Shuttle mounted vertically in launch position.
+Originally slated to open in 2015, construction on the new building started on June 1, 2022. Meanwhile, the ET-94 tank underwent some restoration after being used to analyze the foam on its sister tank, ET-93, which was a factor during the STS-107 mission, which resulted in the Columbia disaster.
+On July 20, 2023, the assembly of the stack began with the aft skirts (bottom segments of the rocket boosters) being precisely positioned on a concrete slab supported by six base isolators that will protect Endeavour from earthquakes. The motors for the rocket boosters, which were in storage at the Mojave Air and Space Port,  were installed on October 11, 2023. The rocket boosters were fully assembled when the tops were added on December 5, 2023.
+On January 3, 2024, Endeavour was protected in a shrink wrap, likely to stay on until construction is complete. The ET-94 tank was then moved into its position in January 16 and was mounted to the rocket boosters. On January 30, the Space Shuttle was then moved into its position, thus completing the stack. Once all components are mounted into place, construction on the building will continue, as a complex diagrid structure will be built around it. Construction work on the building was slated to finish in 2025 but lasted until April 2026. It will take several more years to install the artifacts and exhibits inside the building. On June 24, 2026, it was announced the new Samuel Oschin Air and Space Center will have its grand opening on November 13, 2026.
+
+
+== Legacy ==
+
+Following their May 30, 2020, launch on board the SpaceX Crew Dragon Demo-2 vehicle, the crew announced in orbit that they had named their spacecraft Endeavour. Astronauts Bob Behnken and Doug Hurley said the name has a dual meaning: first, after the "incredible endeavor" put forth by SpaceX and NASA after the retirement of the Space Shuttle fleet in 2011; and second, because both Hurley and Behnken each flew their first flight aboard the shuttle Endeavour (Behnken on STS-123, Hurley on STS-127) and wanted to name this new spacecraft after the one that took each of them into space. The shuttle appeared in the 2022 films Moonfall and Beavis and Butt-Head Do the Universe.
+
+
+=== Replica ===
+A replica of a section of Endeavour is on exhibit outside the Discovery Cube Orange County, a science museum in Santa Ana, California. Another partial one can be found at the Cosmosphere in Hutchinson, Kansas.
+
+
+== See also ==
+
+List of human spaceflights
+List of Space Shuttle crews
+List of Space Shuttle missions
+Timeline of Space Shuttle missions
+
+
+== References ==
+
+
+== External links ==
+
+Mission Summary Archive
+NASA—Shuttle Orbiter Endeavour (OV-105) homepage Archived May 1, 2011, at the Wayback Machine
+California Science Center: Space Shuttle Endeavour homepage—final home in Exposition Park, Los Angeles
+Endeavour's trek through L.A.
+Historic American Engineering Record (HAER) No. TX-116-C, "Space Transportation System, Orbiter Endeavour (OV-105), Lyndon B. Johnson Space Center, 2101 NASA Parkway, Houston, Harris County, TX", 22 photos, 5 photo caption pages

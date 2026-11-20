@@ -1,0 +1,47 @@
+Hispasat is the operating company for a number of Spanish communications satellites that cover the Americas, Europe and North Africa from orbital positions 30.0° West and 61.0° West. It was formed in 1989 and its activities include provision of communication services in the commercial and government sectors (corporate networks, advanced telecommunications services, telephony, videoconferencing, etc.). Hispasat's fleet of satellites broadcast more than 1250 television channels and radio stations to more than 30 million homes, as well as providing services such as broadband to mobile telephones and landlines.
+The first Hispasat satellite sent into orbit was Hispasat 1A, which was launched on 11 September 1992 on board an Ariane 4 launch vehicle from the Centre Spatial Guyanais near Kourou in French Guiana. It was put into geostationary orbit at 30° West, which is the location of all their subsequent satellites serving Spain and Europe.
+
+The Amazonas satellites (61° West) were inaugurated in 2004 with the launch of Amazonas 1, which served the American market (mainly Latin America). Amazonas 2 was launched on 1 October 2009 and Amazonas 3 on 7 February 2013 replacing Amazonas 1, which was moved to a new position at 36° West in September 2013. Amazonas 4A was launched on 22 March 2014. A fifth generation of this satellite series, Amazonas 5, was launched on 11 September 2017.
+
+
+== Corporate structure and shareholders ==
+
+The Hispasat Group is formed of Hispasat S.A., its subsidiaries Hispasat Canarias, Hispamar Satellites (a joint venture with the Brazilian telephone operator Oi), Hispasat Brazil and associated companies Galileo Systems and Services.
+The range of Hispasat shareholders demonstrates the company's strategic nature both for the government and the Spanish telecommunications market. In 2012, Hispasat's shareholders included representatives from the Spanish public sector, State Industrial Holding Company (SEPI) with 7.41%, and the Centre for the Development of Industrial Technology (CDTI) with 1.85%, and Abertis, a group that specialises in the management of telecommunication's infrastructure and services, with 90.74%.
+On 21 February 2012, the press were informed that Telefónica would sell Abertis its shares in Hispasat, and the Spanish government authorised the sale in December 2012.
+Abertis bought 16.42% of Hispasat from the Spanish Ministry of Defence on 25 July 2013, taking its stake in the company to 57.05% – with France's Eutelsat holding 33.69%, Spain's SEPI 7.41% and the country's Centre for the Development of Industrial Technology 1.85%. Abertis sold its stake in Hispasat to Red Eléctrica de España, in February 2019. In early 2025, Red Electrica sold all its shares to Indra Sistemas.
+
+
+== Satellites ==
+
+
+=== Launched satellites ===
+Source: Hispasat official web site.
+
+
+=== Cancelled satellites ===
+
+
+== R+D+I projects ==
+
+Ignis: The IGNIS project (integral communications system for the control of forest fires) is part of the Spanish Ministry of Science and Innovation's Innpacto project. It was launched in September 2011 with the main objective of developing short-term solutions to improve the telecommunications used while fighting forest fires.
+Saturno: Hispasat is coordinating the SATURNO Project (SATellite Universal Redistribution NetwOrk). SATURNO is a tractor project, included within the Spanish government's 2010 Plan Avanza for R+D Competitiveness, the plan's main objective is to investigate innovative solutions for content distribution via satellites in the digital home to maximise use of existing infrastructure and develop necessary equipment and systems. Solutions developed as part of SATURNO are based on the use of high-speed IP technologies and the reuse of domestic cabling.
+Jedi: The JEDI project (Just Exploring DImensions) started in 2010 with the objective of improving knowledge regarding the different formats and technologies related to 3D TV and how it will evolve and develop for consumers. JEDI is part of a European research project, ITEA 2, which forms part of the European EUREKA initiatives. Hispasat participates in the European JEDI consortium and is also a partner in the Spanish JEDI consortium collaborating on research and development projects under the aegis of Plan Avanza.
+Phidias: PHIDIAS (Hybrid Platform for the Intelligent Diffusion of Applications and Services for Television) is an Avanza Plan project. Its objective is the development of an integrated platform for hybrid broadcast broadband television (HbbTV) that combines the broadcast and broadband delivery of television through the Internet. The aim is to investigate different alternatives for technological solutions for HbbTV by developing specific applications (social networks, personalised advertising, interactive applications etc.). The ultimate objective is to produce a working model for both terrestrial and satellite television.
+Intogener: Hispasat participates in the INTOGENER Project to design a system to more precisely measure the flow of water in mountain watersheds with the objective of making the generation of hydroelectric power more efficient and sustainable. The project started in May 2012 and will be carried out in the Chilean Andes for a period of two years with a budget of over a million euros, with 50% of the budget coming from the European Space Agency (ESA). Other collaborators include Starlab, as the project's coordinator, Endesa Chile, the Pontifical Catholic University of Chile and the consultancy Future Water, which will provide the remaining 50% of the project's budget.
+
+
+== See also ==
+
+Hisdesat, another Spanish satellite operator
+
+
+== References ==
+
+
+== External links ==
+
+Official website 
+Amazonas 2 on EADS Astrium website
+Hispasat footprint(s) at SatBeams
+Amazonas footprint(s) at SatBeams

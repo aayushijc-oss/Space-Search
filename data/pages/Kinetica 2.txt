@@ -1,0 +1,33 @@
+Kinetica 2 (Chinese: 力箭二号; pinyin: Lìjiàn èr hào; lit. 'Powerful Rocket-2', also known as Lijian-2, LJ-2) is a Chinese medium-lift orbital launch vehicle developed by CAS Space.
+
+
+== Design ==
+Kinetica 2 uses two liquid-propellant rocket stages. In its initial configuration, first stage propulsion uses a modular rocket design with three identical rockets strapped together side-by-side. It is capable of lifting 12 t (12 long tons; 13 short tons) to low Earth orbit (LEO) or 8.0 t (7.9 long tons; 8.8 short tons) to a 500 km (310 mi) Sun-synchronous orbit (SSO). In plans for the first stage and booster recovery by 2027.
+
+
+== History ==
+CAS Space conducted ground tests for the 2-stage Kinetica 2 in 2025. Its maiden flight was conducted from the Jiuquan Satellite Launch Center (JSLC) on 30 March 2026, sending two satellites and prototype cargo vessel Qingzhou for the Chinese Space Station into a SSO orbit.
+
+
+== Heavy variant ==
+A more powerful version of Kinetica 2 would have four (rather than two) boosters around the center core. In an IPO filing for trading on the Shanghai Stock Exchange, CAS Space has indicated the first flight of the Kinetica 2 Heavy is planned for 2028.
+
+
+== Launch statistics ==
+
+
+=== Launch outcomes ===
+
+
+== Launches ==
+
+
+== See also ==
+
+Comparison of orbital launcher families
+Comparison of orbital launch systems
+Expendable launch system
+Lists of rockets
+
+
+== References ==

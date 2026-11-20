@@ -1,0 +1,35 @@
+The Atlantic Constellation (Spanish: Constelación Atlántica; Portuguese: Constelação do Atlântico) is a satellite constellation of Earth observation satellites under development by Spain and Portugal, funded by the European Union (EU) and coordinated by the European Space Agency (ESA), with additional contributions by the United Kingdom (UK), via the UK Space Agency. The constellation, focused on coastal surveillance, environmental management, and climate monitoring, will consist of high and very high resolution sub-spectral and multi-spectral Earth observation satellites with revisit times of 24 hours, thrice shorter than Copernicus.
+
+
+== Satellites ==
+
+
+=== Garai precursors ===
+In 2025 and 2026, the Spanish company Satlantis launched two precursor satellites: Garai A and Garai B named after Basque explorer Juan de Garai. The satellites are testing the multispectral instruments ISIM-90 and ISIM-170.
+
+
+=== Spain ===
+Spain originally planned to contribute eight satellites as its component of the constellation (ESCA). The contract to build these was awarded to the UK-based Open Cosmos in October 2025. These satellites, expected to be delivered by 2027, will be equipped with high-resolution multispectral optical cameras, GNSS reflectometry receivers, AIS receivers, and Internet of Things connectivity. The Spanish satellites will be named by students of Spanish primary and secondary schools. In May 2026, Open Cosmos presented the final design of the eight satellites at an event in Sevilla.
+In early 2026, Spanish government approved additional €325 million for development of three further satellites as part of Atlantic Constellation expanded satellite programme ESCA+, bringing the Spanish contribution to 11.
+
+
+=== UK ===
+The UK will launch its single satellite, Atlantic Constellation Pathfinder also built by Open Cosmos, to the same orbital plane as three of the Portuguese spacecraft in 2026. This is expected to increase the revisit frequency for the first orbital plane by 33%. Open Cosmos used its ESA-supported mission MANTIS (November 2023 to October 2025) for de-risking technologies for Atlantic Constellation Pathfinder.
+
+
+=== Portugal ===
+Portugal plans to contribute the other eight satellites. In addition, Portugal also includes its air force-operated, ICEYE-constructed synthetic aperture radar (SAR) satellites within Atlantic Constellation. The first of the Portuguese ICEYE satellites was launched on 30 March 2026 aboard Falcon 9's Transporter-16 rideshare mission. The second satellite, and first wholly owned by the Portuguese Air Force, was launched on 3 May 2026 on Falcon 9's CAS500-2 rideshare mission. Two further satellites were launched on 20 October 2026 aboard Bandwagon-5.
+
+
+== Launches ==
+
+
+== See also ==
+List of European Space Agency programmes and missions
+Agencia Espacial Española
+Portugal Space
+IRIDE
+UK Space Agency
+
+
+== References ==

@@ -1,0 +1,54 @@
+Cheyava Falls is a rock discovered on Mars in 2024 by NASA's Perseverance rover during its exploration of the Jezero crater. This rock, named after a Grand Canyon waterfall, has drawn significant attention due to its potential as an indicator of ancient life on Mars. The rover's instruments detected organic compounds within the rock, which are essential for all known life. According to NASA, Cheyava Falls "possesses qualities that fit the definition of a possible indicator of ancient life".
+
+
+== Discovery ==
+An unusual rock, named Cheyava Falls, was found in 2024 by NASA's Perseverance rover in Jezero crater. Cheyava Falls is characterized by large white calcium sulfate veins and bands of reddish material, indicative of hematite, a mineral that gives Mars its rusty color. The veins are "filled with millimeter-size crystals of olivine". The rock features millimeter-sized off-white splotches surrounded by black material, resembling "leopard spots". These spots contain iron and phosphate, elements often associated with microbial life. According to a seven-step scale called Confidence of Life Detection (CoLD) used by NASA astrobiologists, the rock is on Step One, showing "possible signal" of life.
+
+The "arrowhead-shaped rock" was found at the northern edge of Neretva Vallis area, on 18 July 2024, and is 3.2 by 2 feet (0.98 m × 0.61 m). On 21 July 2024, Perseverance took a sample of the rock that became its 22nd core sample that can be delivered to Earth by a future mission. The rover made a "selfie" with a rock on 23 July 2024. The sample from Cheyava Falls is called the "Sapphire Canyon", while the formation where Cheyava Falls were found is called the "Bright Angel", a set of rocky outcrops on the northern and southern edges of Neretva Vallis, an ancient river valley 400 metres (1,300 ft) wide that was carved by water rushing into Jezero crater. The rock was studied by two instruments: the Planetary Instrument for X-Ray Lithochemistry (PIXL) and Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals (SHERLOC).
+Beyond the nickname for a single sampled boulder, mission geologists now use "Cheyava Falls member" for a ~0.5 m-thick mudstone containing rare centimeter-scale olivine-rich horizons. At the northern Bright Angel–Margin-unit contact, it overlies the monomict, matrix-supported olivine granule conglomerate of the Fern Glen Rapids member and is itself overlain by the laminated mudstones of the Walhalla Glades member; the Tuff Cliff base is not exposed at this site.
+
+
+== Potential biosignature ==
+On 10 September 2025, NASA reported a "potential biosignature" finding in Cheyava Falls: organic-carbon–bearing mudstones hosting sub-millimetre nodules and millimetre-scale reaction fronts enriched in ferrous iron phosphate and iron sulfide, consistent with vivianite and greigite, imply low-temperature, post-depositional redox reactions between organics and Fe–S–P minerals; these textures and chemistries are potential biosignatures but require sample return for confirmation. On Earth, vivianite is frequently found in sediments, peat bogs, and around decaying organic matter. Similarly, certain forms of microbial life on Earth can produce greigite.
+If confirmed, this biosignature would mean that there was microbial life on Mars around 3.5 billion years ago. According to geologist Michael Tice:
+
+If the Cheyava Falls results ultimately do lead to the proof of ancient life on Mars ... that means two different planets hosted microbes getting their energy through the same means at about the same time in the distant past. That could suggest that early life learns how to survive in this way regardless of where it originated. 
+The same organic materials can be produced by non-biological processes which require "hot conditions" like volcanic activity; the rock location suggests that it was underwater, and there is no detected past volcanic activity in that region.
+Perseverance's SHERLOC, a deep-ultraviolet Raman spectrometer, detected organic carbon distributed throughout fine-grained mudstones, and logged hundreds of detections of macromolecular carbon (MMC), a cross-linked, decomposition-resistant network of reduced carbon. This is the most robust organic detection yet made in Jezero crater and the first detection of macromolecular carbon on Mars. The team used the neutral term "MMC" rather than "kerogen" or "bitumen" to avoid implying a biological origin, and state that in-situ Raman spectroscopy cannot determine whether the carbon is biotic, abiotic, or meteoritic. Possible sources are serpentinization, electrochemical CO₂ reduction, igneous processes, interplanetary-dust infall, and biology; the source is resolvable only by returning the samples to Earth.
+In the abraded interior of Cheyava Falls ("Apollo Temple"), the strongest carbon signals coincide with secondary carbonate and sulfate minerals, though at the nearby "Walhalla Glades" target the carbon is in the primary silicate matrix and is absent from the iron-phosphate-rich dark grains. Because carbonates and sulfates mark later fluid alteration while the silicate matrix is primary, this dual association implies the organics relate to both the original sediment deposition and one or more later fluid events. At the Cheyava Falls surface the carbon does not cleanly track the "leopard spots", partly because the grains are below the imager's resolution and an instrument focus offset blurred the signal, so this study does not establish that the organics reside in the spots themselves.
+Bright Angel is roughly 3,500 km from Curiosity's organic detections at Gale crater, so finding comparable organics here suggests organic matter may have been geographically widespread on Mars around 3.5 billion years ago. The carbon is confirmed to be not graphite, but its specific type and origin remain unresolved.
+
+
+== Reception ==
+In two surveys conducted within days of each discovery, Peter Vickers et al. asked astrobiologists whether they thought extraterrestrial life had probably been found. For Cheyava Falls, 15.1% agreed, 44.6% disagreed, and 40.3% were neutral. For the exoplanet K2-18b, whose atmosphere had been reported in April 2025 to show possible traces of dimethyl sulfide, mainly associated with life on Earth, only 6.6% agreed, "nearly two-thirds disagreed" and 28.0% were neutral. Strong disagreement fell from 35.1% in the K2-18b survey to 11.1% for Cheyava Falls.
+
+
+== Further research ==
+Perseverance was not designed to look for life on Mars, so to determine whether the organics detected on Mars is of biological or non-biological origin, further research on Earth is needed. For example, it is impossible to obtain the isotopic signature of the detected carbon, and determine its chirality.
+NASA-ESA Mars Sample Return mission was designed to collect the samples collected by Perseverance and deliver them to Earth. In a 2026 budget proposal, the mission was deemed "financially unsustainable" by the Donald Trump administration and proposed to be canceled.
+An article in The Economist compared the planned sample return from Cheyava Falls with the return of a stranded astronaut from the 2011 book (and 2015 film), The Martian.
+According to the first author of an article in Nature, Joel Hurowitz, "labs on Earth could look for ways of achieving the same effects without either biology or high temperatures"; but even if it can be done, the result might fail the Knoll criterion: "to be evidence of life, an observation has to not just be explicable by biology; it has to be inexplicable without it".
+
+
+== Gallery ==
+
+
+== See also ==
+Alan Hills 84001
+List of rocks on Mars
+Panspermia
+Viking lander biological experiments
+
+
+== References ==
+
+
+== Further reading ==
+Christian, John R.; VanBommel, Scott J.; Kizovski, Tanya V.; Liu, Yang; Schmidt, Mariek (2026). "Characterization of compositional endmembers in PIXL scans". Icarus. 453: 117060. doi:10.1016/j.icarus.2026.117060.{{cite journal}}:  CS1 maint: article number as page number (link)
+Baird, Kevin Thorsen (17 April 2026), Abiotic Resonant Synthesis in Martian Aerosols: A Field-Mediated Mechanism for the Cheyava Falls Redox Textures, doi:10.22541/essoar.15002152/v1, retrieved 1 November 2026
+Manelski, H. T.; Wiens, R. C.; Broz, A.; Hurowitz, J. A.; Tice, M.; Clegg, S.; Dehouck, E.; Randazzo, N.; Connell, S. A.; Forni, O.; VanBommel, S. J.; Schröder, S.; Mandon, L.; Gabriel, T. S. J.; Bedford, C. C.; Martinez, R. K.; Cloutis, E. A.; Cousin, A.; Cable, M. L. (31 March 2026). "Strong nickel enrichment co-located with redox-organic interactions in Neretva Vallis, Mars" (PDF). Nature Communications. 17 (1). doi:10.1038/s41467-026-70081-3. ISSN 2041-1723. PMC 13039681. PMID 41916985. Retrieved 1 November 2026.
+
+
+== External links ==
+ Media related to Cheyava Falls at Wikimedia Commons
+Our best proof of life on Mars yet? A deep dive into Cheyava Falls, The Planetary Society

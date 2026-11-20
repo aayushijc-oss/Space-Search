@@ -1,0 +1,40 @@
+Dysnomia, formal designation (136199) Eris I, is the only known moon of the dwarf planet Eris and is the second-largest known moon of a dwarf planet, after Pluto I Charon. It was discovered in September 2005 by Mike Brown and the Laser Guide Star Adaptive Optics (LGSAO) team at the W. M. Keck Observatory. It carried the provisional designation of S/2005 (2003 UB313) 1 until it was officially named Dysnomia (from the Ancient Greek word Δυσνομία (Dysnomía) meaning lawlessness) in September 2006, after the daughter of the Greek goddess Eris.
+With an estimated diameter of 615+60−50 km, Dysnomia spans 24% to 29% of Eris's diameter. It is significantly less massive than Eris, with a density consistent with it being mainly composed of ice. In stark contrast to Eris's highly-reflective icy surface, Dysnomia has a very dark surface that reflects 5% of incoming visible light, resembling typical trans-Neptunian objects around Dysnomia's size. These physical properties indicate Dysnomia likely formed from a large impact on Eris, in a similar manner to other binary dwarf planet systems like Pluto and Orcus, and the Earth–Moon system.
+
+
+== Name ==
+Mike Brown, the moon's discoverer, chose the name Dysnomia for the moon. As the daughter of Eris, the mythological Dysnomia fit the established pattern of naming moons after gods associated with the primary body (hence, Jupiter's largest moons are named after lovers of Jupiter, while Saturn's are named after his fellow Titans). The English translation of Dysnomia, "lawlessness", also echoes Lucy Lawless, the actress who played Xena in Xena: Warrior Princess on television. Before receiving their official names, Eris and Dysnomia had been nicknamed "Xena" and "Gabrielle", though Brown states that the connection was accidental.
+A primary reason for the name was its similarity to the name of Brown's wife, Diane, following a pattern established with Pluto. Pluto owes its name in part to its first two letters, which form the initials of Percival Lowell, the founder of the observatory where its discoverer, Clyde Tombaugh, was working, and the person who inspired the search for "Planet X". James Christy, who discovered Charon, did something similar by adding the Greek ending -on to Char, the nickname of his wife Charlene. (Christy was not aware that the resulting 'Charon' was a figure in Greek mythology.) "Dysnomia", similarly, has the same first letter as Brown's wife, Diane.
+
+
+== Discovery ==
+
+In 2005, the adaptive optics team at the Keck telescopes in Hawaii carried out observations of the four brightest Kuiper belt objects (Pluto, Makemake, Haumea, and Eris), using the newly commissioned laser guide star adaptive optics system. Observations taken on 10 September 2005, revealed a moon in orbit around Eris, provisionally designated S/2005 (2003 UB313) 1. In keeping with the Xena nickname that was already in use for Eris, the moon was nicknamed "Gabrielle" by its discoverers, after Xena's sidekick.
+
+
+== Physical characteristics ==
+
+Submillimeter-wavelength observations of the Eris–Dysnomia system's thermal emissions by the Atacama Large Millimeter Array (ALMA) in 2015 first showed that Dysnomia had a large diameter and a very low albedo, with the initial estimate being 700±115 km. Further observations by ALMA in 2018 refined Dysnomia's diameter to 615+60−50 km (24% to 29% of Eris's diameter) and an albedo of 0.05±0.01. Of the known moons of dwarf planets, only Charon is larger, making Dysnomia the second-largest moon of a dwarf planet. Dysnomia's low albedo significantly contrasts with Eris's extremely high albedo of 0.96; its surface has been described to be darker than coal, which is a typical characteristic seen in trans-Neptunian objects around Dysnomia's size.
+Eris and Dysnomia are mutually tidally locked, like Pluto and Charon. Astrometric observations of the Eris–Dysnomia system by ALMA show that Dysnomia does not induce detectable barycentric wobbling in Eris's position, implying its mass must be less than 1.4×1020 kg (mass ratio 0.0050±0.0035). This is below the estimated mass range of (2–5)×1020 kg (mass ratio 0.01–0.03) that would normally allow Eris to be tidally locked within the range of the Solar System, suggesting that Eris must therefore be unusually dissipative. ALMA's upper-limit mass estimate for Dysnomia corresponds to an upper-limit density of < 1.2 g/cm3, implying a mostly icy composition. The shape of Dysnomia is unknown, but its low density suggests that it is unlikely to be in hydrostatic equilibrium.
+The brightness difference between Dysnomia and Eris decreases with longer and redder wavelengths; Hubble Space Telescope observations show that Dysnomia is 500 times fainter than Eris (6.70-magnitude difference) in visible light, whereas near-infrared Keck telescope observations show that Dysnomia is ~60 times fainter (4.43-magnitude difference) than Eris. This indicates Dysnomia has a very different spectrum and redder color than Eris, indicating a significantly darker surface, something that was later proven by submillimeter observations.
+
+
+== Orbit ==
+
+Combining Keck and Hubble observations, the orbit of Dysnomia was used to determine the mass of Eris through Kepler's third law of planetary motion. Dysnomia's average orbital distance from Eris is approximately 37,300 km (23,200 mi), with a calculated orbital period of 15.786 days, or approximately half a month. This shows that the mass of Eris is 1.27 times that of Pluto. Extensive observations by Hubble indicate that Dysnomia has a nearly circular orbit around Eris, with a low orbital eccentricity of 0.0062±0.0010. Over the course of Dysnomia's orbit, its distance from Eris varies by 462 ± 105 km (287 ± 65 mi) due to its slightly eccentric orbit.
+Dynamical simulations of Dysnomia suggest that its orbit should have completely circularized through mutual tidal interactions with Eris within timescales of 5–17 million years, regardless of the moon's density. A non-zero eccentricity would thus mean that Dysnomia's orbit is being perturbed, possibly due to the presence of an additional inner satellite of Eris. However, it is possible that the measured eccentricity is not real, but due to interference of the measurements by albedo features, or systematic errors.
+From Hubble observations from 2005 to 2018, the inclination of Dysnomia's orbit with respect to Eris's heliocentric orbit is calculated to be approximately 78°. Since the inclination is less than 90°, Dysnomia's orbit is therefore prograde relative to Eris's orbit. In 2239, Eris and Dysnomia will enter a period of mutual events in which Dysnomia's orbital plane is aligned edge-on to the Sun, allowing for Eris and Dysnomia to take turns eclipsing each other.
+
+
+== Formation ==
+Eight of the ten largest trans-Neptunian objects are known to have at least one satellite. Among the fainter members of the trans-Neptunian population, only about 10% are known to have satellites. This is thought to imply that collisions between large KBOs have been frequent in the past. Impacts between bodies of the order of 1000 km across would throw off large amounts of material that would coalesce into a moon. A similar mechanism is thought to have led to the formation of the Moon when Earth was struck by a giant impactor (see Giant impact hypothesis) early in the history of the Solar System.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+ Media related to Dysnomia at Wikimedia Commons

@@ -1,0 +1,126 @@
+In modern times, numerous impact events on Jupiter have been observed, the most significant of which was the collision of Comet Shoemaker–Levy 9 in 1994. Jupiter is the most massive planet in the Solar System and thus has a vast sphere of gravitational influence, the region of space where an asteroid capture can take place under favorable conditions.
+Jupiter is often able to capture comets that orbit the Sun; such comets enter unstable orbits around the planet that are highly elliptical and perturbable by solar gravity. While some of them eventually recover a heliocentric orbit, others crash into the planet or more rarely become one of its satellites.
+In addition to the mass factor, Jupiter's relative proximity to the inner Solar System allows it to influence the distribution of minor bodies there. Dynamic studies have shown that the presence of Jupiter tends to reduce the frequency of impacts on the Earth of objects coming from the Oort cloud, while it increases the number of impacts of asteroids and short-period comets.
+For these reasons Jupiter has the highest frequency of impacts of any planet in the Solar System, justifying its reputation as the "sweeper" or "cosmic vacuum cleaner" of the Solar System. 2018 studies estimate that between 10 and 65 impacts per year of meteoroids with a diameter of between 5 and 20 meters (16 and 66 ft) can occur on the planet. For larger objects capable of leaving a visible scar on the planet's cloud cover for weeks, that study gives an impact frequency of one every 2–12 years. Even larger objects would strike Jupiter every 6–30 years. 2009 studies suggest an impact frequency of once every 50–350 years for an object of between 0.5 and 1 km (0.31 and 0.62 mi) in diameter; hits from smaller objects would occur more frequently. A 1997 study estimated comets 0.3 km (0.19 mi) in diameter collide with Jupiter once in approximately 500 years and those 1.6 km (0.99 mi) in diameter do so once in every 6,000 years.
+
+
+== About Jupiter ==
+
+Jupiter is a gas giant planet with no solid surface; the lowest atmospheric layer, the troposphere, gradually changes into the planet's inner layers. The impacts of comets and asteroids generate debris fields that are progressively masked by the action of the winds, and whose significance depends upon the size of the impacting object. Human knowledge of such impacts is dependent upon direct and almost immediate observation of the event itself or of the phenomena associated with it.
+The cratered surfaces of Jupiter's major satellites provide information about the most ancient epochs. In particular, the discovery by the Voyager missions of thirteen crater chains on Callisto and three on Ganymede, and the evidence of the impact of Comet Shoemaker–Levy 9 (SL9), provide consistent evidence of ancient fragmentation of comets and their impacts with Jupiter and its moons. While the chains of craters observed on Earth's moon often radiate from major craters and are commonly believed to have been created by secondary impacts of the material ejected from the main collision, those present on the Jovian moons are not connected to a main crater, and it is likely they were created by the impact of a series of cometary fragments.
+The first evidence of impacts on Jupiter was found in the 17th century. Japanese amateur astronomer Isshi Tabe discovered among the correspondence of Giovanni Cassini's observations some drawings representing a dark spot that appeared on Jupiter on December 5, 1690, and follow its evolution over 18 days. This finding could constitute evidence of the observation of an impact on Jupiter prior to that of SL9.
+
+
+== Impact events ==
+
+
+=== 1979 impact ===
+The impact of a meteoroid on Jupiter was first captured on March 5, 1979, 17:45:24 UTC by the Voyager 1 spacecraft, which recorded a rapid flicker of light in the planet's atmosphere. Cook and Duxbury estimated that the mass of the meteoroid was about 11 kg.
+
+
+=== 1994 impacts ===
+
+On July 16, 1994, the first of a series of fragments of the comet Shoemaker–Levy 9, which had broken up two years earlier, impacted Jupiter's atmosphere. The impacts had been predicted well in advance and were therefore observed by terrestrial telescopes and several space observatories, including the Hubble Space Telescope, the ROSAT X-ray-observing satellite, the W. M. Keck Observatory, and the Galileo spacecraft, which was then en route to Jupiter with a scheduled arrival in 1995. Although the impacts took place on the side of Jupiter hidden from Earth, Galileo, then at a distance of 1.6 AU (240 million km; 150 million mi) from the planet, was able to see the impacts as they occurred. Jupiter's rapid rotation brought the impact sites into view for terrestrial observers a few minutes after the collisions.
+Two other space probes observed the impact; the Ulysses spacecraft, primarily designed for solar observations, was pointed towards Jupiter from its location 2.6 AU (390 million km; 240 million mi) away, and Voyager 2, which was then 44 AU (6.6 billion km; 4.1 billion mi) from Jupiter, was programmed to look for radio emissions in the 1–390 kHz range and make observations with its ultraviolet spectrometer.
+
+Astronomer Ian Morison described the impacts as following:
+
+The first impact occurred at 20:13 UTC on July 16, 1994, when fragment A of the [comet's] nucleus slammed into Jupiter's southern hemisphere at about 60 km/s (35 mi/s). Instruments on Galileo detected a fireball that reached a peak temperature of about 24,000 K (23,700 °C; 42,700 °F), compared to the typical Jovian cloud-top temperature of about 130 K (−143 °C; −226 °F). It than expanded and cooled rapidly to about 1,500 K (1,230 °C; 2,240 °F). The plume from the fireball quickly reached a height of over 3,000 km (1,900 mi) and was observed by the HST.
+A few minutes after the fireball was detected, Galileo measured renewed heating, which was probably caused by ejected material falling back into the planet. Earth-based observers detected the fireball rising over the limb of the planet shortly after the initial impact.
+Despite published predictions, astronomers had not expected to see fireballs from the impacts, and did not know how visible the other atmospheric effects of the impacts would be from Earth. Observers saw a huge dark spot appear after the first impact. The spot was visible from Earth; this and subsequent dark spots were thought to have been caused by debris from the impacts, and were markedly asymmetric, forming crescent shapes in front of the direction of impact.
+Over the next six days, 21 distinct impacts were observed, the largest of which occurred on July 18 at 07:33 UTC when fragment G struck Jupiter. This impact created a large, dark spot over 12,000 km or 7,500 mi—almost one Earth diameter across—and was estimated to have released an energy equivalent to six million megatons of TNT. On July 19, two impacts 12 hours apart created impact marks of similar size to that caused by fragment G. Impacts continued until July 22, when fragment W struck the planet.
+
+
+=== 2009 impact ===
+
+On July 19, 2009, amateur astronomer Anthony Wesley discovered a new black spot about the size of Earth in Jupiter's southern hemisphere. Thermal infrared analysis showed it was warm and spectroscopic methods detected ammonia. The impact was studied by NASA's Hubble Space Telescope. According to Hueso et al., the impact was caused by "a 500 to 1,000 meters (1,600 to 3,300 ft) icy or by a  200 to 500 meters (660 to 1,640 ft) rocky object"; a 4800-km debris field was created by the impact; researchers noted that it was "dark in the visible and bright in methane absorption bands, and observable for several months using amateur telescopes and for a minimum of six months with professional ones".
+
+
+=== 2010 impacts ===
+
+An impact event that occurred on June 3, 2010 involved an object estimated at between 8 and 13 meters (26 and 43 ft), and was recorded and first reported by Anthony Wesley. The impact was also captured on video in the Philippines by amateur astronomer Christopher Go.
+On August 20, 2010 another impact was detected independently by Japanese amateur astronomers Masayuki Tachikawa and by Kazuo Aoki and Masayuki Ishimaru. The region of impact did not show any presence of debris field, so the impactor was a small body.
+
+
+=== 2012 impact ===
+On September 10, 2012 at 11:35 UTC, amateur astronomer Dan Petersen, using a Meade 12" LX200 telescope, saw a fireball on Jupiter that lasted between one and two seconds. George Hall had been recording Jupiter with a webcam on his 12" Meade; upon hearing the news, Hall checked the video to see whether the impact was captured. Hall had captured a four-second clip of the impact and released the video to the public. The impact's estimated position on Jupiter was longitude 345° and latitude 2°. Planetary scientist Michael H. Wong estimated the fireball was created by a meteoroid less than 10 m (33 ft) in diameter. Several collisions of this size may happen on Jupiter each year. The 2012 impact was the fifth observed on Jupiter, and the fourth such event between 2009 and 2012. It was similar to the flash observed on August 20, 2010.
+
+
+=== 2016–2020 impacts ===
+On March 17, 2016, an impact fireball on Jupiter's limb was recorded by Gerrit Kernbauer using an 8-inch (20 cm) telescope operating at f/15 in Moedling, Austria. This report was later confirmed by an independent observation by amateur John McKeon. The size of the impacting object was estimated to be between 7 and 19 m (23 and 62 ft).
+On May 26, 2017, amateur astronomer Sauveur Pedranghelu in Corsica, France observed a flash on Jupiter. The event was announced the next day; German amateur astronomers Thomas Riessler and André Fleckstein confirmed it. The impactor had an estimated size of between 4 and 10 m (13 and 33 ft).
+On April 10, 2020, the Juno spacecraft observed a fireball on Jupiter that was consistent with the impact of a 1–4-meter (3.3–13.1 ft) meteor. It was the first fireball to be detected by Juno. Researchers estimate Jupiter experiences approximately 24,000 impact events of this size per year—around 2.7 per hour.
+
+
+=== 2021−2023 impacts ===
+
+At 22:39:27 UTC on September 13, 2021, Brazilian amateur astronomer José Luis Pereira reported the observation of a bright spot on Jupiter lasting for two seconds. Two astronomers from France and Germany confirmed the observation, suggesting an impact event likely caused by a small asteroid or comet around 100 m (330 ft) in diameter. An image taken by astrophotographer Damian Peach one hour after the impact showed no aftermath.
+Another impact was observed on 13:24 UTC on October 15, 2021. The impact was discovered by a team led by astronomer Ko Arimatsu of Kyoto University, using a 28 cm (11 in) telescope for the Planetary ObservatioN Camera for Optical Transient Surveys (PONCOTS) project. This observation by Arimatsu's team marked the first time an asteroid impact on Jupiter was recorded in color.
+On 28 August 2023, a fireball, likely an asteroid, impacting Jupiter was video recorded by astronomers.
+
+
+== Phenomena associated with the impacts ==
+
+The phenomena associated with an impact on a gas giant are mainly transitory in nature, and depend on the size of the impacting body and its composition.
+In the case of small meteoroids, the light emission associated with the penetration into the upper layers of the atmosphere was observed, but in the two events in 2010, no alterations in the clouds were observed, either in the minutes immediately following the impact or in the subsequent revolutions, in a similar way to what happens after a fireball in the Earth's atmosphere.
+In the case of objects with a diameter greater than 100 m (330 ft), which are able to penetrate below the visible cloud layer, the phenomenology becomes more complex. A large part of the kinetic energy of the impacting object is transferred to the atmosphere, causing a rapid increase in the local temperature, which is associated with an intense light emission. The mass of atmospheric gas that is affected expands upwards, where it meets less air resistance. A plume can reach up to 1,000 km (620 miles) and temperatures of 1,000 kelvins (730 °C) in a few seconds for an impacting object of about 2 km (1.2 miles). When the expansion stops, the plume precipitates on itself and the impact with the atmosphere causes a new temperature increase. This phenomenology was observed in the impacts of the larger fragments of SL9. This also leads to the upwelling of material from the deepest areas of the planet. In the case of the SL9 impacts, ammonia and carbon disulfide, which are typically present in the troposphere, remained in the upper atmosphere for at least 14 months after the event.
+Collisions can also generate seismic waves, which in the case of SL9 traveled across the planet at a speed of 450 meters per second (1,500 ft/s) and were observed for more than two hours after the impact. In some cases, aurorae may appear near the impact site and at the antipodal zone, evaluated with respect to Jupiter's magnetic field and interpreted as a consequence of the fallout of the plume material. In the case of the impacts of SL9, a marked increase in radio emissions from Jupiter was detected; this was interpreted as a consequence of the introduction of relativistic electrons into the planet's magnetosphere.
+At the impact site, depending on the size of the impacting object and its composition, when observed in visible and ultraviolet ranges, an extremely dark spot appears. This spot is bright in the infrared range; its size is related to the intensity of the infrared emissions from the impact plume. In the case of cometary objects of between 1 and 2 km (0.62 and 1.24 miles), such as fragment G of SL9, the spot is predominant with respect to the typical formations of the Jovian atmosphere. The spot consists of a central ellipse corresponding to the site of the explosion and a thicker half-ring in the opposite direction to that of impact and corresponding to the ejected material. The process leading to the stain formation is unclear; scholars believe stains are mainly composed of debris.
+Small spots can disappear in a few days or weeks. Larger spots, however, remain for several months, although deforming over time. In the case of multiple impacts, as in the case of SL9, an "impact band" corresponding with the band occupied by the spots can form. In 1994, this band did not form from the union of the spots, but appeared as they began to dissolve, and persisted until around June of the following year.
+
+
+== Identification of the impacting body ==
+Only in the case of the impact of SL9 was it possible to observe the impacting body before the collision with Jupiter; in all other cases, an attempt to identify their nature and origin was made by analyzing the effects on the atmosphere. The identification of specific chemical species through spectroscopic analysis of the debris makes it possible to distinguish a comet, which are rich in water and poor in silicon, from an asteroid. The atmospheric depth reached by the disturbance generated in the explosion and the duration of the disturbance itself allow scientists to estimate the dimensions of the impacting body.
+This information is useful for developing models of comet and asteroid populations near the orbit of Jupiter. The impact of 2009 was particularly important and could change the estimates of the number of Jupiter-crossing asteroids. The identification, however, may be incorrect, highlighting limited knowledge of the internal composition of cometary nuclei.
+
+
+== Impact frequency ==
+
+The frequency of impacts on a planet can be defined as the average interval between two consecutive impacts; a high value corresponds to a short interval between two consecutive impacts. In 1998, Nakamura and Kurahashi that estimated every 500–1000 years, a comet with a diameter greater than 1 km (0.62 miles) could impact the planet. This estimate was revised after the 1994 impact of SL9. In various subsequent works, values between 50 and 350 years were suggested for an object of 0.5 and 1 km (0.31 and 0.62 miles). They are based on some assumptions that have been questioned since the impact of 2009.
+In particular, it was believed the role of asteroids was marginal and that impacts on Jupiter were mainly caused by comets. Since then, the data deriving from the observations have radically changed; in 2008, the two confirmed observations indicated a time interval of about 300 years between the impact observed by Cassini and that of SL9. In 2009, a new observation reduced this value because only fifteen years had passed since the previous impact and it could be possible to estimate, based on the last two observations, an impact frequency of 10 years for an object of 0.5 and 1 km (0.31 and 0.62 miles).
+The distribution of meteoroids in the outer Solar System is not known and therefore it is not possible to provide a forecast on the frequency of impact without relying on partial data. Considering a meteoroid of about 10 meters (33 ft) in diameter, estimates are:
+
+an impact per year on Jupiter, from considerations relating to the craterization of the surfaces of the satellites;
+30–100 collisions per year, basing the data on asteroid and cometary populations near the planet's orbit.
+For comparison, a frequency of impact with an object of this size every 6–15 years has been estimated for the Earth.
+To estimate the frequency of impacts, observation campaigns were launched with the involvement of amateurs. Marc Delcroix of the Société Astronomique de France and a group of astronomers from the University of the Basque Country led by Ricardo Hueso developed the DeTeCt software to allow rapid identification of any impact and facilitate the rapid spread of the news. In addition, Japanese amateurs from the Association of Lunar and Planetary Observers (ALPO) have activated the "Find Flash" project. The two projects led to an estimate of the minimum impact frequency of meteoroids at about three events per year. Hueso, however, believes it is more likely that between 10 and 65 impacts per year of meteoroids with a diameter of between 5 and 20 meters (16 and 66 ft) can occur on the planet. For larger objects capable of leaving a visible scar on the planet's cloud cover for weeks, he provides an impact frequency of one every 2–12 years. Even larger objects would impact Jupiter every 6–30 years.
+Following the impact of April 10, 2020 observed by the Juno probe, Rohini S. Giles et al. estimated the number of impacts on Jupiter caused by meteoroids with masses between 250 and 5,000 kg (550 and 11,020 lb) to be approximately 24,000 events per year or  around 2.7 per hour.
+
+
+== Search campaigns ==
+From the observation of the impact events on Jupiter, it is possible to deduce information on the composition of comets and asteroids, and the deeper layers of the Jovian atmosphere. The frequency of impacts provides information on the populations of asteroids and comets in the outer Solar System.
+Impact sites can be recognized by the characteristics that include the appearance of dark spots on the planetary disc, as happened in 2009. CCD detectors can determine spots as small as approximately 300 km (190 miles) wide. Sanchez-Lavega et al. suggest exploiting the brightness of the spots at a wavelength of 890 nm, which is detectable using near-infrared-sensitive CCDs or those that are sensitive to the range 2.03–2.36 μm, detectable using K-band filters.
+In the case of the meteoroids that do not leave evident impact marks, the light emission that accompanies the atmospheric entry lasts for between one and two seconds, and a continuous monitoring of the planet's surface at high frame rate is necessary for their identification. Hueso et al. suggest telescopes with a diameter between 15 and 20 cm (5.9 and 7.9 in) are the ideal tools for their detection if equipped with a webcam or other video recording tools.
+More information on the frequency of impact can be obtained by analyzing the historical observations of Jupiter conducted in the 18th and 19th centuries in the light of the new knowledge acquired. For example, Hungarian astronomer Illés Erzsébet analyzed the correspondence about observations made at three Hungarian observatories and identified three possible impact events that occurred in 1879, 1884, and 1897.
+In 2007, some studies related the ripples of Jupiter's rings to the impact of SL9 by analyzing the time evolution recorded by the instruments on board the Galileo, Cassini, and New Horizons probes that visited the planet. In the rings, "fossil traces" could be present from which the occurrence of previous impacts could be deduced or, in the future, traces of events not directly observed could appear.
+
+
+== Jupiter as a "cosmic vacuum cleaner" ==
+The impact of SL9 highlighted Jupiter's role as a "cosmic vacuum cleaner" or Jupiter barrier for the inner Solar System. The planet's strong gravitational influence leads to many small comets and asteroids colliding with the planet. The rate of cometary impacts on Jupiter is thought to be between 2,000 and 8,000 times higher than the rate on Earth.
+The extinction of the non-avian dinosaurs at the end of the Cretaceous period is generally thought to have been caused by the Cretaceous–Paleogene impact event, which created the Chicxulub crater, demonstrating impacts are a serious threat to life on Earth. Astronomers have speculated that without Jupiter to mop up potential Earth impactors, extinction events might have been more frequent and complex life might not have been able to develop. This is part of the argument used in the Rare Earth hypothesis.
+In 2009, it was shown the presence of a smaller planet at Jupiter's position in the Solar System might significantly increase the impact rate of comets on Earth. A planet of Jupiter's mass seems to provide increased protection against asteroids but the total effect on all orbital bodies within the Solar System is unclear. This model calls into question the nature of Jupiter's influence on Earth impacts. Dynamic studies have shown that the presence of Jupiter tends to reduce the frequency of impact on the Earth of objects coming from the Oort cloud, though the authors noted that "near-Earth objects (some of which come from the asteroid belt, others from the short-period comet population) pose a far greater threat to the Earth than that posed by the Oort cloud comets".
+
+
+== Collisions in mass culture ==
+The direct observation of impact events on Jupiter has led to the growing awareness, even in public opinion, of the potentially devastating consequences of an impact of a comet or asteroid with Earth. The possibility of such an event has become  concrete and must be  guarded against.
+The collision of SL9 with Jupiter, to which extensive media coverage was dedicated, brought the subject to public attention. Among the forms of communication aimed at the general public were the 1998 films Deep Impact by Mimi Leder and Armageddon by Michael Bay.
+The discovery of the subsequent impacts has shown that impact events are far more frequent than previously thought. The role played by non-professional astronomers in identifying the signs of impact is also significant, thanks to a reduction in the cost of advanced observation instruments.
+
+
+== Further reading ==
+Peek, Bertrand M. (1981). The Planet Jupiter: The Observer's Handbook. London: Faber and Faber Limited. ISBN 0-571-18026-4. OCLC 8318939.
+Burgess, Eric (1982). By Jupiter: Odysseys to a Giant. New York: Columbia University Press. ISBN 0-231-05176-X.
+Rogers, John H. (1995). The Giant Planet Jupiter. Cambridge: Cambridge University Press. ISBN 0-521-41008-8. OCLC 219591510.
+Beebe, Reta (1996). Jupiter: The Giant Planet (2 ed.). Washington: Smithsonian Institution Press. ISBN 1-56098-685-9.
+D. C. Jewitt; S. Sheppard; C. Porco; F. Bagenal; T. Dowling; W. McKinnon (2004). Jupiter: The Planet, Satellites and Magnetosphere (PDF). Cambridge: Cambridge University Press. ISBN 0-521-81808-7. Archived from the original (PDF) on 2007-06-14.
+Linda T. Elkins-Tanton (2006). Jupiter and Saturn. New York: Chelsea House. ISBN 0-8160-5196-8.
+
+
+=== Scientific articles ===
+"Comet Shoemaker-Levy 9 Collision with Jupiter". National Space Science Date Center, NASA.
+K. S. Noll (1995). "HST Spectroscopic Observations of Jupiter Following the Impact of Comet Shoemaker-Levy 9". Science. 267 (5202): 1307–1313. doi:10.1126/science.7871428. PMID 7871428. S2CID 37686143.
+Martin, T.Z. (1996). "Shoemaker-Levy 9: Temperature, Diameter and Energy of Fireballs". Bulletin of the American Astronomical Society. 28: 1085. Bibcode:1996DPS....28.0814M.
+
+
+== References ==
+The article was partially translated from the Italian Wikipedia article. For original, see it:Eventi d'impatto su Giove.

@@ -1,0 +1,51 @@
+Zvezda moonbase (Russian: звезда, "star"), also called DLB Lunar Base, was a Soviet plan and project from 1962 to 1974 to construct a crewed moonbase as successor to the N1-L3 human lunar expedition program. Zvezda moonbase was canceled with the rest of the Soviet human lunar programs.
+
+
+== Implementation ==
+The base's main habitation module would first be delivered to the Moon. Later automatic spacecraft, including the Lunokhod rover, would be delivered, followed by a human crew and more modules. For the safety of the crew, the habitation modules might have been covered with regolith. In order to allow for exploration or repositioning of the base, the habitation modules may have been installed on wheel chassis, and multiple docked to form a movable train. Energy for the base would have been provided by atomic batteries and a nuclear reactor.
+The moonbase project was ordered by the Soviet space chief Korolyov to Vladimir Barmin's Spetsmash bureau. The project was named DLB Lunar Base in technical specifications and Zvezda in government documents. Unofficially, the project was called Barmingrad (Barmin's city or Barmin City) by its designers after the project lead.
+Several aspects of lunar colonization were studied:
+
+the aims of the base;
+a concept for construction;
+stages of realization;
+construction and scientific equipment;
+possible military supplies.
+
+
+== Parameters ==
+
+The main unit of the base was the habitation module. The plan was for the base to consist of 9 such modules, each delivered separately. The modules had control, laboratory, life, medical, dining, store and other specific aims.  Each module was to be 8.6 meters in full length and 3.3 meters in diameter, with 18 tons in full weight. The modules were to be 4.5 meters in initial length, and grow to full size by an expanded mechanism and air compression after delivery.
+The train had an 8-ton mass and would be operated by 4 cosmonauts and consist of tug, life, energy and drilling modules. Chassis of each module had 8 wheels with separate drive, each as implemented on Lunokhods.
+Modules of the base and train had 3 layers of protection from micrometeorites, heat and ultraviolet rays. Between the external and internal metal layers was a special styrofoam. The train had a manipulator arm which would have enabled the collection of samples of soil without the use of space suits.
+Water would have been extracted from the lunar soil by a chemical reaction. The Lavochkin bureau developed but did not test a small version of such a unit.
+The base would have had a crew of 9 to 12.
+
+
+== Realization ==
+The Zvezda project was not a separate program but part of the N1-L3 expedition program for the 1970s. The first cosmonaut landings were to be done with the LK Moon landing module of L3 spacecraft.
+The realization of the project depended on key parts of the N1-L3 program - the N-1 superheavy launcher, all 4 launches of which failed between 1969 and 1972. Before the cancellation of the Soviet human Moon program, the new project N1F-L3M was proposed for expeditions from 1979 onwards. These would have had a longer duration than the Apollo flights and may have led to the successor creation of the Zvezda moonbase in 1980s. Also, the new LEK Lunar Expeditionary Complex for transportation to Moon and moonbase was proposed then.
+The new Soviet space chief Glushko canceled the N1-L3 program in 1974 but proposed the new Vulkan-LEK project for expeditions to the Moon, based on a new superheavy launcher developed by his bureau, but this project was not realized either.
+Moon expeditions and the construction of a Moon base would have required nearly 50 billion rubles (80 billion US dollars in 1997).
+All crewed Soviet lunar programs, including a Zvezda moonbase, had been classified as top secret and were only published in the glasnost epoch since 1990. Before this time, the Soviet Union officially denied the existence of these programs but confirmed the existence of near-Earth crewed orbital stations and Moon exploration by robotic spacecraft.
+
+
+== In media ==
+The 1969-1970 TV series UFO features a Sovatek Corporation (a play on "Soviet" and "tech") moonbase similar to Zvezda and equipped with enormous truck-like rovers.
+The 2019 web television series For All Mankind has a Soviet moonbase called Zvezda.
+
+
+== See also ==
+LEK Lunar Expeditionary Complex
+Energia Lunar Expedition
+Project Horizon
+Lunex Project
+Colonization of the Moon
+Project A119
+
+
+== References ==
+
+
+== External links ==
+Moon "Barmingrad" video by TV Roskosmos

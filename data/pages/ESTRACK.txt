@@ -1,0 +1,48 @@
+The European Space Tracking (ESTRACK) network consists of a number of ground-based space-tracking stations belonging to the European Space Agency (ESA), and operated by the European Space Operations Centre (ESOC) in Darmstadt, Germany. The stations support various ESA spacecraft and facilitate communications between ground operators and scientific probes such as XMM-Newton, Mars Express, BepiColombo, Gaia. Similar networks are run by the USA, China, Russia, Japan, and India.
+
+
+== Antennas ==
+Each ESTRACK station is different, supporting multiple missions, some sharing one or more of the same missions. The ESTRACK core network consists of:
+
+
+=== Former stations ===
+Perth Station (Australia)
+Maspalomas Station (Gran Canaria, Spain)
+Villafranca Station (Spain)
+
+
+== Composition ==
+
+The ESTRACK network consists of several ground station around the world. Some of them are owned by ESA itself while others are owned by commercial and other institutional operators. The core stations as well as all of the connections to the missions are operated through the Network Operations Centre at ESOC.
+
+
+=== Core Ground Stations ===
+The Core ESTRACK network is composed of seven ESA-owned ground stations. Four of the stations are used for tracking satellites and launchers near Earth and three are used for tracking deep-space probes. Details about the stations are shown in the next section.
+
+
+=== Augmented Network ===
+
+Service contracts with commercially operated ground stations allows the network to track satellites that aren't in view of the ESA owned ground stations. The most relevant operators include KSAT, SSC and Goonhilly Satellite Earth Station. The composition is constantly changing and for every launch different stations may be used.
+
+
+=== Cooperative Network ===
+Cooperation agreements with international partners further enhance the network. Some of these are Deep Space Stations and therefore can offer services that are not be provided by commercial operators. The agreements are usually made on an exchange of services or as a contribution to a mission, meaning that no exchange of funds is part of the agreement.
+
+
+== See also ==
+European Astronaut Centre (EAC)
+European Centre for Space Applications and Telecommunications (ECSAT)
+European Space Agency (ESA)
+European Space Astronomy Centre (ESAC)
+European Space Operations Centre (ESOC)
+European Space Research and Technology Centre (ESTEC)
+ESA Centre for Earth Observation (ESRIN)
+Guiana Space Centre (CSG)
+
+
+== References ==
+
+
+== External links ==
+ESA Operations website
+ESA webpage on ESTRACK, including links to all stations

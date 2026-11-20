@@ -1,0 +1,5 @@
+Ceres Polar Lander (CPL) is a European mission concept for a lander to Ceres that would search for biosignatures. Published in 2008, the concept calls for a low-cost mission using reliable existing technology to complement other larger missions. The original concept of the mission was to search for water ice and signs of life in permanently shadowed craters near Ceres' north pole. However, with new information from the Dawn mission, it is now thought that water ice can be found on other locations on Ceres and that Occator crater may be a more desirable scientific target.
+If funded and launched, it would take about four years to reach Ceres, assuming a launch by a Soyuz rocket.
+
+
+== References ==

@@ -1,0 +1,34 @@
+A technology demonstration (or tech demo), also known as demonstrator model, is a prototype, rough example or otherwise incomplete version of a conceivable product or future system, put together as proof of concept with the primary purpose of showcasing the possible applications, feasibility, performance and method of an idea for a new technology. They can be used as demonstrations to the investors, partners, journalists or even to potential customers in order to convince them of the viability of the chosen approach, or to test them on ordinary users.
+
+
+== Computers and gaming ==
+Technology demonstrations are often used in the computer industry, emerging as an important tool in response to short development cycles in software and hardware development.
+
+Video game developers use tech demos to rouse and maintain interest to titles still in development (because game engines are usually ready before the art is finished) and to ensure functionality by early testing. Short segments using finished game engines may be presented as game demos.
+Graphics cards manufacturers use tech demos to showcase the performance of their cards even before any games can deliver that performance or before the product is ready to be used outside of the development labs. In November 2002, Nvidia started the practice of featuring realistic characters in graphics card technology demos, by releasing Dawn for its GeForce FX card. The demo featured a forest fairy with semi-realistic short hair and beautiful wings. Later, Nvidia followed with similar, new demos and ATI Technologies joined the race.
+Being by nature much less complex than complete games (that have to include dynamic physics modelling, audio engines, etc.), technology demos for graphics can deliver substantially better image quality, making the general look of games lag several years behind video card technology demos. For example, the PlayStation 2 demos Namco Girl (a lifelike female character from Ridge Racer winking flirtatiously at viewers) and older man used all the processing power to produce a high-quality single-character model, in a static environment. Xbox trailers showed Raven, a buff woman and her robot, showing off martial art moves.
+Computer technology demos should not be confused with demoscene-based demos, which, although often demonstrating new software techniques, are regarded as a stand-alone form of computer art.
+
+
+=== Google Tech Demo ===
+Demo Slam, a website from Google Inc., was a large collection of technology demonstration videos uploaded by users, and Google employees as well.
+
+
+=== Sales engineering technology demonstration ===
+Sales engineering staff, often bearing the title Sales Engineer or Presales Consultant, will prepare technology demonstrations for business meetings or seminars to show capabilities of business products. This can include both software and hardware products, and can show multiple products integrating together.  Usually, a demonstration is less than a proof of concept, but can come some of the way to showing how a business project may be justified. Large companies with tens or hundreds of Sales Engineers will often have a team who specialize in the production of demonstration systems and plans.
+Both startups and large tech companies often use animated videos to demonstrate product capabilities and features. Video content is more memorable and enables complex concepts to be conveyed to the audience in an easy-to-understand format.
+
+
+== See also ==
+Demo mode
+Game demo
+Research and development
+
+
+== References ==
+
+
+== External links ==
+The mother of all demos - Douglas Engelbart's demonstration
+5 easy steps How to do a Great Tech Demo - How to do a Great Tech Demo!
+21 Best Software Demo Video Examples That Turn Viewers into Users - Examples of software demo videos.

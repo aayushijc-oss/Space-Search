@@ -1,0 +1,32 @@
+Mars-Grunt, also known as Expedition-M (Russian: Марс-Грунт), is a proposed robotic Mars sample-return mission. It was proposed to the Russian Federal Space Agency (Roscosmos) by the Russian Space Research Institute.
+As of September 2023, Mars-Grunt is expected to be sent to Mars following the success of Boomerang (Fobos-Grunt-2), which in turn is expected sometime after 2030.
+
+
+== Lander ==
+If funded by the Russian space agency Roscosmos, it would be developed by the Russian Space Research Institute and NPO Lavochkin, based on Fobos-Grunt technology. 
+Designs show a dome-shaped lander would separate from the orbiter and would enter the Martian atmosphere protected within an inflatable rubber braking cone and fire retrorockets for a soft landing. Once a robotic arm selects and retrieves the samples (mass about 0.2 kilograms (0.44 lb)), a small rocket in the top of the lander would blast the ascent vehicle for rendezvous and docking with the orbiter for the soil sample transfer into the return vehicle.
+
+
+== Cruise stage ==
+The cruise stage PM (from Pereletny Modul Russian: Перелётный Модуль) is sometimes referred to as Flagman (not to be confused with a proposal combining the Blok D and Fregat stages, known by the same name), and closely resembles the Fregat-M stage. It was developed for the Fobos-Grunt mission, but its basic architecture is promised to be the base for a whole generation of future planetary missions, including Luna-Glob, Luna-Resurs and Luna-Grunt to the Moon; Venera-D to Venus; Mars-NET and Mars-Grunt to Mars and, possibly, Sokol-Laplas to Jupiter. The platform's developer - NPO Lavochkin - stressed that in different configuration, the same bus could be adapted as an orbiter or as a lander.
+
+
+== Status ==
+If the technology being developed for Luna Glob to the Moon, and Fobos-Grunt-2 to Mars' moon Phobos, is proved successful, it will then be used on Mars-Grunt.
+
+
+== Tasks ==
+Tasks set by the NPO Lavochkin and Roscosmos:
+
+Delivery of substance samples from Mars to Earth
+Refinement of engineering and technical models of the atmosphere and surface of Mars
+Detailed geochemical analysis of soil substance on Mars
+Study of the interaction processes between the atmosphere, solar radiation, and the surface of Mars
+
+
+== See also ==
+
+Phobos program
+
+
+== References ==

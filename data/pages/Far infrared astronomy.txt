@@ -1,0 +1,17 @@
+Far-infrared astronomy is the branch of astronomy and astrophysics that deals with objects visible in far-infrared radiation (extending from 30 μm towards submillimeter wavelengths around 450 μm).
+In the far-infrared, stars are not especially bright, but emission from very cold matter (140 Kelvin or less) can be observed that is not seen at shorter wavelengths. This is due to thermal radiation of interstellar dust contained in molecular clouds.
+These emissions are from dust in circumstellar envelopes around numerous old red giant stars. The Bolocam Galactic Plane Survey mapped the galaxy for the first time in the far-infrared.
+
+
+== Telescopes ==
+On 22 January 2014, European Space Agency scientists reported the detection, for the first definitive time, of water vapor on the dwarf planet, Ceres, largest object in the asteroid belt. The detection was made by using the far-infrared abilities of the Herschel Space Observatory. The finding is unexpected because comets, not asteroids, are typically considered to "sprout jets and plumes". According to one of the scientists, "The lines are becoming more and more blurred between comets and asteroids."
+
+The Earth's atmosphere is opaque over most of the far-infrared, so most far-infrared astronomy is performed by satellites such as the Herschel Space Observatory, Spitzer Space Telescope, IRAS, and Infrared Space Observatory. Upper-atmosphere observations are also possible, as conducted by the airborne SOFIA telescope.
+Ground-based observations are limited to submillimetre wavelengths using high-altitude telescopes such as the James Clerk Maxwell Telescope, the Caltech Submillimeter Observatory, the High Elevation Antarctic Terahertz Telescope and the Submillimeter Array.
+
+
+== See also ==
+Infrared astronomy
+
+
+== References ==

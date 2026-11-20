@@ -1,0 +1,57 @@
+Falga Regio is an extensive, relatively bright surface feature on Jupiter's fourth largest moon Europa. It is an irregular feature dominated by several crisscrossing lineae (or line terrain).
+
+
+== Naming ==
+Falga Regio is named after an island from Irish mythology called Fálga. The identity of this island is unclear, but mythological texts suggest that it was located east of Ireland, probably corresponding to the modern-day Isle of Man. According to mythology, it was inhabited by grey-skinned people called Fir Fálgae, savages whose bodies were covered only by their hair, and who often threatened the heroes of Irish mythology. 
+The International Astronomical Union (IAU) has established a rule stipulating that surface features on Europa be named after figures and places associated with either Celtic mythology or the Phoenician princess Europa. Fálga is an island associated with Irish mythology, and Irish mythology is part of the broader Celtic mythology. The name for Falga Regio was approved by the IAU in May 2007.
+
+
+== Location ==
+
+Falga Regio is a massive region dominating much of the northern hemisphere on Europa's anti-Jovian side (i.e., the side that never faces Jupiter). It is located just north of Europa's equator.
+To the west of Falga Regio lies another extensive region called Annwn Regio, while to the east is the multi-ringed crater Tyre. To the southwest lies the dark Dyfed Regio, and to the southeast is the prominent crater Cilix.
+To the north of Falga Regio lies the crater Tuag.
+Falga Regio occupies much of the Rhadamanthys Linea quadrangle of Europa (designated Je4). However, due to its massive size, the region also extends into adjacent quadrangles, including Tyre (Je3), Annwn Regio (Je5), Cilix (Je8), and Castalia Macula (Je9).
+Falga Regio is mostly situated on the side of Europa that never faces Jupiter, as Europa rotates synchronously while orbiting the planet. Therefore, an observer standing on most of Falga Regio would never see Jupiter in the sky. However, the westernmost section of Falga Regio is part of Europa's Jupiter-facing hemisphere, meaning an observer there would see Jupiter fixed low on the horizon at all times.
+
+
+== Lineae Terrain ==
+
+Falga Regio is densely covered with lineae, elongated structures composed of fractures in Europa's icy crust. Detailed examination shows that the crustal blocks on either side of these cracks have moved relative to one another. The largest bands can exceed 20 kilometres (12 mi) in width and commonly display dark, diffuse margins, regular striations, and a lighter-colored central zone.
+The leading hypothesis is that Europa's lineae formed through repeated eruptions of warm ice as the crust gradually pulled apart, exposing warmer material from below. This process is thought to be broadly analogous to seafloor spreading at oceanic ridges on Earth. In general, these cracks are thought to have been caused largely by tidal flexing exerted by Jupiter's enormous gravity, as well as by the gravitational influences of its sibling moons Io and Ganymede.
+In particular, the so-called Belus–Phoenix–Rhadamanthys Linea triangle—a section of Falga Regio composed of three interlocking lineae—is considered especially important for the study of Europa's tectonic processes and potential cryovolcanic activity.
+Other important lineae situated in Falga Regio include Minos Linea, Cadmus Linea, Tectamus Linea and Udaeus Linea.
+
+
+== Tectonic Activity ==
+
+Falga Regio shows evidence of plate-like motion on Europa. Northern Falga Regio is treated as one of the key areas where older surface features are offset by younger tectonic structures. This offsetting is interpreted as evidence that parts of Europa's icy shell behaved like moving plates in the past. Previous work suggested major subsumption in Northern Falga Regio. Earlier research such as those of Kattenhorn and Prockter, reconstructed the plate's motion in Northern Falga Regio and concluded that a large rotation of a plate in the southwest caused about ~10 kilometres (6.2 mi) of surface material to be subsumed (i.e. driven downward or consumed at a plate boundary).
+Results from new reconstructions of Northern Falga Regio was able to reproduce the large rotation of the southwesternmost plate identified in earlier work, supporting the interpretation that up to ~100 kilometres (62 mi) of surface material may have been subsumed during plate motion. Although the analysis is still ongoing, these findings do not contradict previous conclusions about significant subsumption in this region.
+It is notable that the proposed subsumption band extends beyond high-resolution imagery into global datasets, curving southward toward Manannan crater and reappearing in the Phaidra Linea region. These connections suggest that tectonic deformation in Falga Regio is part of a larger, regionally integrated plate system on Europa.
+
+Northern Falga Regio is one of the clearest and most important examples of plate-tectonic–like behavior on Europa, but that this behavior is regional, episodic, and limited in scale, rather than global and continuous like on Earth. 
+Specifically, Northern Falga Regio preserves a complex history of rigid plate motions, reconstructed using spherical geometry, in which dozens of small ice plates moved relative to one another along narrow boundaries defined by bands and ridges. These motions occurred in multiple stages, with older plate motions concentrated in the north and younger motions in the south. The dominant kinematics are left-lateral strike-slip motion combined with significant convergence, especially along major boundaries such as NF4, where at least ~80–100 km of surface material was subsumed. This supports earlier work by Kattenhorn and Prockter but refines it by showing that the plates are more fragmented and rotate internally, allowing better fits without impossible overlaps.
+The most important point is late activity in Falga Regio did not occur all at once and is no longer active today. Instead, plate motions started, evolved through several stages, and then shut down after accommodating less than ~100 kilometres (62 mi) km of lateral motion along any given boundary. As a result, Falga Regio is interpreted not as evidence for a fully developed, Earth-like global plate tectonic system, but as a regional expression of mobile-lid behavior in Europa's ice shell. Based largely on evidence from Falga Regio, Europa is placed near the boundary between stagnant-lid and mobile-lid convection, possibly influenced by tidal forces from Jupiter.”
+
+
+== Exploration ==
+
+Voyager 1 and Voyager 2 both explored Europa during their respective flybys of the Jovian system in March 1979 and July 1979. However,  Voyager 1 was 2,870,000 km (1,780,000 mi) away from Europa when it viewed Falga Regio. The resolution of its imagery was not good enough to show many details. 
+
+Much of Falga Regio was on the other side of Europa during Voyager 2's closest approach to Europa. Consequentially, only the easternmost fringes of Falga Regio was visible during the probe's quick visit.
+Galileo was the first spacecraft to obtain high-resolution images of Falga Regio as it orbited around Jupiter from December 1995 to September 2003, yielding the highest-resolution images of the regio available to date. In particular, Galileo attempted to image Rhadamathys Linea in very high detail. However, a minor error in pointing the spacecraft's camera resulted in the images being slightly off target.
+
+
+=== Future Missions ===
+Two space probes are currently heading to Europa. The first is NASA's Europa Clipper mission, which was launched in October 2024 and is scheduled to arrive at Jupiter in April 2030. The spacecraft will orbit Jupiter in a trajectory that allows at least 49 flybys of Europa, flying pass as close as 25 km (16 mi) to the moon's surface. The probe is equipped with an ice-penetrating radar capable of probing Europa's ice shell, allowing Europa Clipper to investigate what lies beneath the cracks of Falga Regio.
+The second probe is the European Space Agency's Jupiter Icy Moons Explorer (Juice), which was launched in April 2023 and is scheduled to arrive at Jupiter in July 2031. Juice will fly by Europa only twice because it will primarily focus on Ganymede and Callisto instead. Nonetheless, Juice's  data will complement the information that will be collected by Europa Clipper.
+
+
+== See also ==
+List of geological features on Europa
+
+
+== Notes ==
+
+
+== References ==

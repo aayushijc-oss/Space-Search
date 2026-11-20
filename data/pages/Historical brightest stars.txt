@@ -1,0 +1,15 @@
+The Solar System and all of the visible stars are in different orbits about the core of the Milky Way galaxy. Thus, their relative positions change over time, and for the nearer stars this movement can be measured. As a star moves toward or away from us, its apparent brightness changes. Sirius is currently the brightest star in Earth's night sky, but it has not always been so. Canopus has persistently been the brightest star over the ages; other stars appear brighter only during relatively temporary periods, during which they are passing the Solar System at a much closer distance than Canopus.
+Working out exactly which stars were or will be the brightest at any given point in the past or future is difficult since it requires precise 3D proper motions of large numbers of stars and precise distances, as well as stellar evolution (for massive stars). This information only started to become available with the 1997 Hipparcos satellite data release. Jocelyn Tomkin used this data to compile a list of brightest stars in Earth's night sky at each period within the last or next 5 million years.  Re-analysis of the Hipparcos data and new data from the Gaia spacecraft reveal omissions and revisions necessary in the list. For example, it omits Gliese 710 which in about 1.35 million years is expected to be close enough to have a magnitude of −2.7, as confirmed by the Gaia spacecraft.
+
+
+== Table ==
+
+
+== Table of candidate titleholders of the brightest star ==
+The scientific accuracy of the proper motions of these stars may not be fully confirmed.
+
+
+== Notes ==
+
+
+== References ==

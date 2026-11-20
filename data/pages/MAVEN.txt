@@ -1,0 +1,121 @@
+MAVEN is an inactive NASA spacecraft orbiting Mars that studied the loss of its atmospheric gases to space, providing insight into the history of the planet's climate and water. The name is an acronym for "Mars Atmosphere and Volatile Evolution" while the word maven  also denotes "a person who has special knowledge or experience; an expert". 
+MAVEN was launched on an Atlas V rocket from Cape Canaveral Air Force Station, Florida, on 18 November 2013 and went into orbit around Mars on 22 September 2014. It was the first NASA mission to study the Mars atmosphere. The probe analyzed the planet's upper atmosphere and ionosphere to examine how and at what rate the solar wind is stripping away volatile compounds.
+On 6 December 2025, MAVEN lost contact with Earth. Despite recovery efforts at NASA's Deep Space Network, contact could not be re-established as of January 2026. A review board was convened in February 2026, which determined the spacecraft was likely not recoverable. On 3 June 2026, NASA officially declared the spacecraft dead and its mission concluded.
+The principal investigator for the mission was Shannon Curry at the University of California, Berkeley. She took over from Bruce Jakosky of the Laboratory for Atmospheric and Space Physics at the University of Colorado Boulder, who proposed and led the mission until 2021. The project cost $582.5 million to build, launch, and operate through its two-year prime mission.
+
+
+== Pre-launch ==
+
+Proposed in 2006, it was the second mission of NASA's Mars Scout Program, which had previously yielded Phoenix. It was selected for development for flight in 2008.
+On 2 August 2013, the MAVEN spacecraft arrived at Kennedy Space Center, in Florida to begin launch preparations.
+On 1 October 2013, seven weeks before launch, a government shutdown caused suspension of work for two days and threatened to force a 26-month postponement of the mission. With the spacecraft nominally scheduled to launch on 18 November 2013, a delay beyond 7 December 2013 would have caused MAVEN to miss the launch window as Mars moved too far out of alignment with the Earth.
+However, two days later, on 3 October 2013, a public announcement was made that NASA had deemed the 2013 MAVEN launch so essential to ensuring future communication with NASA assets on Mars—the rovers Opportunity and Curiosity—that emergency funding was authorized to continue spacecraft processing in preparation for an on-time launch.
+
+
+== Objectives ==
+
+The MAVEN mission's primary scientific objectives were:
+
+Measure the composition and structure of the upper atmosphere and ionosphere, and determine the processes responsible for controlling them
+Measure the rate of loss of gas from the top of the atmosphere to space, and determine the processes responsible for controlling them
+Determine properties and characteristics that allowed extrapolation backwards in time to determine the integrated loss to space over the four-billion-year history recorded in the geological record.
+By measuring the rate at which the atmosphere was escaping to space and gathering information about relevant processes, MAVEN helped infer how the planet's atmosphere and climate evolved over time.  Features on Mars that resemble dry riverbeds and the discovery of minerals that form in the presence of water indicate that Mars once had a dense enough atmosphere and was warm enough for liquid water to flow on the surface. However, that thick atmosphere was somehow lost to space. Scientists suspect that over millions of years, Mars lost 99% of its atmosphere as the planet's core cooled and its magnetic field decayed, allowing the solar wind to sweep away most of the water and volatile compounds that the atmosphere once contained.
+
+
+== Timeline ==
+
+MAVEN launched from the Cape Canaveral Air Force Station (CCAFS) on 18 November 2013, using an Atlas V 401 launch vehicle. It reached Mars on 22 September 2014, and was inserted into an elliptic orbit approximately 6,200 km (3,900 mi) by 150 km (93 mi) above the planet's surface.
+In October 2014, as the spacecraft was being fine-tuned to start its primary science mission, the comet Siding Spring was also performing a close flyby of Mars. The researchers had to maneuver the craft to mitigate harmful effects of the comet, but while doing so, were able to observe the comet and perform measurements on the composition of expelled gases and dust.
+On 16 November 2014, investigators completed MAVEN's commissioning activities and began its primary science mission, scheduled to last one year. During that time, MAVEN had observed a nearby comet, measured how volatile gases are swept away by solar wind, and performed four "deep dips" down to the border of the upper and lower atmospheres to better characterize the planet's entire upper atmosphere. In June 2015, the science phase was extended through September 2016, allowing MAVEN to observe the Martian atmosphere through the entirety of the planet's seasons.
+
+On 3 October 2016, MAVEN completed one full Martian year of scientific observations. It had been approved for an additional 2-year extended mission through September 2018. All spacecraft systems were still operating as expected. In March 2017, MAVEN's investigators had to perform a previously unscheduled maneuver to avoid colliding with Phobos the following week.
+On 5 April 2019, the navigation team completed a two-month aerobraking maneuver to lower MAVEN's orbit and enable it to better serve as a communications relay for current landers as well as the rover Perseverance. This new elliptic orbit is approximately 4,500 km (2,800 mi) by 130 km (81 mi). With 6.6 orbits per Earth day, the lower orbit allows more frequent communication with rovers.
+On 31 August 2021, Shannon Curry became the Principal Investigator of the mission. NASA became aware of failures in the MAVEN's inertia measurement units (IMU) in late 2021, necessary for the probe to maintain its orbit; having already moved from the main IMU to the backup one in 2017, they saw the backup ones showing signs of failure. In February 2022, both IMUs had appeared to have lost the ability to perform its measurement properly. 
+After doing a heartbeat termination to restore the use of the backup IMU, NASA engineers set to reprogram MAVEN to use an "all stellar" mode using star positions to maintain its altitude, eliminating the reliance on the IMUs. This was put into place in April 2022 and completed by May 28, 2022, but during this period, MAVEN could not be used for scientific observations or to relay communications to Earth from the rovers Curiosity and Perseverance and the Insight lander. Reduced communication was handled by other Mars orbiters.
+
+
+== Spacecraft overview ==
+
+MAVEN was built and tested by Lockheed Martin Space Systems. Its design is based on those of the Mars Reconnaissance Orbiter and 2001 Mars Odyssey. The orbiter has a cubical shape of about 2.3 m × 2.3 m × 2 m (7 ft 7 in × 7 ft 7 in × 6 ft 7 in) high, with two solar arrays that hold the magnetometers on both ends. The total length is 11.4 m (37 ft).
+
+
+=== Relay telecommunications ===
+NASA's Jet Propulsion Laboratory provided an Electra ultra high frequency (UHF) relay radio payload which has a data return rate of up to 2048 kbit/s. The highly elliptical orbit of the MAVEN spacecraft may limit its usefulness as a relay for operating landers on the surface, although the long view periods of MAVEN's orbit have afforded some of the largest relay data returns to date of any Mars orbiter. During the mission's first year of operations at Mars—the primary science phase—MAVEN served as a backup relay orbiter. In the extended mission period of up to ten years, MAVEN will provide UHF relay service for present and future Mars rovers and landers.
+
+
+=== Scientific instruments ===
+The University of Colorado Boulder, University of California, Berkeley, and Goddard Space Flight Center each built a suite of instruments for the spacecraft, and they include:
+Built by the University of California, Berkeley Space Sciences Laboratory:
+
+Solar Wind Electron Analyzer (SWEA) – measures solar wind and ionosphere electrons. The goals of SWEA with respect to MAVEN are to deduce magneto-plasma topology in and above the ionosphere, and to measure atmospheric electron impact ionization effects.
+Solar Wind Ion Analyzer (SWIA) – measures solar wind and magnetosheath ion density and velocity. The SWIA therefore characterizes the nature of solar wind interactions within the upper atmosphere.
+SupraThermal And Thermal Ion Composition (STATIC) – measures thermal ions to moderate-energy escaping ions. This provides information on the current ion escape rates from the atmosphere and how rates change during various atmospheric events.
+Solar Energetic Particle (SEP) – determines the impact of SEPs on the upper atmosphere. In context with the rest of this suite, it evaluates how SEP events affect upper atmospheric structure, temperature, dynamics and escape rates.
+Built by the University of Colorado Boulder Laboratory for Atmospheric and Space Physics:
+
+Imaging Ultraviolet Spectrometer (IUVS) – measures global characteristics of the upper atmosphere and ionosphere. The IUVS has separate far-UV and mid-UV channels, a high resolution mode to distinguish deuterium from hydrogen, optimization for airglow studies, and capabilities that allow complete mapping and nearly continuous operation.
+Langmuir Probe and Waves (LPW) – determines ionosphere properties and wave heating of escaping ions and solar extreme ultraviolet (EUV) input to atmosphere. This instrument provides better characterization of the basic state of the ionosphere and can evaluate the effects of the solar wind on the ionosphere.
+Built by Goddard Space Flight Center:
+
+Magnetometer (MAG) – measures interplanetary solar wind and ionosphere magnetic fields.
+Neutral Gas and Ion Mass Spectrometer (NGIMS) – measures the composition and isotopes of neutral gases and ions. This instrument evaluates how the lower atmosphere can affect higher altitudes while also better characterizing the structure of the upper atmosphere from the homopause to the exobase.
+SWEA, SWIA, STATIC, SEP, LPW, and MAG are part of the Particles and Fields instrument suite, IUVS is the Remote Sensing instrument suite, and NGIMS is its own eponymous suite.
+
+
+== Cost ==
+
+MAVEN cost US$582.5 million to build, launch, and operate for its prime mission, nearly US$100 million less than originally estimated. 
+Of this total, US$366.8 million was for development, US$187 million for launch services, and US$35 million was for the 2-year prime mission. On average, NASA spends US$20 million annually on MAVEN's extended operations.
+
+
+== Results ==
+
+
+=== Atmospheric loss ===
+Mars loses water into its thin atmosphere by evaporation. There, solar radiation can split the water molecules into their components, hydrogen and oxygen. The hydrogen, as the lightest element, then tends to rise far up to the highest levels of the Martian atmosphere, where several processes can strip it away into space, to be forever lost to the planet. This loss was thought to proceed at a fairly constant rate, but MAVEN's observations of Mars's atmospheric hydrogen through a full Martian year (almost two Earth years) show that the escape rate is highest when Mars's orbit brings it closest to the Sun, and only one-tenth as great when it is at its farthest.
+On 5 November 2015, NASA announced that data from MAVEN shows that the deterioration of Mars's atmosphere increases significantly during solar storms. That loss of atmosphere to space likely played a key role in Mars's gradual shift from its carbon dioxide-dominated atmosphere—which had kept Mars relatively warm and allowed the planet to support liquid surface water—to the cold, arid planet seen today. This shift took place between about 4.2 and 3.7 billion years ago. The atmospheric loss was especially notable during an interplanetary coronal mass ejection in March 2015.
+
+
+=== Different types of aurora ===
+In 2014, MAVEN researchers detected widespread auroras throughout the planet, even close to the equator. Given the localized magnetic fields on Mars (as opposed to Earth's global magnetic field), auroras appear to form and distribute in different ways on Mars, creating what scientists call diffuse auroras. Researchers determined that the source of the particles causing the auroras were a huge surge of electrons originating from the Sun. These highly energetic particles were able to penetrate far deeper into Mars's atmosphere than they would have on Earth, creating auroras much closer to the surface of the planet (~60 km as opposed to 100–500 km on Earth).
+Scientists also discovered proton auroras, different from the so-called typical auroras which are produced by electrons. Proton auroras were previously only detected on Earth.
+
+
+=== Interaction with a comet ===
+The fortuitous arrival of MAVEN just before a flyby of the comet C/2013 A1 (Siding Spring) gave researchers a unique opportunity to observe both the comet itself as well as its interactions with the Martian atmosphere. The spacecraft's IUVS instrument detected intense ultraviolet emissions from magnesium and iron ions, a result from the comet's meteor shower, which were much stronger than anything ever detected on Earth. The NGIMS instrument was able to directly sample dust from this Oort cloud comet, detecting at least eight different types of metal ions.
+
+
+=== Detection of metal ions ===
+In 2017, results were published detailing the detection of metal ions in Mars's ionosphere. This was the first time metal ions were detected in any planet's atmosphere other than Earth's. It was also noted that these ions behave and are distributed differently in the atmosphere of Mars given that the red planet has a much weaker magnetic field than our own.
+
+
+=== Impacts on future exploration ===
+In September 2017, NASA reported a temporary doubling of radiation levels on the surface of Mars, as well as an aurora 25 times brighter than any observed earlier. This occurred due to a massive, and unexpected, solar storm. The observation provided insight into how changes in radiation levels might impact the planet's habitability, helping NASA researchers understand how to predict as well as mitigate effects on future human Mars explorers.
+
+
+== Communication loss ==
+NASA lost contact with MAVEN on 6 December 2025. The last telemetry was received on December 4, but a brief fragment of tracking data from December 6 was also transmitted, showing that spacecraft was rotating in an unexpected manner when it emerged from behind Mars and that its orbit may have changed. NASA continued its attempts to recover the signal using antennas of the Deep Space Network as of March 2026. The loss of MAVEN impacted its role as a communications relay for surface rovers Curiosity and Perseverance, with teams at NASA and ESA working on their remaining active orbiters (Mars Odyssey, MRO, and TGO) to ensure that communications between Earth and the rovers could continue.
+On 16 and 20 December, the Curiosity rover's Mastcam was used to image MAVEN's reference orbit; the spacecraft was not detected. NASA had temporarily ceased all communication with Mars spacecraft during the solar conjunction between 29 December 2025 and 16 January 2026 and the possibility of recovering MAVEN afterwards had been deemed "very unlikely". The National Science Foundation's Green Bank Observatory has also been involved to search for the spacecraft's signals. An anomaly review board was convened in February 2026 to evaluate recovery efforts and determine whether the spacecraft would be recoverable. 
+On 3 June 2026, NASA announced the mission had ended after the review determined the spacecraft was "not recoverable" and "no longer capable of performing its science and data relay mission." According to their findings, MAVEN had entered into safe mode and was rotating at "an unusually high rate", causing the spacecraft's batteries to drain and putting it in an unrecoverable state. As of June 2026 a root cause was still being determined.
+MAVEN's project manager, Mike Moreau, stated that MAVEN could remain derelict in Mars orbit for the next 50 to 100 years before entering and burning up on the Martian atmosphere.
+
+
+== Gallery ==
+
+
+== See also ==
+List of missions to Mars
+Mars Orbiter Mission
+
+
+== References ==
+
+
+== External links ==
+
+MAVEN – NASA
+MAVEN – JPL
+MAVEN – University of Colorado Boulder
+Integration of MAVEN Propellant Tank – NASA Archived 20 November 2013 at the Wayback Machine
+SpaceflightNow MAVEN mission status center
+Released results from MAVEN

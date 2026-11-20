@@ -1,0 +1,54 @@
+Soyuz-U (GRAU index: 11A511U) was a Soviet and later Russian expendable medium-lift launch vehicle designed by the TsSKB design bureau and constructed at the  Progress factory in Samara, Russia. The U designation stands for unified, as the launch vehicle was the replacement for the Voskhod rocket and several earlier Soyuz rocket variants. The Soyuz-U is part of the larger R-7 rocket family, which evolved from the R-7 Semyorka, the first intercontinental ballistic missile.
+The first Soyuz-U flight took place on 18 May 1973, carrying as its payload Kosmos 559, a Zenit military surveillance satellite. The final flight of a Soyuz-U rocket took place on 22 February 2017, carrying Progress MS-05 to the International Space Station.
+Soyuz-U was in use continuously for almost 44 years. Production of R-7 derived launch vehicles peaked in the late 1970s-early 1980s at 55–60 a year. Soyuz-U held the world record of highest launch rate in a year in 1979 with 47 flights until this was beaten by SpaceX's Falcon 9 in 2022. Over its operational lifetime, the Soyuz-U variant flew a total of 786 missions, another world record. Soyuz-U has also been one of the most reliable launchers, with a success rate of 97.3%.
+
+
+== Development ==
+The original Soyuz rocket, introduced in 1966, represented the first attempt to standardize the R-7 design. It was largely identical to the Molniya booster but omitted the fourth stage. Two variants of the original Soyuz were produced, with at least three additional variants planned but ultimately canceled.
+By the mid-1970s, the Soviet Union was operating a wide range of R-7 variants, including the Molniya, Voskhod, and various Vostok models. To address this fragmentation, the Soyuz-U was introduced as a unified platform. The "U" stood for "unified," as it replaced both the Voskhod and original Soyuz rockets. This model featured an upgraded core with enhanced RD-117/118 engines to mitigate issues like in-flight vibration and combustion instability.
+Complete adoption of the Soyuz-U was not achieved until 1977, when the remaining stock of the original Soyuz boosters was depleted. However, despite the move toward standardization, some variants persisted. The Vostok-2M and Molniya-M continued to serve specialized roles, launching satellites into higher orbits until 1991 and 2010, respectively.
+
+
+== Versions ==
+Two versions of Soyuz-U were fitted with an additional upper stage:
+
+Soyuz-U/Ikar with the Ikar upper stage, produced by Progress is used to deliver various payloads with masses of 750 to 3,920 kg (1,650 to 8,640 lb) to heights of 250 to 1,400 km (160 to 870 mi). The performance of the Ikar upper stage is lower than that of the Fregat upper stage, but it offers more precise maneuvering and longer autonomous operation. This version was launched six times in 1999, carrying four GlobalStar satellites on each mission. The Ikar was replaced by the improved Volga upper stage which remains in use with the Soyuz-2.
+Soyuz-U/Fregat with the Fregat upper stage, developed and produced by Lavochkin flew four times in 2000. The Fregat upper stage was subsequently flown regularly atop Soyuz-FG and Soyuz-2 boosters.
+An older variant of Soyuz-U, the Soyuz-U2 launcher, first flown in 1982, had the same hardware as the basic Soyuz-U. Instead of standard RP-1, it used a high energy, synthetic version, Syntin, as the first stage fuel.  This variant, mainly used to transport crew and cargo to the Mir space station, last flew in 1995, after production of Syntin ended due to cost reasons.
+Soyuz-U was the basic platform for the development of the Soyuz-FG variant, which used an all-new first stage and took over crew transport to the ISS in 2002. Since 2013, both Soyuz-U and Soyuz-FG are gradually being replaced by the modernized Soyuz-2 launch vehicle.
+
+
+== Human spaceflight ==
+The first use of a Soyuz-U to launch a crewed mission took place 2 December 1974, when the Soyuz 16 crew was launched in preparation for the Apollo–Soyuz Test Project (ASTP). Soyuz 19, which as part of the ASTP docked with the last Apollo spacecraft ever flown, was also launched by a Soyuz-U rocket.
+On 6 July 1976, a Soyuz-U launched Soyuz 21, which took a crew of two to the Salyut 5 space station. Many subsequent space station crews were launched on Soyuz-U launchers. The final crewed mission to use the Soyuz-U was Soyuz TM-34, a Soyuz ferry flight to the International Space Station.
+A spectacular accident occurred on 26 September 1983, when the launcher for the Soyuz T-10a mission was destroyed by fire on the launch pad. The crew was saved by activation of the launch escape system a few seconds before the explosion.
+
+
+== Missions after 2000 ==
+From 2000 until its retirement in 2017, Soyuz-U vehicles were used by the Russian Federal Space Agency primarily to launch Progress-M robotic cargo spacecraft on resupply missions to the International Space Station (ISS).
+Although the Soyuz-U was generally reliable, occasional failures occurred, most of them on launches of Zenit and Yantar reconnaissance satellites. As with all Soviet/Russian launch vehicles, the 11A511U featured the AVD malfunction detection system which would terminate engine thrust in-flight if it detected a deviation from the booster's normal performance levels and on Soyuz launches also activate the launch escape system. The flight termination command could not be sent until 20 seconds into launch so the booster wouldn't fall onto or around the launch complex and the AVD could not generate a flight termination command until eight seconds to ensure the booster had entered stable mainstage operation. On 18 June 1987, a launch of a Resurs satellite from Plesetsk ended disastrously when the Blok D strap-on LOX turbopump disintegrated at T+6 seconds due to ingested debris. The booster crashed near the pad, badly damaging it and putting it out of use for 18 months. During investigation into the mishap, it was concluded that the launch would not have been survivable had it been crewed because the failure occurred before the AVD system could have activated, and thus the launch escape system would not have worked on a crewed launch.
+It was also concluded that eight seconds was excessive and the booster would reach mainstage operation by about T+1.6 seconds; the AVD system had been designed in the late 1950s when only a few R-7 prototypes had flown and there was little flight data to go by. The AVD was redesigned to be able to issue a flight termination command at 1.6 seconds, which of course would still be blocked until T+20 seconds.
+On 27 July 1988, the first R-7 vehicle with the redesigned AVD system launched from Plesetsk with another Resurs satellite. The AVD issued an erroneous shutdown command at T+1.6 seconds. The booster lifted and flew until T+20 seconds when the shutdown command was unblocked and terminated engine thrust, causing it to fall near LC-43/4 and severely damage it. An investigation into the mishap found that the new AVD system had a faulty circuit layout.
+On 14 May 1996, a launch of a Yantar reconnaissance satellite from Baikonur ended 53 seconds into launch when the payload fairing disintegrated. The resultant disruption to the booster's aerodynamic profile caused it to pitch down and the AVD issued an automatic shutdown command. The booster crashed downrange. A second launch of a Yantar satellite on 20 June repeated the same failure, after which it was found that a new payload shroud design used on Yantar launches was faulty and unable to withstand aerodynamic loads as the booster approached Max Q. The shroud was redesigned afterward.
+The October 2002 launch of a Foton satellite crashed near the pad at Plesetsk after the Blok D strap-on booster suffered an engine malfunction. One person on the ground was killed. The Blok D experienced an abnormally slow thrust rise at ignition followed by a decay in performance starting at T+4 seconds. The AVD system sensed the drop in Blok D performance and issued the flight termination command at T+5 seconds but it was blocked until T+20 seconds. The Blok D shut down completely and broke off the stack at T+8 seconds. The booster continued to climb but started deviating from its flight path due to the unbalanced thrust. The flight termination command was unblocked at T+20 seconds and the core and remaining strap-ons shut down. The booster impacted the ground at T+41 seconds as a crowd of 300 spectators watched. Six Russian military servicemen were injured and one later died of his injuries. A building used to produce compressed air and nitrogen was also badly damaged. Investigation into the mishap found that the Blok D's hydrogen peroxide pump had stopped working due to ingested debris.
+A Soyuz-U mission failed to launch Progress M-12M to the ISS on 24 August 2011, when the upper stage experienced a problem and broke up over Siberia. It was the first time a Progress spacecraft had failed to reach orbit. Another cargo ship, Progress MS-04, was lost on 1 December 2016 shortly after launch, likely due to a problem with the third stage of the Soyuz-U.
+In April 2015, Soyuz-U was declared obsolete. Its production was stopped and the rocket was scheduled for retirement after launching the remaining vehicles with Progress cargo ships. The final flight was Progress MS-05, which launched from the Baikonur Cosmodrome on 22 February 2017, 05:58:33 UTC.
+
+
+== Replacement ==
+The modernized Soyuz 2 was introduced in 2004, adding several key enhancements, including improved engines along with digital flight control and telemetry systems, enabling launches from fixed platforms and the use of large payload fairings. The analogue flight control systems of the Soyuz-U and FG limited the ability of the launch vehicle to adjust its trajectory in-flight, requiring that the rocket be "aimed" before takeoff by a complex rotating launchpad. Long and wide payload fairings also introduced too much aerodynamic instability for the old analog system to handle, limiting the vehicle's potential to launch increasingly larger commercial satellites.
+After several years of development, flight tests and concurrent use, the Soyuz 2 replaced the Soyuz-U in 2017 the Soyuz-FG in 2019, and launched its first crewed mission in 2020.
+
+
+== Gallery ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+(PDF) Soyuz Launch Vehicle Users Manual

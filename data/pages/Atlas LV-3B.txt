@@ -1,0 +1,120 @@
+The Atlas LV-3B, Atlas D Mercury Launch Vehicle or Mercury-Atlas Launch Vehicle, was a human-rated expendable launch system used as part of the United States Project Mercury to send astronauts into low Earth orbit. Manufactured by Convair, it was derived from the SM-65D Atlas missile and was a member of the Atlas family of rockets. With the Atlas having been originally designed as a weapon system, testing and design changes were made to the missile to make it a safe and reliable launch vehicle. After the changes were made and approved, the US launched the LV-3B nine times, four of which had crewed Mercury spacecraft.
+
+
+== Design ==
+The Atlas LV-3B was a human-rated expendable launch system used as part of the United States Project Mercury to send astronauts into low Earth orbit. Manufactured by American aircraft manufacturing company Convair, it was derived from the SM-65D Atlas missile and was a member of the Atlas family of rockets. The Atlas D missile was the natural choice for Project Mercury, as it was the only launch vehicle in the US arsenal that could put the spacecraft into orbit and also had many flights from which to gather data.
+The Atlas had been originally designed as a weapon system. Thus, its design and reliability did not need to necessarily be 100% perfect, which led to Atlas launches frequently ending in explosions. As such, significant steps had to be taken to human-rate the missile to make it safe and reliable, unless NASA wished to spend several years developing a dedicated launch vehicle for crewed programs or else wait for the next-generation Titan II ICBM to become operational. Atlas's stage-and-a-half configuration was seen as preferable to the two-stage Titan in that all engines were ignited at liftoff, making it easier to test for hardware problems during pre-launch checks.
+Shortly after being chosen for the program in early 1959, the Mercury astronauts were taken to watch the second D-series Atlas test, which exploded a minute into launch. This was the fifth straight complete or partial Atlas failure, and the booster was at this point nowhere near reliable enough to carry a nuclear warhead or an uncrewed satellite, let alone a human passenger. Plans to human-rate Atlas were effectively still on the drawing board, and Convair estimated that 75% reliability would be achieved by early 1961 and 85% reliability by the end of the year. Despite the Atlas' developmental problems, NASA had the benefit of conducting Project Mercury simultaneously with the Atlas R&D program, which gave plenty of test flights to draw data from, as well as test modified equipment for Mercury.
+
+
+== Quality assurance ==
+
+Aside from the modifications described below, Convair set aside a separate assembly line dedicated to Mercury-Atlas vehicles which was staffed by personnel who received special orientation and training on the importance of the crewed space program and the need for as high a degree of top-quality workmanship as possible. Components used in the Mercury-Atlas vehicles were given thorough testing to ensure proper manufacturing quality and operating condition. In addition, components and subsystems with excessive operating hours, out-of-specification performance, and questionable inspection records would be rejected. All components approved for the Mercury program were earmarked and stored separately from hardware intended for other Atlas programs and special handling procedures were taken to protect them from damage. The factory inspection of Mercury vehicles was performed by Convair personnel specially chosen for their experience, familiarity with the Atlas hardware, and who had demonstrated a favorable disposition and work ethic.
+Propulsion systems used for the Mercury vehicles would be limited to standard D-series Atlas models of the Rocketdyne MA-2 engines which had been tested and found to have performance parameters closely matching NASA's specifications. NASA decided that the best choice of engines would be units with roughly medium-tier performance. Engines with higher than average performance were not considered acceptable because it could not be determined exactly why a given set of engines performed the way it did, and so it was considered safest to use medium-performance ones.
+For the most part, NASA preferred to stay conservative with the Mercury vehicles and avoid modifying them any more than necessary. Modifications to the Atlas would largely be limited to those that improved pilot safety, and the standard D-series Atlas configuration was to be retained as much as possible, so assorted enhancements made to the latest Atlas missiles would not be used. Various equipment and procedures used with Mercury vehicles, although outdated and often not the best or latest, were preferred because they were proven and well-understood. Any new equipment or hardware changes made to Mercury vehicles had to be flown on at least three Atlas R&D tests before NASA would approve them for use. Despite the conservatism and caution taken with the design of Mercury vehicles, a large number of changes did take place over the 4+1⁄2 years of the program from lessons learned, and the emphasis on quality control got tighter as time went along; the last two Mercury flights were given a level of testing and pre-flight inspection that was unheard of when Big Joe flew in 1959.
+All launch vehicles would have to be complete and fully flight-ready at delivery to Cape Canaveral with no missing components or unscheduled modifications/upgrades. After delivery, a comprehensive inspection of the booster would be undertaken, and prior to launch, a flight review board would convene to approve each booster as flight-ready. The review board would conduct an overview of all pre-launch checks and hardware repairs/modifications. In addition, Atlas flights that had taken place over the past few months in both NASA and Air Force programs would be reviewed to make sure no failures occurred involving any components or procedures relevant to Project Mercury.
+The NASA Quality Assurance Program meant that each Mercury-Atlas vehicle took twice as long to manufacture and assemble as an Atlas designed for uncrewed missions and three times as long to test and verify for flight.
+
+
+== Systems modified ==
+
+
+=== Abort sensor ===
+Central to these efforts was the development of the Abort Sensing and Implementation System (ASIS), which would detect malfunctions in the Atlas's various components and trigger a launch abort if necessary. Added redundancy was built in; if ASIS itself failed, the loss of power would also trigger an abort. The ASIS system was first carried on a few Atlas missile R&D flights, then flown open loop on Mercury-Atlas 1, meaning the ASIS could generate an abort signal but not send a cutoff command to the propulsion system. It was operated closed-loop on MA-3 for the first time.
+The Mercury launch escape system (LES) used on Redstone and Atlas launches was identical, but the ASIS system varied considerably between the two boosters as Atlas was a much larger, more complex vehicle with five engines, two of which were jettisoned during flight, a more sophisticated guidance system, and inflated balloon tanks that required constant pressure to not collapse.
+Big Joe and MA-1 had no escape tower, the latter's in-flight failure was possibly due to the lack of the LES negatively affecting its aerodynamic profile and so MA-2 carried a dummy tower. A live LES was carried for the first time on MA-3 (and ended up proving its functionality in an unplanned test).
+Atlas flight test data was used to draw up a list of the most likely failure modes for the D-series vehicles, however simplicity reasons dictated that only a limited number of booster parameters could be monitored. An abort could be triggered by the following conditions, all of which could be indicative of a catastrophic failure:
+
+The booster flight path deviated too far from the planned trajectory
+Engine thrust or hydraulic pressure dropped below a certain level
+Propellant tank pressure dropped below a certain level
+The intermediate tank bulkhead showed signs of losing structural integrity
+The booster electrical system ceased operating
+The ASIS system ceased operating
+The ASIS system was deemed necessary because some flight failures of Atlas vehicles (for instance, Atlas 6B) occurred so fast that it would be nearly impossible for the astronaut to react in time to manually activate the LES. Other failure modes such as a deviation from the correct flight trajectory did not necessarily pose an immediate danger to the astronaut's safety, and the flight could be aborted manually.
+Not all of the modifications listed below were carried on every Mercury flight and numerous changes were made along the way in the interest of improvement or as a result of flight data obtained from failed Atlas launches. Quality control and checkout procedures also improved and became more detailed over the course of the program.
+
+
+=== Rate gyros ===
+The rate gyro package was placed much closer to the forward section of the LOX tank due to the Mercury/LES combination being considerably longer than a warhead and thus producing different aerodynamic characteristics (the standard Atlas D gyro package was still retained on the vehicle for the use of the ASIS). Mercury-Atlas 5 also added a new reliability feature—motion sensors to ensure proper operation of the gyroscopes prior to launch. This idea had originally been conceived when the first Atlas B launch in 1958 went out of control and destroyed itself after being launched with a non-functioning yaw gyro, but it was phased into Atlas vehicles only gradually. One other Atlas missile test in 1961 also destroyed itself during launch, in that case because the gyroscope motor speed was too low. The motion sensors would thus eliminate this failure mode.
+
+
+=== Range safety ===
+The range safety system was also modified for the Mercury program. There would be a three-second delay between engine cutoff and activation of the destruct charges so as to give the LES time to pull the capsule to safety. More specifically, if the Range Safety destruct command was sent, the ASIS system would allow the engine cutoff signal to go through, while blocking the destruct signal for three seconds. The decrease in engine performance would then be sensed by the ASIS, which would activate the LES, after which the destruct signal would be unblocked and destroy the launch vehicle. Engine cutoff and destruct commands were also blocked for the first 30 seconds of launch to prevent a malfunctioning vehicle from coming down on or around the pad.
+
+
+=== Autopilot ===
+D-series Atlas missiles as well as early SLV variants carried an old-fashioned electromechanical autopilot (known as the "round" autopilot due to the shape of the containers its major components were housed in), but on Mercury vehicles, it was decided to use the newer transistorized "square" autopilot developed for the E and F-series missiles, and for the upcoming Atlas-Centaur vehicle. The first three Mercury-Atlas vehicles still had the round autopilot and it was flown for the first time on Mercury-Atlas 3, but failed disastrously when the booster did not perform the programmed pitchover maneuver and had to be destroyed by Range Safety action. Afterwards, the missile programmer was recovered and examined. While the exact cause of the failure was not identified, several causes were proposed and a number of modifications made to the programmer. On Mercury-Atlas 4, high vibration levels in flight resulted in more modifications and it worked successfully on Mercury-Atlas 5.
+
+
+=== Telemetry ===
+Beginning on MA-3, a newer transistorized telemetry system replaced the old vacuum tube-based unit, which was heavy, had high power consumption, and tended to suffer from signal fade as vehicle altitude increased. As with most SLV configurations of Atlas, Mercury vehicles carried only one telemetry package while R&D missile tests had three.
+
+
+=== Antenna ===
+The guidance antenna was modified to reduce signal interference.
+
+
+=== LOX boil-off valve ===
+Mercury-Atlas vehicles utilized the boil-off valve from the C-series Atlas rather than the standard D-series valve for reliability and weight-saving reasons.
+
+
+=== Combustion sensors ===
+Combustion instability was a repeated problem in static firing tests of the MA-2 engines and had also caused the on-pad explosion of two Atlas vehicles in early 1960. Thus, it was decided to install extra sensors in the engines to monitor combustion levels and the booster would also be held down on the pad for a few moments after ignition to ensure smooth thrust. The engines would also use a "wet start", meaning that the engine tubes would contain an inert fluid to act as a shock damper (the two failed Atlas D flight tests used dry starts, with no fluid in the engine tubes). If the booster failed the check, it would be automatically shut down. By late 1961, after a third missile (27E) had exploded on the pad from combustion instability, Convair developed a significantly upgraded propulsion system that featured baffled fuel injectors and a hypergolic igniter in place of the pyrotechnic method, but NASA were unwilling to jeopardize John Glenn's upcoming flight with these untested modifications and so declined to have them installed in Mercury-Atlas 6's booster. As such, that and Scott Carpenter's flight on MA-7 used the old-style Atlas propulsion system and the new variant was not employed until Wally Schirra's flight late in 1962.
+Static testing of Rocketdyne engines had produced high-frequency combustion instability, in what was known as the "racetrack" effect where burning propellant would swirl around the injector head, eventually destroying it from shock waves. On the launches of Atlas 51D and 48D, the failures were caused by low-order rough combustion that ruptured the injector head and LOX dome, causing a thrust section fire that led to eventual complete loss of the missile. The exact reason for the back-to-back combustion instability failures on 51D and 48D was not determined with certainty, although several causes were proposed. This problem was resolved by installing baffles in the injector head to break up swirling propellant, at the expense of some performance as the baffles added additional weight and reduced the number of injector holes that the propellants were sprayed through. The lessons learned with the Atlas program later proved vital to the development of the much larger Saturn F-1 engine.
+
+
+=== Electrical system ===
+Added redundancy was made to the propulsion system electrical circuitry to ensure that SECO would occur on time and when commanded. The LOX fuel feed system received added wiring redundancy to ensure that the propellant valves would open in the proper sequence during engine start.
+
+
+=== Tank bulkhead ===
+Mercury vehicles up to MA-7 had foam insulation in the intermediate bulkhead to prevent the super-chilled LOX from causing the RP-1 to freeze. During repairs to MA-6 prior to John Glenn's flight, it was decided to remove the insulation for being unnecessary and an impediment during servicing of the boosters in the field. NASA sent out a memo to GD/A requesting that subsequent Mercury-Atlas vehicles not include bulkhead insulation.
+
+
+=== LOX turbopump ===
+In early 1962, two static engine tests and one launch (Missile 11F) fell victim to LOX turbopump explosions caused by the impeller blades rubbing against the metal casing of the pump and creating a friction spark. This happened after over three years of Atlas flights without any turbopump issues and it was not clear why the rubbing occurred, but it determined that it occurred when the sustainer inlet valve was moving to the flight-ready "open" position and while running untested hardware modifications. In addition, Atlas 113D, the booster used for Wally Schirra's flight, was given a PFRT (Pre-Flight Readiness Test) to verify proper functionality of the propulsion system. On MA-9, a plastic liner was added to the inside of the pumps to prevent this failure mode from recurring.
+
+
+=== Pneumatic system ===
+Mercury vehicles used a standard D-series Atlas pneumatic system, although studies were conducted about the cause of tank pressure fluctuation which was known to occur under certain payload conditions. These studies found that the helium regulator used on early D-series vehicles had a tendency to induce resonant vibration during launch, but several modifications to the pneumatic system had been made since then, including the use of a newer model regulator that did not produce this effect.
+The flow of helium to the LOX tank on Mercury vehicles was limited to 1 lb per second. This change was made after Atlas 81D, an IOC test from VAFB, was destroyed in-flight due to a malfunction that caused the pressurization regulator to overpressurize the tank until it ruptured.
+
+
+=== Hydraulic system ===
+The hydraulic system on Mercury vehicles was a standard D-series Atlas setup. The vernier solo accumulator was deleted as Mercury vehicles did not perform vernier solo mode. A hydraulic pressure switch on MA-7 was tripped and flagged an erroneous abort signal, so on subsequent vehicles additional insulation was added as cold temperatures from LOX lines were thought to have triggered it.
+
+
+=== Propellant utilization system ===
+In the event that the guidance system failed to issue the discrete cutoff command to the sustainer engine and it burned to propellant depletion, there was the possibility of a LOX-rich shutdown which could result in damage to engine components from high temperatures. For safety reasons, the PU system was modified to increase the LOX flow to the sustainer engine ten seconds before SECO. This was to ensure that the LOX supply would be completely exhausted at SECO and prevent a LOX-rich shutdown. The PU system was set up in the Atlas C configuration through MA-6 in the interest of reliability, the standard D-series PU setup not being used until MA-7.
+
+
+=== Skin ===
+Big Joe and MA-1's boosters sported thicker gauge skin on the fuel tank but the LOX tank used the standard D-series missile skin. After the loss of the latter vehicle in flight, NASA determined that the standard LOX tank skin was insufficient and requested it be made thicker. Atlas 100D would be the first thick-skinned booster delivered while in the meantime, MA-2's booster (67D) which was still a thin-skinned model, had to be equipped with a steel reinforcement band at the interface between the capsule and the booster. Under the original plans, Atlas 77D was to have been the booster used for MA-3. It received its factory rollout inspection in September 1960, but shortly afterwards, the postflight findings for MA-1 came out which led to the thin-skinned 77D being recalled and replaced by 100D.
+The LOX tank skin was thickened still further on MA-7 as the operational Mercury flights carried more equipment and consumables than the R&D ones and capsule weight was growing.
+
+
+=== Guidance ===
+The vernier solo phase, which would be used on ICBMs to fine-tune the missile velocity after sustainer cutoff, was eliminated from the guidance program in the interest of simplicity as well as improved performance and lift capacity. Since orbital flights required an extremely different flight path from missiles, the guidance antennas had to be completely redesigned to ensure maximum signal strength. The posigrade rocket motors on the top of the Atlas, designed to push the spent missile away from the warhead, were moved to the Mercury capsule itself. This also necessitated adding a fiberglass insulation shield to the LOX tank dome so it would not be ruptured by the rocket motors.
+
+
+=== Engine alignment ===
+A common and normally harmless phenomenon on Atlas vehicles was the tendency of the booster to develop a slight roll in the first few seconds following liftoff due to the autopilot not yet having started. On a few flights, however, the booster developed enough rolling motion to potentially trigger an abort condition if it had been a crewed launch. Although some roll was naturally imparted by the Atlas's turbine exhaust, this could not account for the entire problem which instead had more to do with engine alignment. Acceptance data from engine supplier Rocketdyne showed that a group of 81 engines had an average roll movement in the same direction of approximately the same magnitude as that experienced in flight. Although the acceptance test-stand and flight-experience data on individual engines did not correlate, it was determined that offsetting the alignment of the booster engines could counteract this roll motion and minimize the roll tendency at liftoff. After Schirra's Mercury flight experienced momentary roll problems early in the launch, the change was incorporated into Gordon Cooper's booster on MA-9.
+
+
+== Launches ==
+
+Nine LV-3Bs were launched, two on uncrewed suborbital test flights, three on uncrewed orbital test flights, and four with crewed Mercury spacecraft. Atlas LV-3B launches were conducted from Launch Complex 14 at Cape Canaveral Air Force Station, Florida.
+It first flew on 29 July 1960, conducting the suborbital Mercury-Atlas 1 test flight. The rocket suffered a structural failure shortly after launch, and as a result failed to place the spacecraft onto its intended trajectory. In addition to the maiden flight, the first orbital launch, Mercury-Atlas 3 also failed. This failure was due to a problem with the guidance system failing to execute pitch and roll commands, necessitating that the Range Safety Officer destroy the vehicle. The spacecraft separated by means of its launch escape system and was recovered 1.8 kilometres (1.1 mi) from the launch pad.
+A further series of Mercury launches was planned, which would have used additional LV-3Bs; however these flights were canceled after the success of the initial Mercury missions. The last LV-3B launch was conducted on 15 May 1963, for the launch of Mercury-Atlas 9. NASA originally planned to use leftover LV-3B vehicles to launch Gemini-Agena Target Vehicles, however an increase in funding during 1964 meant that the agency could afford to buy brand-new Atlas SLV-3 vehicles instead, so the idea was scrapped.
+
+
+== Mercury-Atlas vehicles built and eventual disposition ==
+
+
+== See also ==
+Mercury-Redstone Launch Vehicle
+SM-65 Atlas
+
+
+== References ==

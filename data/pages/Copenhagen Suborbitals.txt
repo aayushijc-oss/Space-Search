@@ -1,0 +1,146 @@
+Copenhagen Suborbitals is a crowd-funded human space program. It has flown six home-built rockets and capsules since 2011. The organization successfully launched its Nexø II rocket in the summer of 2018. Its stated goal is to have one of its members reach space (above 100 km) on a sub-orbital spaceflight. The organization was founded by Kristian von Bengtson and Peter Madsen.
+As of September 2024, the program has 63 volunteers who elect a chairman and board members at their annual general assemblies. The chairman is Jørgen Skyt.
+
+
+== History ==
+
+Copenhagen Suborbitals was founded in 2008 by Kristian von Bengtson and Peter Madsen as a non-profit, crowd-funded project that discussed most of their operations on blogs and lectures.
+On 23 February 2014, the board of Copenhagen Suborbitals announced that Kristian von Bengtson had left the group, after falling out with Madsen. Madsen left in June 2014.
+
+
+== Rockets and engines ==
+
+
+=== Spica ===
+In 2014, Copenhagen Suborbitals designed a basic first crewed rocket and space capsule. They named it Spica, and it is planned to stand 12–14 m tall with a diameter of 950 mm. As of late September 2024, two pressure hardened 950mm steel tanks have been constructed and the development of the BPM-25 engine class is well underway.
+Originally, the Spica rocket was planned to be powered by the BPM-100 class, but due to internal manufacturing troubles, the BPM-25 was eventually decided on as the engine to power the rocket. Though it is weaker than the BPM-100, necessitating clustering in order to achieve the necessary thrust, it provides several advantages through greater roll authority and flow control. The BPM-25 provides 25 kN of thrust, and similar to the BPM-100 engine, it uses liquid oxygen as oxidizer and ethanol as fuel. Spica will maneuver by thrust vectoring on its BPM-25 engines.
+The rocket will be fully guided by home-built electronics and software. Many of the systems and technology planned for use on this rocket were previously tested and proven on the smaller Nexø class rockets in during the 2016 to 2018 period. The space capsule will be of a tubular design similar to its predecessor Tycho Brahe. While the Spica capsule has not entered more than marginal construction as of 2024, CS plans on first building a boilerplate capsule to test on the ground before moving onto the real article.
+
+
+=== BPM-2 and BPM-5 ===
+During the 2016-2018 period, the group designed, built and tested a series of smaller engines with a nominal thrust of 2 and 5 kN - the BPM(Bi-Propellant Motor)-2 class and BPM-5 class respectively. Nexø I launched under the power of a BPM-5 on July 23rd, 2016. On August 4, 2018, just as the Nexø I, Nexø II was launched under the power of a BPM-5. The Nexø class was primarily intended to serve as a technology demonstrator ahead of the development of Spica. The BPM engines are bi-liquid rocket engines using LOX and ethanol, regeneratively cooled by the ethanol fuel.
+The BPM-2 was primarily intended to serve as a test article for the CS test stand and manufacturing methods, and was never intended to launch a rocket. The BPM-2 engine was static fired 4 separate times on May 2nd, 2015.
+The tests were successful, with results exceeding expectations. Different fuel additives (such as TEOS) as well as different jet vane materials were also tested. The 2015 test firings used passive pressure blow-down.
+No more development or use for BPM-2 or -5 engines is planned. CS has primarily moved on to the use of the BPM-25 ahead of the planned development of the Spica rocket.
+
+
+=== Engines and propellant 2008–2014 ===
+From 2008 to 2012, the group based the work on a hybrid rocket, using liquid oxygen (LOX) as oxidizer.  Originally, the HEAT-1X rocket was to be fueled by paraffin wax, but a ground test 28 February 2010 revealed that some of the paraffin wax had only partially melted, instead of evaporating. The result was that HEAT-1X had less power than expected. A ground test firing of HEAT-1X-P (P for polyurethane) was conducted 16 May 2010. The polyurethane had the impulse required, but showed heavy oscillation. Until 2011 the group had performed more than 30 tests of various engine types at their rocket engine test facility at Refshaleøen. In fall of 2012 a concept engine using white fuming nitric acid and furfuryl alcohol was tried using a static test setup. In 2012 a decision was made to switch to bi-propellant, liquid-fueled engines running on liquid oxygen and ethanol. This evolved into the BPM(Bi-Propellant Motor) class currently in use at CS as of 2024.
+
+
+=== HATV ===
+The HATV (Hybrid Atmospheric Test Vehicle) was a planned sounding rocket. The HATV booster was successfully static fired, though it was never launched. 
+
+
+=== HEAT-1X ===
+
+HEAT 1X (Hybrid Exo Atmospheric Transporter) was the rocket booster module intended to launch the space capsule Tycho Brahe into space, the combination being known as HEAT-1X TYCHO BRAHE. The rocket design was the result of numerous static-booster tests of the solid fuel epoxy and the liquid oxidizer nitrous oxide. A combination which was also used in the scale-down test rocket HATV (Hybrid Atmospheric Test Vehicle) which was only one third the size of the HEAT. Stabilization of the rocket was provided through rollerons. The rocket was launched on June 3rd, 2011. from the floating Sputnik platform.
+Within the first few seconds the rocket unexpectedly began to pitch over to approximately 30 degrees to horizontal. Due to the undesirable angle, the motor was manually commanded to shut down 16 seconds into flight at an altitude of 1.4 kilometers, with the rocket eventually rising to an apogee of approximately 2.8 kilometers, significantly off from the 30km goal. The rocket landed 8.5 kilometers away from the position where it was launched. The Tycho Brahe successfully separated from the booster, however, both the parachutes for the booster and Tycho Brahe did not successfully deploy. In the case of the Tycho Brahe, it was successfully recovered from the ocean after suffering a 26G impact upon landing. It was found waterlogged and partially damaged. The booster sank to a depth of 80-90 meters.
+
+
+=== TM-65 and TM-65 IIA and TM-65 IIB ===
+
+TM-65 and TM-65 IIA/B were liquid propellant engines using 75% Ethanol and liquid oxygen (LOX) as oxidizer. These engines produced about 65 kN thrust. First static tests were conducted in May 2012. One TM-65 II engine was for HEAT-2X and one was for HEAT-1600 LE. The TM-65 engine passed the test undamaged, and was fired at up to 50% of its rated thrust. The group planned to repeat the test with higher thrust levels, until the TM-65 class in 2014 was abandoned in favour of the BPM-100 engine concept.
+
+
+=== HEAT-2X ===
+The HEAT-2X was a rocket built for flight-testing the TM-65 engine. It was planned to carry a 1:3 scale, 80 kg space capsule mock-up called the TDS-80 to about the Kárman Line.
+The rocket was not flown as it suffered an engine fire during a static test in the summer of 2014. The rocket nozzle imploded and a welding seam opened resulting in the expulsion of all the ethanol fuel (some 500 L) in just three seconds resulting in a large fire which damaged part of the rocket. The engine failure and subsequent fire was filmed up close with a high-speed camera, which although burned on the outside, survived the inferno enough for the film to be recovered. The fire damaged the onboard TM-65 engine enough to be unrepairable, leading to both the engine and HEAT-2X as a whole being retired to the CS museum. This was one of the major deciding factors in choosing to retire the TM-65 class.
+
+
+=== RC-A1 Rocket and Recruits Initiative ===
+The Recruits Initiative, launched in 2021, was designed to attract and educate talented young individuals in the fields of rocket science and technology. The initiative also aimed at enhancing Danish expertise within the space and defense industries by fostering the development of skilled professionals. This project contributes to the success of the Spica project and it also strengthens the competitiveness of Danish businesses in the growing global space industry. 
+The Recruit Rocket is a single-stage rocket designed and developed by the recruits team at Copenhagen Suborbitals. The rocket measures 5 meters in length from nose to engine, with a total weight, including fuel, of approximately 165 kg. Instead of a turbopump, it is powered by a dynamic pressure-regulating system (DPR). The BPM5 engine has been refined to the maximum during the rocket’s development, and through optimizing the design, it has achieved an impressive performance of 10 kN. The rocket’s top speed with a 5 kN motor is estimated to be 475 m/s, which is 1710 km/h. The project has provided a unique opportunity for the new members to gain hands-on experience, not only with the fundamental aspects of rocket design but also equipping them with the ability to tackle the various challenges that arise during rocket projects. As of 2024, the rocket is set for static testing in early 2025.
+
+
+== Space Capsules ==
+
+
+=== Tycho Brahe ===
+
+The micro space craft (MSC), named Tycho Brahe after the Danish astronomer, has a steel pressure hull with room for one passenger.
+The passenger would be able to view the outside through a Perspex dome. The occupant would fly in a half-standing, half-sitting position in a specially designed seat and would be wearing anti-G trousers to avoid blackout. Another compartment contains both the high-speed drogue parachute and the low-speed main parachutes for deceleration. The volume of the MSC will provide the buoyancy in the water upon touchdown.
+The first MSC was christened "Tycho Brahe 1" and its first flight was not crewed, instead using a crash test dummy. A new aluminum MSC called MAX-1 named after Maxime Faget was under development but has been abandoned, according to the group, due to the physiological problems associated with rapid acceleration of a human in standing position. The craft is now on display in the Tycho Brahe Planetarium in Copenhagen.
+
+
+=== Tycho Deep Space ===
+
+Tycho Deep Space is a space capsule developed by Kristian von Bengtson. The first version officially named "Beautiful Betty" by Mikael Bertelsen, the capsule's protector. The uncrewed capsule was launched on 12 August 2012 at sea by a test Launch Escape System, off the coast of Bornholm. The launch did not provide enough height for the parachute to deploy and the capsule was partly damaged on impact with the sea. Due to this damage, the TDS was retired. The capsule is 2 m in diameter, allowing for an astronaut to be in a horizontal position relative to the acceleration during launch and landing. This is in opposition to the first-generation Tycho Brahe design that required the astronaut to stand inside.
+
+
+== Missions ==
+The group originally focused on launching from a land based spaceport like Andøya, Kiruna, or Iceland The focus then turned towards a sea launch just outside the territorial waters of Denmark. A permission to launch was given by Danish authorities, but the North Sea, a possibility suggested by Danish Civil Aviation Administration (Statens Luftfartsvæsen) was rejected in 2009 by the Danish Maritime Authority (Søfartsstyrelsen). They preferred another area, giving formal and written permission to launch from the military firing range ESD138/ESD139, located at 55°02′57″N 15°36′11″E in the Baltic Sea. It is just outside Nexø on the Danish island of Bornholm. Copenhagen Suborbitals then had to build a floating mobile launcher platform (MLP) called Sputnik, named after the first artificial satellite to be put into orbit. Their launch campaigns includes the following ships:
+
+MLP-Sputnik - At first had to be towed via submarine, but later it had two diesel engines installed, and now sails under its own power.
+MHV Hjortø - A Naval Home Guard vessel which serves as mission control and recovery vessel.
+
+
+=== 2010: The first launch attempt ===
+The first full-scale test-launch aimed at 30 km altitude was planned to be conducted off the coast of Bornholm between 30 August and 13 September 2010. The vehicle carried a crash test dummy "Rescue Randy" instead of a human pilot, with crewed flight not planned for some years. The success criteria were the completion of the sea voyage and a countdown with launch, with recovery planned as a bonus.
+On Tuesday, 31 August 2010, the privately built Danish submarine UC3 Nautilus pushed the launch platform Sputnik carrying the rocket and spacecraft from Copenhagen towards the launch area near Nexø, Bornholm.
+A launch attempt was made on Sunday, 5 September 2010, 14:43 CEST, but the motor could not be started due to a failure of the LOX valve which is assumed to be caused by insufficient heating of the valve. The design famously included a consumer hair dryer for defrosting the LOX-valve; in effect it was not the blow-dryer but its power supply that failed.
+The group promised to come back the year after to attempt the launch again.
+
+
+=== 2011: First flight of HEAT-1X Tycho Brahe ===
+
+Having done updates on the rocket, and the valve, and with MLP-Sputnik under her own power, and a support vessel, the group sailed again for Spaceport Nexø on May 28 at 4:50 a.m. They again met up with MHV Hjortø, a Naval Home Guard vessel that serves as mission control and recovery vessel. The second launch attempt was more successful and the maiden flight took place 3 June 2011, at 16:32 local time (CEST) (14:32 GMT). The HEAT-1X rocket lifted off, but was only able to ascend to an altitude of only 2.8 km. Mission Control had to shut the engine off early after 21 seconds.
+
+
+== 2012 Missions ==
+
+
+=== SMARAGD Flight ===
+
+The SMARAGD rocket (emerald in Danish) is a 5.7 meter two-stage rocket weighing 160 kg, intended to reach an altitude in excess of 20km, that was used for testing various technological aspects of the operation. On July 27, 2012, the team set out from Nexø towards the launch site, intending to launch the SMARAGD rocket. After some initial problems with the remote launch control, the rocket launched successfully just after 1 pm and reached a maximum altitude of 8.2 km. It was evident shortly after takeoff that the nosecone containing electronics broke off during launch, possibly due to the large acceleration of estimated 20 g.
+
+
+=== Tycho Deep Space / LES flight ===
+On 12 August 2012 at 09:18, the space capsule Tycho Deep Space was launched to test a launch escape system. However the parachute did not deploy properly and the capsule was damaged on impact. Several media had misunderstood the schedule and proclaimed the launch to have been started prematurely due to an error. The test was considered partly successful by the team, due to the successful rocket launch and the unsuccessful parachute deployment. The launch could be followed live via live streaming from several video cameras; additionally high-speed cameras were mounted on the MLP.
+
+
+== 2013 Missions ==
+
+
+=== SAPPHIRE-1 Mission ===
+SAPPHIRE-1, a modification of the HATV, was a 4.5 m rocket whose main purpose was to test the active guidance system developed by Copenhagen Suborbitals. It was successfully launched on 23 June 2013.
+
+
+== 2016 Missions ==
+
+
+=== Nexø I ===
+Nexø I was launched Saturday, 23 July 2016, with inaugural BPM-5 engine. It was a partial success, and the supply of liquid oxygen to the engine was insufficient due to partial premature evaporation.
+
+
+== 2018 Missions ==
+
+
+=== Nexø II ===
+The Nexø II was successfully launched on 4 August 2018, with a slightly modified BPM-5 engine. It reached an apogee of approximately 6.5 km and was safely recovered via parachute.
+
+
+== Goals and records achieved ==
+Copenhagen Suborbitals' achievements include:
+
+Most powerful amateur rocket ever flown.
+First amateur rocket flown with a payload of a full-size crash test dummy.
+First Main Engine(s) Cut-Off (MECO) command sent to, received and performed by an amateur rocket.
+Handling and orchestration of a sea launch by a small-budget organization.
+On 3 October 2013, Copenhagen Suborbitals was awarded the "Breitling Milestone Trophy" award by Fédération Aéronautique Internationale at a ceremony in Kuala Lumpur.
+
+
+== Support group ==
+In 2010, an independent group of space enthusiasts founded the Copenhagen Suborbitals Support group (CSS). The main purpose of this group is to "support CS economically, morally and practically in their mission". Within two days after its founding, CSS reached 100 members. November 15, 2011 marked a major milestone for CSS as 500 members was reached. As of early 2024, around 600 members were recorded.
+By paying a fixed monthly amount, the members of Copenhagen Suborbitals Support now cover most of the fixed costs for the project in addition to donating various forms of hardware. By 2015, CS was supported with £12,500 per month.
+
+
+== References ==
+
+
+== External links ==
+
+Copenhagen Suborbitals official website
+Wired blog written by Kristian von Bengtson of Copenhagen Suborbitals
+Project overview on Ingeniøren
+Danish blog written by the people of Copenhagen Suborbitals

@@ -1,0 +1,41 @@
+Space Network (SN) is a NASA program that combines space and ground elements to support spacecraft communications in Earth vicinity.  The SN Project Office at Goddard Space Flight Center (GSFC) manages the SN, which consists of:
+
+The geosynchronous Tracking and Data Relay Satellites (TDRS),
+Supporting ground terminal systems,
+The Bilateration Ranging and Transponder System (BRTS),
+Merritt Island Launch Annex (MILA) relay,
+Network Control Center Data System (NCCDS).
+
+
+== Satellite generations ==
+
+Tracking and Data Relay Satellite (TDRS) currently consists of first-generation (F1–F7), and second-generation (F8–F10) satellites.
+The space segment of the SN consists of up to six operational relay satellites in geosynchronous orbit. These communications satellites are allocated longitudes for relaying forward and return service signals to and from customers, any entity with an Earth-orbiting satellite that has an agreement with SN to use its communications services, for data transfer and tracking. An additional TDRS, F1, provides dedicated support to the National Science Foundation (NSF) through the use of the WSC Alternate Relay Terminal (WART). Additional spare TDRSs may be in geosynchronous orbit.
+All first-generation TDRSs (F1–F7, also known as TDRS A–G) carry functionally identical payloads and all second-generation TDRSs (F8–F10, also known as TDRS H–J) carry functionally identical payloads.
+A third generation, TDRS K, L, and M were launched between 2013–2017.
+The figures identify the pertinent communications components and associated parameters of the orbiting relay platforms.
+
+
+== Coverage ==
+For spacecraft operating in a low Earth orbit (LEO) 73 km to 3000 km altitude, the SN is capable of providing tracking and data acquisition services over 100% of the spacecraft's orbit.  Spacecraft sent to more distant or exotic destinations rely on either Deep Space Network or their own custom, dedicated networks.
+
+
+== Network Control Center Data System ==
+The Network Control Center Data System (NCCDS) is an element of the SN ground segment. Collocated with the White Sands Tracking and Data Relay Satellite System, the NCCDS is the operations control facility for the network. It schedules most Space Network elements and supporting elements and provides interfaces for planning, acquisition, control, and status of the Space Network. The NCCDS is the point-of-contact between customers (who have satellites in orbit) and the Space Network for most scheduling and real-time performance. A customer may obtain Space Network support by submitting specific schedule requests to or establishing generic requirements with the NCCDS. The NCCDS translates customers’ requirements into specific TDRS communications and tracking events. Additionally, the NCCDS notifies affected customers of scheduled system outages so that Mission Operation Centers (MOCs) can properly plan mission activities. Upon MOC request, the NCCDS provides operational performance information (such as data presence monitoring indicators and data quality monitoring data) on scheduled services during actual support to determine if conditions exist that will affect data quality.
+The NCCDS issues Network Advisory Messages (NAMs) to provide up-to-date information on network conditions and constraints. These messages are accessible via the NCCDS active NAM web site. The Goddard Space Flight Center uses the NAMs as a means of letting customers know of any performance constraints associated with the TDRS spacecraft.
+
+
+== See also ==
+Deep Space Network
+Near Earth Network
+Indian Deep Space Network
+Tracking and Data Relay Satellite
+Eastern Range
+SCaN Program
+
+
+== References ==
+
+
+== External links ==
+NASA's Goddard Space Flight Center Space Network Official Page

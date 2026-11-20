@@ -1,0 +1,29 @@
+Gaofen (Chinese: 高分; pinyin: Gāofēn; lit. 'high resolution') is a series of Chinese high-resolution Earth imaging satellites launched as part of the China High-resolution Earth Observation System (CHEOS) program.  CHEOS is a state-sponsored, civilian Earth-observation program used for agricultural, disaster, resource, and environmental monitoring. Proposed in 2006 and approved in 2010, the CHEOS program consists of the Gaofen series of space-based satellites, near-space and airborne systems such as airships and UAVs, ground systems that conduct data receipt, processing, calibration, and taskings, and a system of applications that fuse observation data with other sources to produce usable information and knowledge.
+Although the first seven Gaofen satellites and their payloads have been heavily detailed, little to no details on Gaofen 8 and later satellites have been revealed prompting suggestions that Gaofen satellites may be dual purpose supporting both civilian and military missions.
+In 2003, the China National Space Administration (CNSA) agreed with Roscosmos to share Gaofen data for data from Russia's Earth observation satellites of similar capability. This agreement was expanded in August 2021 when leaders from BRICS space agencies agreed to share space-based remote sensing data.
+
+
+== Notable satellites ==
+
+
+=== Gaofen-5 ===
+Gaofen-5 has been lauded as the "flagship of the environment and atmosphere observation satellite in the CHEOS program". Launched on 8 May 2018 from Taiyuan Satellite Launch Center (TSLC) into Sun-synchronous orbit, Gaofen-5 carries six payloads: an Advanced Hyperspectral Imagery sensor (AHSI), Atmospheric Infrared Ultraspectral Sensor (AIUS), Directional Polarization Camera (DPC), Environment Monitoring Instrument (EMI), Greenhouse-gases Monitoring Instrument (GMI), and Visual and Infrared Multispectral Sensor (VIMS).
+The Advanced Hyperspectral Imagery (AHSI) sensor payload aboard Gaofen-5 claims to be the first space-based hyperspectral imaging sensor utilizing both convex grating spectrophotometry and a three concentric-mirror (Offner) configuration. The AHSI uses spectrophotometry to measure the light spectra reflected, transmitted, or emitted by an imaged object to detect or identify objects on the ground. In civilian applications, the AHSI allows analysts to conduct environmental monitoring and resource discovery while in a military application would allow analysts to detect and identify an adversary's equipment or spot non-multi-spectral camouflage. AHSI has a 30 meter spatial resolution and 5 nanometer spectral resolution in the visible, near-infrared (NIR), and short-wave infrared (SWIR) wavelength ranges.
+The Atmospheric Infrared Ultraspectral Sensor (AIUS) payload aboard Gaofen-5 is China's first hyperspectral occultation spectrometer meaning it measures the spectra of imaged atmospheric particles between the sensor and the Sun. AIUS allows scientists to monitor atmospheric circulation by tracing H2O (water vapor), temperature, pressure, and various carbon and halogen-containing gas pollutants such as chlorofluorocarbons (CFCs), dinitrogen pentoxide, and chlorine nitrate. A Michelson interferometer, AIUS images wavelengths between 2.4 and 13.3 micrometers (near to mid-wave infrared) at a 0.3 centimeter resolution and a ±10° field of view.
+Gaofen-5's Directional Polarimetric Camera (DPC) is China's first space-based multi-angle polarimetric camera. Prior to GF-5's launch, in September 2016, China had experimented with polarimetric imaging in 2016 aboard the Tiangong-2 space laboratory and launched its Cloud and Aerosol Polarimetric Imager (CAPI) aboard TanSat in December of that year. CAPI imaged clouds within 670 and 1640 nanometer channels but was restricted to fixed-angle imaging. The DPC aboard Gaofen-5 enables atmospheric spectroscopy in three polarized bands (90, 670, and 865 nm; polarized at 0°, 60°, and 120°) and five non-polarized bands (443, 565, 763, 765, and 910 nm), all wavelengths from green to near-infrared (NIR). A step motor rotates the 512 × 512 pixel charge-coupled device (CCD) imager ±50° providing a 1,850 km swath of imagery at 3.3 km resolution.
+
+
+== Satellites ==
+Since the program's start in 2013, the People's Republic of China has launched 32 Gaofen-series satellites with only one launch failure. Jilin-1 satellites described as 'Gaofen' are not part of the government's Gaofen series, rather are described as having high resolution (Chinese: 高分; pinyin: Gāofēn).
+
+
+== See also ==
+
+Yaogan
+Jilin-1
+Shijian
+China Siwei
+Fengyun
+
+
+== References ==

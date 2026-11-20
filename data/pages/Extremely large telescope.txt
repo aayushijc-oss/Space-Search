@@ -1,0 +1,51 @@
+An extremely large telescope (ELT) is an astronomical observatory featuring an optical telescope with an aperture for its primary mirror from 20 metres up to 100 metres across, when discussing reflecting telescopes of optical wavelengths including ultraviolet (UV), visible, and near infrared wavelengths. Among many planned capabilities, extremely large telescopes are planned to increase the chance of finding Earth-like planets around other stars. Telescopes for radio wavelengths can be much bigger physically, such as the 300 metres (330 yards) aperture fixed focus radio telescope of the Arecibo Observatory (now defunct). Freely steerable radio telescopes with diameters up to 100 metres (110 yards) have been in operation since the 1970s.
+These telescopes have a number of features in common, in particular the use of a segmented primary mirror (similar to the existing Keck telescopes), and the use of high-order adaptive optics systems.
+Despite the size of extremely large telescope designs, they can have smaller apertures than the aperture synthesis on many large optical interferometers. However, they may collect much more light, along with other advantages.
+
+
+== List of telescopes ==
+
+
+== Budget ==
+Possible budget figures, which are estimates and can vary over time. For construction costs, it is recommended to estimate the cost of a giant telescope with the relation cost ∝ D2.7.
+
+
+== Projects ==
+
+There were several telescopes in various stages in the 1990s and early 2000s, and some developed into construction projects.
+
+Under construction
+ELT: Extremely Large Telescope
+GMT: Giant Magellan Telescope
+Funded construction
+TMT: Thirty Meter Telescope
+Projects
+Some of these projects have been cancelled, or merged into ongoing extremely large telescopes.
+
+GSMT: Giant Segmented Mirror Telescope, merged into TMT
+OWL: Overwhelmingly Large Telescope, passed over in favor of ELT
+VLOT: Very Large Optical Telescope, merged into TMT
+LAT: Large Atacama Telescope
+EURO50: European 50-metre Telescope, merged into ELT
+LPT: Large Petal Telescope
+Magellan 20: merged into GMT
+HDRT: High Dynamic Range Telescope
+JELT: Japanese ELT Project; Japan joined the TMT project in 2008
+CELT: California Extremely Large Telescope, became/merged into TMT
+MAXAT: Maximum Aperture Telescope
+
+
+== See also ==
+List of largest optical reflecting telescopes
+List of telescope types
+
+
+== References ==
+
+
+== External links ==
+ Media related to Extremely large telescopes at Wikimedia Commons
+Australian National Workshop on Extremely Large Telescopes (ELTs)
+The OPTICON ELT Working Group Archived 2016-03-05 at the Wayback Machine a Europe-wide research project
+The science case for Extremely Large Telescopes (ELTs) from the Royal Observatory, Edinburgh
+Colossus Telescope

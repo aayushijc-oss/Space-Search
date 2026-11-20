@@ -1,0 +1,14 @@
+AIX (AI-eXpress) is a series of technology demonstration small satellites developed by the Italian company Planetek with support of the European Space Agency (ESA). The three satellites (AIX-1p, AIX-1, and AIX-1+) are designed to test various technologies in the areas of edge computing, machine learning, and blockchain for in-orbit data processing on Earth observation satellites. The project is supported by the ESA's InCubed co-funding programme.
+
+
+== Satellites ==
+
+
+== See also ==
+List of European Space Agency programmes and missions
+List of spaceflight launches in January–March 2025
+List of spaceflight launches in April–June 2025
+List of spaceflight launches in October–December 2025
+
+
+== References ==

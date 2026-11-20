@@ -1,0 +1,26 @@
+Barnard's Star b, or Barnard b, is a sub-Earth-mass exoplanet closely orbiting Barnard's Star, a nearby red dwarf star six light-years from Earth. The planet was discovered using radial velocity observations from the ESPRESSO spectrograph on the Very Large Telescope, and was announced on 1 October 2024. It is the second from its star of four known planets in its system.
+The designation "Barnard's Star b" was first used for a different planetary candidate announced in 2018, the existence of which was later refuted.
+
+
+== Characteristics ==
+Barnard b orbits close to its star, completing an orbit every 3.15 days at a distance of 0.023 AU (3.4 million km; 2.1 million mi). It orbits closer to the star than the habitable zone and so is too hot to be potentially habitable, with an estimated equilibrium temperature of 438 K (165 °C; 329 °F). Its orbital eccentricity is near zero, meaning its orbit is nearly circular.
+Barnard b is a sub-Earth, with a minimum mass of 0.3 times the mass of Earth, and is thus likely a rocky planet. Its true mass is uncertain since its orbital inclination is unknown. The radius of Barnard b is also unknown, and TESS observations show no evidence that it transits its host star, which would otherwise allow its radius to be measured. Based on mass-radius relationships, its radius is predicted to be about three-quarters that of Earth. The lack of a transit sets an upper limit of 87.9° on the orbital inclination. The discovery paper of Barnard b also found evidence for three additional planetary candidates, which were confirmed in 2025. These are all low-mass planets in close orbits, similar to Barnard b.
+
+
+== History of observations ==
+
+
+=== Refuted 2018 candidate ===
+In November 2018, an international team of astronomers led by Ignasi Ribas announced the detection by radial velocity of a candidate super-Earth orbiting Barnard's Star, which was referred to as Barnard's Star b. However, the existence of this planet was refuted in 2021, when the radial velocity signal was found to originate from long-term activity on the star itself, related to its rotation. Further studies in the following years confirmed this result.
+This planet was thought to orbit every 233 days at 0.4 AU, near the stellar system's snow line, and to have a minimum mass of 3.2 M🜨. The planet would have most likely been frigid, with an estimated equilibrium temperature of about 105 K (−168 °C; −271 °F), placing it outside its host star's presumed habitable zone.
+
+
+=== 2024 confirmation ===
+On 1 October 2024, the discovery of the planet now known as Barnard b was announced by a team of astronomers led by Jonay González Hernández, using radial velocity data from the ESPRESSO spectrograph on the Very Large Telescope. This constituted the first convincing evidence for a planet orbiting Barnard's Star. Additionally, three other candidate low-mass planets were proposed in this study, all orbiting closer to the star than the habitable zone. Barnard's Star b (or Barnard b) is a re-use of the designation originally used for the refuted super-Earth candidate.
+
+
+== See also ==
+List of nearest exoplanets
+
+
+== References ==

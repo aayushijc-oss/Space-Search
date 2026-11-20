@@ -1,0 +1,982 @@
+In mathematics, loop algebras are certain types of Lie algebras, of particular interest in theoretical physics.
+
+
+== Definition ==
+For a Lie algebra 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  
+ over a field 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  
+, if 
+  
+    
+      
+        K
+        [
+        t
+        ,
+        
+          t
+          
+            −
+            1
+          
+        
+        ]
+      
+    
+    {\displaystyle K[t,t^{-1}]}
+  
+ is the space of Laurent polynomials, then
+
+  
+    
+      
+        L
+        
+          
+            g
+          
+        
+        :=
+        
+          
+            g
+          
+        
+        ⊗
+        K
+        [
+        t
+        ,
+        
+          t
+          
+            −
+            1
+          
+        
+        ]
+        ,
+      
+    
+    {\displaystyle L{\mathfrak {g}}:={\mathfrak {g}}\otimes K[t,t^{-1}],}
+  
+
+with the inherited bracket
+
+  
+    
+      
+        [
+        X
+        ⊗
+        
+          t
+          
+            m
+          
+        
+        ,
+        Y
+        ⊗
+        
+          t
+          
+            n
+          
+        
+        ]
+        =
+        [
+        X
+        ,
+        Y
+        ]
+        ⊗
+        
+          t
+          
+            m
+            +
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle [X\otimes t^{m},Y\otimes t^{n}]=[X,Y]\otimes t^{m+n}.}
+  
+
+
+=== Geometric definition ===
+If 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  
+ is a Lie algebra, the tensor product of 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  
+ with C∞(S1), the algebra of (complex) smooth functions over the circle manifold S1 (equivalently, smooth complex-valued periodic functions of a given period),
+
+  
+    
+      
+        
+          
+            g
+          
+        
+        ⊗
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          S
+          
+            1
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle {\mathfrak {g}}\otimes C^{\infty }(S^{1}),}
+  
+
+is an infinite-dimensional Lie algebra with the Lie bracket given by
+
+  
+    
+      
+        [
+        
+          g
+          
+            1
+          
+        
+        ⊗
+        
+          f
+          
+            1
+          
+        
+        ,
+        
+          g
+          
+            2
+          
+        
+        ⊗
+        
+          f
+          
+            2
+          
+        
+        ]
+        =
+        [
+        
+          g
+          
+            1
+          
+        
+        ,
+        
+          g
+          
+            2
+          
+        
+        ]
+        ⊗
+        
+          f
+          
+            1
+          
+        
+        
+          f
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle [g_{1}\otimes f_{1},g_{2}\otimes f_{2}]=[g_{1},g_{2}]\otimes f_{1}f_{2}.}
+  
+
+Here g1 and g2 are elements of 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  
+ and f1 and f2 are elements of C∞(S1).
+This isn't precisely what would correspond to the direct product of infinitely many copies of 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  
+, one for each point in S1, because of the smoothness restriction. Instead, it can be thought of in terms of smooth map from S1 to 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  
+; a smooth parametrized loop in 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  
+, in other words. This is why it is called the loop algebra.
+
+
+== Gradation ==
+Defining 
+  
+    
+      
+        
+          
+            
+              g
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}_{i}}
+  
+ to be the linear subspace 
+  
+    
+      
+        
+          
+            
+              g
+            
+          
+          
+            i
+          
+        
+        =
+        
+          
+            g
+          
+        
+        ⊗
+        
+          t
+          
+            i
+          
+        
+        <
+        L
+        
+          
+            g
+          
+        
+        ,
+      
+    
+    {\displaystyle {\mathfrak {g}}_{i}={\mathfrak {g}}\otimes t^{i}<L{\mathfrak {g}},}
+  
+ the bracket restricts to a product
+  
+    
+      
+        [
+        ⋅
+        
+        ,
+        
+        ⋅
+        ]
+        :
+        
+          
+            
+              g
+            
+          
+          
+            i
+          
+        
+        ×
+        
+          
+            
+              g
+            
+          
+          
+            j
+          
+        
+        →
+        
+          
+            
+              g
+            
+          
+          
+            i
+            +
+            j
+          
+        
+        ,
+      
+    
+    {\displaystyle [\cdot \,,\,\cdot ]:{\mathfrak {g}}_{i}\times {\mathfrak {g}}_{j}\rightarrow {\mathfrak {g}}_{i+j},}
+  
+
+hence giving the loop algebra a 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+-graded Lie algebra structure.
+In particular, the bracket restricts to the 'zero-mode' subalgebra 
+  
+    
+      
+        
+          
+            
+              g
+            
+          
+          
+            0
+          
+        
+        ≅
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}_{0}\cong {\mathfrak {g}}}
+  
+.
+
+
+== Derivation ==
+
+There is a natural derivation on the loop algebra, conventionally denoted 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ acting as
+
+  
+    
+      
+        d
+        :
+        L
+        
+          
+            g
+          
+        
+        →
+        L
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle d:L{\mathfrak {g}}\rightarrow L{\mathfrak {g}}}
+  
+
+  
+    
+      
+        d
+        (
+        X
+        ⊗
+        
+          t
+          
+            n
+          
+        
+        )
+        =
+        n
+        X
+        ⊗
+        
+          t
+          
+            n
+          
+        
+      
+    
+    {\displaystyle d(X\otimes t^{n})=nX\otimes t^{n}}
+  
+
+and so can be thought of formally as 
+  
+    
+      
+        d
+        =
+        t
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle d=t{\frac {d}{dt}}}
+  
+.
+It is required to define affine Lie algebras, which are used in physics, particularly conformal field theory.
+
+
+== Loop group ==
+Similarly, a set of all smooth maps from S1 to a Lie group G forms an infinite-dimensional Lie group (Lie group in the sense we can define functional derivatives over it) called the loop group. The Lie algebra of a loop group is the corresponding loop algebra.
+
+
+== Affine Lie algebras as central extension of loop algebras ==
+
+If 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  
+ is a semisimple Lie algebra, then a nontrivial central extension of its loop algebra 
+  
+    
+      
+        L
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle L{\mathfrak {g}}}
+  
+ gives rise to an affine Lie algebra. Furthermore, this central extension is unique.
+The central extension is given by adjoining a central element 
+  
+    
+      
+        
+          
+            
+              k
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {k}}}
+  
+, that is, for all 
+  
+    
+      
+        X
+        ⊗
+        
+          t
+          
+            n
+          
+        
+        ∈
+        L
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle X\otimes t^{n}\in L{\mathfrak {g}}}
+  
+,
+
+  
+    
+      
+        [
+        
+          
+            
+              k
+              ^
+            
+          
+        
+        ,
+        X
+        ⊗
+        
+          t
+          
+            n
+          
+        
+        ]
+        =
+        0
+        ,
+      
+    
+    {\displaystyle [{\hat {k}},X\otimes t^{n}]=0,}
+  
+
+and modifying the bracket on the loop algebra to
+
+  
+    
+      
+        [
+        X
+        ⊗
+        
+          t
+          
+            m
+          
+        
+        ,
+        Y
+        ⊗
+        
+          t
+          
+            n
+          
+        
+        ]
+        =
+        [
+        X
+        ,
+        Y
+        ]
+        ⊗
+        
+          t
+          
+            m
+            +
+            n
+          
+        
+        +
+        m
+        B
+        (
+        X
+        ,
+        Y
+        )
+        
+          δ
+          
+            m
+            +
+            n
+            ,
+            0
+          
+        
+        
+          
+            
+              k
+              ^
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle [X\otimes t^{m},Y\otimes t^{n}]=[X,Y]\otimes t^{m+n}+mB(X,Y)\delta _{m+n,0}{\hat {k}},}
+  
+
+where 
+  
+    
+      
+        B
+        (
+        ⋅
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle B(\cdot ,\cdot )}
+  
+ is the Killing form.
+The central extension is, as a vector space, 
+  
+    
+      
+        L
+        
+          
+            g
+          
+        
+        ⊕
+        
+          C
+        
+        
+          
+            
+              k
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle L{\mathfrak {g}}\oplus \mathbb {C} {\hat {k}}}
+  
+ (in its usual definition, as more generally, 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  
+ can be taken to be an arbitrary field).
+
+
+=== Cocycle ===
+
+Using the language of Lie algebra cohomology, the central extension can be described using a 2-cocycle on the loop algebra. This is the map
+  
+    
+      
+        φ
+        :
+        L
+        
+          
+            g
+          
+        
+        ×
+        L
+        
+          
+            g
+          
+        
+        →
+        
+          C
+        
+      
+    
+    {\displaystyle \varphi :L{\mathfrak {g}}\times L{\mathfrak {g}}\rightarrow \mathbb {C} }
+  
+
+satisfying
+
+  
+    
+      
+        φ
+        (
+        X
+        ⊗
+        
+          t
+          
+            m
+          
+        
+        ,
+        Y
+        ⊗
+        
+          t
+          
+            n
+          
+        
+        )
+        =
+        m
+        B
+        (
+        X
+        ,
+        Y
+        )
+        
+          δ
+          
+            m
+            +
+            n
+            ,
+            0
+          
+        
+        .
+      
+    
+    {\displaystyle \varphi (X\otimes t^{m},Y\otimes t^{n})=mB(X,Y)\delta _{m+n,0}.}
+  
+
+Then the extra term added to the bracket is 
+  
+    
+      
+        φ
+        (
+        X
+        ⊗
+        
+          t
+          
+            m
+          
+        
+        ,
+        Y
+        ⊗
+        
+          t
+          
+            n
+          
+        
+        )
+        
+          
+            
+              k
+              ^
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \varphi (X\otimes t^{m},Y\otimes t^{n}){\hat {k}}.}
+  
+
+
+=== Affine Lie algebra ===
+In physics, the central extension 
+  
+    
+      
+        L
+        
+          
+            g
+          
+        
+        ⊕
+        
+          C
+        
+        
+          
+            
+              k
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle L{\mathfrak {g}}\oplus \mathbb {C} {\hat {k}}}
+  
+ is sometimes referred to as the affine Lie algebra. In mathematics, this is insufficient, and the full affine Lie algebra is the vector space
+  
+    
+      
+        
+          
+            
+              
+                g
+              
+              ^
+            
+          
+        
+        =
+        L
+        
+          
+            g
+          
+        
+        ⊕
+        
+          C
+        
+        
+          
+            
+              k
+              ^
+            
+          
+        
+        ⊕
+        
+          C
+        
+        d
+      
+    
+    {\displaystyle {\hat {\mathfrak {g}}}=L{\mathfrak {g}}\oplus \mathbb {C} {\hat {k}}\oplus \mathbb {C} d}
+  
+
+where 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ is the derivation defined above.
+On this space, the Killing form can be extended to a non-degenerate form, and so allows a root system analysis of the affine Lie algebra.
+
+
+== References ==

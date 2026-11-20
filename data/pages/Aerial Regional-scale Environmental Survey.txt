@@ -1,0 +1,28 @@
+The Aerial Regional-scale Environmental Survey (ARES) was a proposal by NASA's Langley Research Center to build a robotic, rocket-powered airplane that would fly one mile above the surface of Mars, in order to investigate the atmosphere, surface, and sub-surface of the planet.  The ARES team, headed by Dr. Joel S. Levine, sought to be selected and funded as a NASA Mars Scout Mission for a 2011 or 2013 launch window. ARES was chosen as one of four finalists in the program, out of 25 potential programs. However, the Phoenix mission was ultimately chosen instead.
+ARES would have traveled to Mars compactly folded into a protective aeroshell; upon entry in the thin atmosphere, the capsule would have deployed a parachute to decelerate, followed by ARES release at altitude.
+As well as the aforementioned goals, the aircraft would also have investigated the atmosphere of Mars and its weak magnetic field.
+
+
+== Goals ==
+ARES would have been able to measure the crustal magnetization, spatial variability, and field magnitude of Mars, as well as resolving the crustal magnetism source structure with a spatial resolution two orders of magnitude higher than the Mars Global Surveyor.
+ARES would also have allowed scientists to help determine the role of water vapor in the Mars atmospheric chemical cycle, and would have searched for potential biogenic gases, volcanic gases, and chemically active gases to determine their spatial distributions and to locate and/or constrain local sources and sinks. At the same time, ARES would have attempted to characterize the structure and dynamics of the Mars atmosphere's boundary layer, as well as its water-equivalent hydrogen abundance and ice burial depth over greatly improved spatial scales compared to past missions.
+
+
+== Design ==
+
+ARES would transit to Mars via a cruise stage and enter the Martian atmosphere in a traditional aeroshell with heat shield. At the right altitude it would unfold itself into its flight configuration. Propulsion would likely have come from a bipropellant rocket engine, which was a focus over other types of propulsion during its development, but propulsion remained undetermined. The two main criteria used to evaluate the propulsion system were flight range and implementation risk. Possible propulsion technologies were electrical motors, internal combustion and rocket systems.  The aircraft was intended to fly for about one hour.
+
+
+== See also ==
+AVIATR – Concept mission to Titan
+Dragonfly – Future NASA mission to Titan
+Mars airplane – Unmanned space aircraftPages displaying short descriptions of redirect targets
+Mars Helicopter Ingenuity
+
+
+== References ==
+
+
+== External links ==
+
+TEDtalk: Joel Levine - Why we need to go back to Mars.

@@ -1,0 +1,29 @@
+The LR91 was an American liquid-propellant rocket engine, which was used on the second stages of Titan intercontinental ballistic missiles and launch vehicles. While the original version - the LR91-3 - ran on RP-1/LOX (as did the companion LR87-3) on the Titan I, the models that propelled the Titan II and later were switched to Aerozine 50/N2O4.
+This engine was vacuum optimized and ran the gas-generator cycle. The thrust chamber used fuel for regenerative cooling, with separate ablative skirt. The LR87, which was used for the Titan first stage, was used as a template for the LR91.
+Early LR91 engines used on the Titan I burned RP-1 and liquid oxygen. Because liquid oxygen is cryogenic, it could not be stored in the missile for long periods of time, and had to be loaded before the missile could be launched. For the Titan II, the engine was converted to use Aerozine-50 and nitrogen tetroxide, which are hypergolic and storable at room temperature. This allowed Titan II missiles to be kept fully fueled and ready to launch on short notice.
+
+
+== Versions ==
+LR91-3: Titan I version. Run on RP-1/LOX.
+LR91-5: Titan II version. Propellant was switched to Aerozine 50, N2O4.
+LR91-7: Similar to LR91-5, it was used on Stage 2 of Gemini Titan II. This version was human rated.
+LR91-9: Used in earlier versions of Titan III upper stage.
+LR91-11: Version used on the Titan III and Titan IV.
+
+
+== See also ==
+
+AJ-10
+LR87
+Titan (rocket)
+Liquid-propellant rocket
+
+
+== References ==
+
+
+== External links ==
+
+Encyclopedia Astronautica
+National Museum of the USAF, Ohio
+Aerojet LR87
