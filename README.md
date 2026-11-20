@@ -28,7 +28,6 @@ Windows:
     pip install -r requirements.txt
     streamlit run app.py
 
-The app opens at http://localhost:8501.
 
 ## Data
 
